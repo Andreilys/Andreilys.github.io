@@ -46,6 +46,7 @@ font-size:200%;
 display: inline; 
 margin:6%;
 text-decoration:none;
+cursor:pointer;
 }
 
 
@@ -90,6 +91,21 @@ text-decoration:none;
     left:45%
 
 }
+
+
+/* About me description */
+.aboutMe {
+    background:white;
+  
+    box-shadow: 2px;
+}
+
+.aboutMe p {
+     font-weight:bold;
+
+
+}
+
 
 /* linkedin and contact info */
 

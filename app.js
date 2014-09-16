@@ -1,5 +1,8 @@
 $(document).ready(function(){
+			$(".scroll0").hover(function(){
+				cursor: pointer; 
 
+			});
 
             $(".scroll0").click(function (){
                 //$(this).animate(function(){
