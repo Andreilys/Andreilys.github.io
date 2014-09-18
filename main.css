@@ -102,9 +102,11 @@ text-decoration:none;
 
 .aboutMe p {
      font-weight:bold;
-
+    margin:2%;
 
 }
+
+
 
 
 /* linkedin and contact info */
@@ -117,9 +119,58 @@ text-decoration:none;
 
 .contact {
     position:relative;
-    left:50%;
+    left:38%;
+    padding:4%;
 }
 
 .aboutMe{
     margin:4%;
+}
+
+
+/* portfolio */
+
+#forex {
+    width:40%;
+    height:50%;
+    border:2px solid blue;
+    position:relative;
+    left:6%;
+    display:inline;
+}
+
+#eLiquid {
+      width:40%;
+    height:50%;
+    border:2px solid blue;
+    position:relative;
+    left:12%;
+    display:inline;
+}
+
+#hotCold {
+    margin-top:4%;
+     width:40%;
+    height:50%;
+    border:2px solid blue;
+    position:relative;
+    left:6%;
+}
+
+#queensCares {
+        width:40%;
+    height:50%;
+    border:2px solid blue;
+    position:relative;
+    left:12%;
+
+}
+
+#shoppingList{
+    margin-top:4%;
+    width:40%;
+    height:50%;
+    border:2px solid blue;
+    position:relative;
+    left:6%;
 }
