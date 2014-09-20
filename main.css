@@ -157,8 +157,8 @@ position:relative;
 /* portfolio */
 
 #forex {
-    width:40%;
-    height:50%;
+    width:396px;
+    height:182px;
     border:2px solid blue;
     position:relative;
     left:6%;
@@ -166,8 +166,8 @@ position:relative;
 }
 
 #eLiquid {
-      width:40%;
-    height:190px;;
+   width:396px;
+    height:182px;;
     border:2px solid blue;
     position:relative;
     left:12%;
@@ -176,8 +176,8 @@ position:relative;
 
 #hotCold {
     margin-top:4%;
-     width:40%;
-    height:50%;
+ width:396px;
+    height:182px;
     border:2px solid blue;
     position:relative;
     left:6%;
@@ -194,9 +194,37 @@ position:relative;
 
 #shoppingList{
     margin-top:4%;
-    width:414px;;
-    height:198px;;
+   width:396px;
+    height:182px;
     border:2px solid blue;
     position:relative;
     left:12%;
+}
+
+
+
+/*adding the description to images*/
+
+.imgWrap {
+  position: relative;
+  height: 200px;
+  width: 257px;
+}
+
+.imgDescription {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(29, 106, 154, 0.72);
+  color: #fff;
+
+
+  visibility: hidden;
+  opacity: 0;
+
+  /*remove comment if you want a gradual transition between states
+  -webkit-transition: visibility opacity 0.2s;
+  */
 }
