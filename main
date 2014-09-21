@@ -11,7 +11,7 @@
 /* background for website */
 
 html {
-    background:url("images/oavv3DC.jpg");
+    background:url("images/background.jpg");
 }
 
 
@@ -58,10 +58,10 @@ cursor:pointer;
 
 .intro {
     width: 100%;
-    
+   box-shadow: 10px 10px 5px #888888;
     height: 600px;
     border-radius: 8px;
-    background:url("images/toronto.jpg") no-repeat center center fixed; 
+    background:url("images/beach.jpg") no-repeat center center fixed; 
      -webkit-background-size: cover;
      -moz-background-size: cover;
      -o-background-size: cover;
@@ -110,20 +110,25 @@ div.transbox p {
 
 
 .profile {
+    border-radius:8px;
+    top:30px;
+    box-shadow: 10px 10px 5px #888888;
 left:38%;
 position:relative;
     width:20%;;
     height:50%;
-  padding:3%;
+
 }
 
 
 /* About me description */
 .aboutMe {
     background:white;  
+    border-radius:8px;
     box-shadow: 2px;
       border: 1px solid black;
     opacity: 0.9;
+    box-shadow: 10px 10px 5px #888888;
 }
 
 .aboutMe p {
@@ -131,8 +136,6 @@ position:relative;
     padding:4%;
 
 }
-
-
 
 
 /* linkedin and contact info */
@@ -158,6 +161,7 @@ position:relative;
 
 #forex {
     width:396px;
+    box-shadow: 10px 10px 5px #888888;
     height:182px;
     border:2px solid blue;
     position:relative;
@@ -167,6 +171,7 @@ position:relative;
 
 #eLiquid {
    width:396px;
+   box-shadow: 10px 10px 5px #888888;
     height:182px;;
     border:2px solid blue;
     position:relative;
@@ -181,6 +186,7 @@ position:relative;
     border:2px solid blue;
     position:relative;
     left:6%;
+    box-shadow: 10px 10px 5px #888888;
 }
 
 #queensCares {
@@ -199,37 +205,22 @@ position:relative;
     border:2px solid blue;
     position:relative;
     left:12%;
+    box-shadow: 10px 10px 5px #888888;
+}
+
+
+#forex, #eLiquid, #hotCold, #shoppingList {
+     border-radius:8px;
+    border:2px solid gold;  
+}
+
+
+/*fade in and fade out*/
+
+#imgDescription {
+    color:blue;
+    display:none;
 }
 
 
 
-/*adding the description to images*/
-
-.imgWrap {
-  position: relative;
-  height: 200px;
-  width: 257px;
-}
-
-.imgDescription {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  background: rgba(29, 106, 154, 0.72);
-  color: #fff;
-
-
-  visibility: hidden;
-  opacity: 0;
-
-  /*remove comment if you want a gradual transition between states
-  -webkit-transition: visibility opacity 0.2s;
-  */
-}
-
-.imgWrap:hover .imgDescription {
-  visibility: visible;
-  opacity: 1;
-}
