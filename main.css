@@ -61,7 +61,7 @@ cursor:pointer;
    box-shadow: 10px 10px 5px #888888;
     height: 600px;
     border-radius: 8px;
-    background:url("images/beach.jpg") no-repeat center center fixed; 
+    background:url("images/image.jpg") no-repeat center center fixed; 
      -webkit-background-size: cover;
      -moz-background-size: cover;
      -o-background-size: cover;
