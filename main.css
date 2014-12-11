@@ -10,8 +10,9 @@
 
 /* background for website */
 
-html {
-    background:url("images/background.jpg");
+#outboundLinkedin {
+    text-decoration:none;
+    color:blue;
 }
 
 
