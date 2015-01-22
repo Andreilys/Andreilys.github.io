@@ -1,7 +1,7 @@
 /* container */
 
 #container {
-    width:80%;
+    width:100%;
     max-width:1024px;
     margin:0 auto;
     overflow:hidden;
@@ -205,10 +205,13 @@ position:relative;
 }
 
 
-#shoppingList, #forex, #innerProgress, #hotCold {
+
+#shoppingList, #forex, #innerProgress, #hotCold, #resSoc, #innovateQueens {
     border:2px solid gold;
     border-radius:8px;
 }
+
+
 
 
 /*fade in and fade out*/
