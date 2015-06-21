@@ -1,106 +1,758 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<link rel="stylesheet" href="main.css">
-	<title>Andrei Lyskov Portfolio</title>
-	<link rel="icon" 
-      type="image/png" 
-      href="images/favicon.ico">
+<!doctype html>
+<html lang="en" class="no-js">
 
-	<meta charset="UTF-8">
-	<title>Document</title>
-	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-	<meta charset="UTF-8" />
-	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
-	<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-	
-		<meta name="description" content="" />
-		<meta name="keywords" content="" />
-<script src="app.js"></script>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no;">
+    <title>Privado | Interactive Personal Template</title>
+
+    <!-- Favicon-->
+	<link rel="shortcut icon" href="img/favicon.png" >
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="lib/magnific-popup/magnific-popup.css">
+    <link rel="stylesheet" href="lib/owl-carousel/owl.carousel.css">
+    <link rel="stylesheet" href="lib/owl-carousel/owl.theme.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/responsive.css">
+
+    <!-- Modernizr -->
+    <script src="js/modernizr.js"></script>
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
 </head>
 
 <body>
-	<div id="container">
-		
-		
+
+  <!-- Preloader --> 
+    <div id="preloader">
+      <div class="loader"></div>    
+    </div><!--preloader end-->
+
+    <main class="page-container">
+
+        <!-- Profile Page -->
+            <section class="single-page">
+
+                <!-- Profile Page Title-->
+                <header class="page-title">
+                    <span><i class="fa fa-user fa-3x"></i></span>
+                    <h2>Profile</h2>
+                    <p class="menu-desc">A Brief About Me...</p>
+                </header>
+                <!-- .page-title -->
+
+		    <!-- Profile Page Contents-->
+                <article class="page-info container-fluid">
+                 <!-- about me -->
+                    <section class="row about-me">
+                        <div class="col-sm-5 col-sm-offset-1 profile-image">
+                            <div class="pp-container">
+                                <img src="img/avatar.png" alt="">
+                            </div>
+                            <h2><span>Nazmul H.</span><span>Rupok</span></h2>
+                            <h3>Full Stack Web &amp; Mobile Application Developer</h3>
+                        
+                        </div>
+                        <!--.Profile image end-->
+
+                        <!-- bio-->
+                        <div class="col-sm-6 bio">
+                            <div class="bio-inner">
+                                <div class="col-md-10">
+                                    <h3>An Awesome Web Developer Located in your Earth!</h3>
+                                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+                                    <p> Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. </p>
+
+                                    <div class="buttons">
+                                        <a href="mailto:mail@yourmail.com" class="btn hire-me">Hire Me</a>
+                                        <a href="resume.pdf" target="_blank" class="btn download-resume">Download Resume</a>
+                                    </div>
+
+                                </div>
+                                </div>
+                        </div>
+                        <!-- .bio End -->
+                    </section>
+                    <!-- .about-me end-->
+
+                    <!-- services-->
+                    <section class="row services">
+                        <div class="over-div"></div>
+                        <div class="sec-divider"></div>
+                        <h2 class="section-title">Project you can offer</h2>
+
+                        <div class="container service-list">
+
+                            <div class="row">
+                                <div class="col-sm-6 col-md-3 service">
+                                    <span><i class="fa fa-lightbulb-o fa-3x"></i></span>
+                                    <h3>Idea</h3>
+                                    <p>Consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreeet doloremagna erat. </p>
+                                </div> <!--single service -->
+
+                                <div class="col-sm-6 col-md-3 service">
+                                    <span><i class="fa fa-code fa-3x"></i></span>
+                                    <h3>Web Development</h3>
+                                    <p>Consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreeet doloremagna erat. </p>
+                                </div><!--single service -->
+
+                                <div class="col-sm-6 col-md-3 service">
+                                    <span><i class="fa fa-android fa-3x"></i></span>
+                                    <h3>Android App</h3>
+                                    <p>Consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreeet doloremagna erat. </p>
+                                </div><!--single service -->
+
+                                <div class="col-sm-6 col-md-3 service">
+                                    <span><i class="fa fa-wordpress fa-3x"></i></span>
+                                    <h3>WordPress</h3>
+                                    <p>Consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreeet doloremagna erat. </p>
+                                </div><!--single service -->
+                            </div> <!-- row of services -->
+                        </div> <!-- service list-->
+
+                    </section>
+                    <!-- #Services end-->
+
+                    <section class="row fun-facts">
+                        <ul>
+                            <li>
+                                <h3>50+</h3>
+                                <h5>Happy Clients</h5>
+                            </li>
+                            <li>
+                                <h3><i class="fa fa-bicycle"></i></h3>
+                                <h5>Cyclist</h5>
+                            </li>
+                            <li>
+                                <h3>100+</h3>
+                                <h5>Projects Done</h5>
+                            </li>
+                            <li>
+                                <h3><i class="fa fa-camera-retro"></i></h3>
+                                <h5>Photographer</h5>
+                            </li>
+                            <li>
+                                <h3>200+</h3>
+                                <h5>Coffee Cups</h5>
+                            </li>
+                        </ul>
+                    </section>
+                    <!-- Fun facts end-->
+
+                    <footer class="row footer">
+                        <a href="http://www.rupok.me">Nazmul hasan Rupok</a> <span>Copyright &copy; 2014 All right reserved</span>
+                    </footer>
+                    <!--footer end-->
+
+                </article>
+                <!-- .page-info -->
+            </section> <!-- Single Page end -->
 
 
-		<div id="menu">
-			<ul>
-				<li class="scroll0">Andrei Lyskov</li>
-				<li class="scroll1">About Me</li>
-				<li class="scroll2">Portfolio</li >
-				<li class="scroll3">Contact</li>
-			</ul>
-		</div>
+            <!-- Resume Page -->
+
+            <section class="single-page">
+                <header class="page-title">
+                    <span><i class="fa fa-file-text fa-3x"></i></span>
+                    <h2>Resume</h2>
+                    <p class="menu-desc">My Academic Qualifications...</p>
+                </header>
+                <!-- .page-title -->
+
+			<!-- Resume Page Contents-->
+                <article class="page-info container-fluid">
+                    <section class="row resume">
+                        <div class="over-div"></div>
+                        <div class="container">
+                            <div class="col-xs-6 education">
+                                <h2>- Education -</h2>
+
+                                <ul class="edu-list">
+                                    <li>
+                                        <h3>University of Engineering</h3>
+                                        <h4>Bachelor of Science</h4>
+                                        <span>2007-2011</span>
+                                        <p>Donec ultrices faucibus rutrum. Phasellus sodales vulputate urna, vel accumsan augue egestas ac. Donec vitae leo at sem lobortis porttitor eu consequat risus.</p>
+                                    </li>
+                                    <li>
+                                        <h3>College of Awesomeness</h3>
+                                        <h4>A Level</h4>
+                                        <span>2005-2007</span>
+                                        <p>Donec ultrices faucibus rutrum. Phasellus sodales vulputate urna, vel accumsan augue egestas ac. Donec vitae leo at sem lobortis porttitor eu consequat risus.</p>
+                                    </li>
+                                    <li>
+                                        <h3>School of Amusement</h3>
+                                        <h4>O Level</h4>
+                                        <span>2000-2005</span>
+                                        <p>Donec ultrices faucibus rutrum. Phasellus sodales vulputate urna, vel accumsan augue egestas ac. Donec vitae leo at sem lobortis porttitor eu consequat risus.</p>
+                                    </li>
+                                </ul>
+                            </div>
+
+                            <div class="col-xs-6 employment">
+                                <h2>- Employment -</h2>
+
+                                <ul class="employment-list">
+                                    <li>
+                                        <h3>Fantasy IT Kingdom</h3>
+                                        <h4>Lead Developer</h4>
+                                        <span>Dec 2012 - Present</span>
+                                        <p>Donec ultrices faucibus rutrum. Phasellus sodales vulputate urna, vel accumsan augue egestas ac. Donec vitae leo at sem lobortis porttitor eu consequat risus. </p>
+                                    </li>
+                                    <li>
+                                        <h3>Awesome Softwares</h3>
+                                        <h4>Front-End Developer</h4>
+                                        <span>Jan 2012-Dec 2012</span>
+                                        <p>Donec ultrices faucibus rutrum. Phasellus sodales vulputate urna, vel accumsan augue egestas ac. Donec vitae leo at sem lobortis porttitor eu consequat risus.</p>
+                                    </li>
+                                    <li>
+                                        <h3>Amazing Developers</h3>
+                                        <h4>Intern Developer</h4>
+                                        <span>Jan 2011- Dec 2011</span>
+                                        <p>Donec ultrices faucibus rutrum. Phasellus sodales vulputate urna, vel accumsan augue egestas ac. Donec vitae leo at sem lobortis porttitor eu consequat risus.</p>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div> <!-- .container-->
+                    </section>
+                    <!-- Resume section end -->
+
+                    <section class="row skills">
+                        <div class="over-div"></div>
+                        <div class="sec-divider"></div>
+                        <h2 class="section-title">My Key Skills</h2>
+
+                            <div class='skill-container container'>
+                                <div class='row'>
+                                    <div class='col-xs-6 col-sm-4 skill'>
+                                        <figure>
+                                            <canvas height='150' id='html_css' width='150'></canvas>
+                                            <figcaption>
+                                                Semantic HTML5 &amp; CSS3
+                                            </figcaption>
+                                        </figure>
+                                    </div>
+                                    <div class='col-xs-6 col-sm-4 skill'>
+                                        <figure>
+                                            <canvas height='150' id='sass' width='150'></canvas>
+                                            <figcaption>
+                                                Sass
+                                            </figcaption>
+                                        </figure>
+                                    </div>
+                                    <div class='col-xs-6 col-sm-4 skill'>
+                                        <figure>
+                                            <canvas height='150' id='jquery' width='150'></canvas>
+                                            <figcaption>
+                                                jQuery
+                                            </figcaption>
+                                        </figure>
+                                    </div>
+
+                                    <div class='col-xs-6 col-sm-4 skill'>
+                                        <figure>
+                                            <canvas height='150' id='rails' width='150'></canvas>
+                                            <figcaption>
+                                                Ruby on Rails
+                                            </figcaption>
+                                        </figure>
+                                    </div>
+                                    <div class='col-xs-6 col-sm-4 skill'>
+                                        <figure>
+                                            <canvas height='150' id='backbone' width='150'></canvas>
+                                            <figcaption>
+                                                Backbone.js
+                                            </figcaption>
+                                        </figure>
+                                    </div>
+                                    <div class='col-xs-6 col-sm-4 skill'>
+                                        <figure>
+                                            <canvas height='150' id='photoshop' width='150'></canvas>
+                                            <figcaption>
+                                                Photoshop
+                                            </figcaption>
+                                        </figure>
+                                    </div>
+                                </div> <!-- row end--> 
+                            </div> <!-- Skill container -->
+                    </section>
+                    <!-- Skills Section end -->
+
+                    <section class="row recognition">
+                        <div class="col-sm-6 rec-desc">
+                            <div class="rec-inner">
+                                <h2>Recognition</h2>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum. </p>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 rec-list">
+                            <ul>
+                                <li>
+                                    <span class="fa fa-trophy fa-5x pull-left fa-fw"></span>
+                                    <h3>App Development Contest</h3>
+                                    <h5>Winner</h5>
+                                    <h4>Dhaka, Bangladesh</h4>
+                                </li>
+
+                                <li>
+                                    <span class="fa fa-trophy fa-5x pull-left fa-fw"></span>
+                                    <h3>Best Front-End Developers Award</h3>
+                                    <h5>Top Front-End Developer</h5>
+                                    <h4>San Fransisco, USA</h4>
+                                </li>
+
+                                <li>
+                                    <span class="fa fa-trophy fa-5x pull-left fa-fw"></span>
+                                    <h3>Awesome UI/UX Designers Award</h3>
+                                    <h5>Best UI/UX Designer</h5>
+                                    <h4>New York, USA</h4>
+                                </li>
+
+                                <li>
+                                    <span class="fa fa-microphone fa-5x pull-left fa-fw"></span>
+                                    <h3>UX Conference</h3>
+                                    <h5>Speaker</h5>
+                                    <h4>Dhaka, Bangladesh</h4>
+                                </li>
+                            </ul>
+                        </div>
+                    </section>
+                    <!-- Recognition section end -->
+
+                    <footer class="row footer">
+                        <a href="http://www.rupok.me">Nazmul hasan Rupok</a> <span>Copyright &copy; 2014 All right reserved</span>
+                    </footer>
+                    <!--footer end-->
+
+                </article>
+                <!-- .page-info -->
+            </section><!-- Single Page end -->
 
 
-		<div class="intro">
-  			<div class="transbox">
-   				 <p>Welcome to my portfolio page!<br>
-   				 Feel free to connect with me on <a id="outboundLinkedin" href="http://bit.ly/AndreiConnect">Linkedin.</a></p>
- 			 </div>
-		</div>
+            <!-- Portfolio Page -->
 
-	
-<img class="profile" src="images/2mj043S.jpg">
-		<div class="aboutMe">
-			<p>I have a keen interest and passion about startups, technology, and the future. I'm currently working a summer internship in Beijing, for IBM. I'll be leading product growth and strategy for Big Data University (www.bigdatauniversity.com), where I will be in charge of expanding into the Chinese market.<br><br>
+            <section class="single-page">
+                <header class="page-title">
+                    <span><i class="fa fa-briefcase fa-3x"></i></span>
+                    <h2>Portfolio</h2>
+                    <p class="menu-desc">Some of My Works...</p>
+                </header>
+                <!-- .page-title -->
 
-			With regards to my business experience, I was a McDonalds manager at the age of 17, where I learned the value of hard work and tenacity. I took those skills and applied them in my first year of University where I managed all aspects of a small business and led a team of 8 painters to make revenues of $86,000. I'm currently entering my third year now, where I am helping develop the startup scene with a new initiative called <i>Innovate Queens</i> which aims to bring together innovators and entrepreneurs regardless of age, experience or faculty.<br><br>
+			<!-- Portfolio Page Contents-->
+                <article class="page-info container-fluid">
+                    <section class="row portfolios">
+                        <div class="portfolio-container">
 
-			As you can tell, I'm somebody who always loves to stay busy, whether that be working on a side project, talking to new people, or exploring any one of my numerous hobbies, which range from meditation, reading, playing guitar to working out. Feel free to reach out to me if you'd like to chat, I always love to meet new people and can help you wherever I can!</p>
+                            <div class="controls">
+                                <button class="filter" data-filter="all">All</button>
+                                <button class="filter" data-filter=".category-1">Web Design</button>
+                                <button class="filter" data-filter=".category-2">App Development</button>
+                                <button class="filter" data-filter=".category-3">Gaphic Design</button>
+                            </div>
 
-		</div>
+                            <div id="portfolio" class="portfolio-items">
+
+                                <!--Single portfolio item -->
+                                <div class="col-sm-6 col-md-4 mix category-1" data-myorder="Web Design">
+                                    <figure class="effect-roxy">
+                                        <img src="img/portfolio/thumb/placeholder_thumb.jpg" alt="" />
+                                        <figcaption>
+                                            <h2>Project <span>Title</span></h2>
+                                            <p>Your Awesome Project Description</p>
+                                            <a href="#portfolio1" class="open-portfolio" >Explore</a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                                <!-- Popup content -->
+                                <div id="portfolio1" class="white-popup mfp-hide">
+                                    <img src="img/portfolio/placeholder.jpg" alt="Portfolio Image">
+                                    <h2 class="project-title">Awesome Project Title</h2>
+                                    <p class="project-desc">Lorem ipsum dolor sit amet, quo ut reque putent. Per saperet torquatos temporibus te. Nam nulla fabellas similique id, eruditi accusamus sit ex. Modo aliquid elaboraret nam id, in vel illud numquam. Evertitur consetetur voluptatum pri id, in scaevola vulputate cum. Ea vis mazim accusam, vix ea tale appareat.</p>
+                                    <a class="project-url btn" href="#">See Live</a>
+                                </div>
+                                <!--.Single item end-->
+
+                                <!--Single portfolio item -->
+                                <div class="col-sm-6 col-md-4 mix category-2" data-myorder="App Development">
+                                    <figure class="effect-roxy">
+                                        <img src="img/portfolio/thumb/placeholder_thumb.jpg" alt="" />
+                                        <figcaption>
+                                            <h2>Project <span>Title</span></h2>
+                                            <p>Your Awesome Project Description</p>
+                                            <a href="#portfolio2" class="open-portfolio" >Explore</a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                                <!-- Popup content -->
+                                <div id="portfolio2" class="white-popup mfp-hide">
+                                    <img src="img/portfolio/placeholder.jpg" alt="Portfolio Image">
+                                    <h2 class="project-title">Awesome Project Title</h2>
+                                    <p class="project-desc">Lorem ipsum dolor sit amet, quo ut reque putent. Per saperet torquatos temporibus te. Nam nulla fabellas similique id, eruditi accusamus sit ex. Modo aliquid elaboraret nam id, in vel illud numquam. Evertitur consetetur voluptatum pri id, in scaevola vulputate cum. Ea vis mazim accusam, vix ea tale appareat.</p>
+                                    <a class="project-url btn" href="#">See Live</a>
+                                </div>
+                                <!--.Single item end-->
+
+                                <!--Single portfolio item -->
+                                <div class="col-sm-6 col-md-4 mix category-3" data-myorder="Graphic Design">
+                                    <figure class="effect-roxy">
+                                        <img src="img/portfolio/thumb/placeholder_thumb.jpg" alt="" />
+                                        <figcaption>
+                                            <h2>Project <span>Title</span></h2>
+                                            <p>Your Awesome Project Description</p>
+                                            <a href="#portfolio3" class="open-portfolio" >Explore</a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                                <!-- Popup content -->
+                                <div id="portfolio3" class="white-popup mfp-hide">
+                                    <img src="img/portfolio/placeholder.jpg" alt="Portfolio Image">
+                                    <h2 class="project-title">Awesome Project Title</h2>
+                                    <p class="project-desc">Lorem ipsum dolor sit amet, quo ut reque putent. Per saperet torquatos temporibus te. Nam nulla fabellas similique id, eruditi accusamus sit ex. Modo aliquid elaboraret nam id, in vel illud numquam. Evertitur consetetur voluptatum pri id, in scaevola vulputate cum. Ea vis mazim accusam, vix ea tale appareat.</p>
+                                    <a class="project-url btn" href="#">See Live</a>
+                                </div>
+                                <!--.Single item end-->
+
+                                <!--Single portfolio item -->
+                                <div class="col-sm-6 col-md-4 mix category-1" data-myorder="Web Design">
+                                    <figure class="effect-roxy">
+                                        <img src="img/portfolio/thumb/placeholder_thumb.jpg" alt="" />
+                                        <figcaption>
+                                            <h2>Project <span>Title</span></h2>
+                                            <p>Your Awesome Project Description</p>
+                                            <a href="#portfolio4" class="open-portfolio" >Explore</a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                                <!-- Popup content -->
+                                <div id="portfolio4" class="white-popup mfp-hide">
+                                    <img src="img/portfolio/placeholder.jpg" alt="Portfolio Image">
+                                    <h2 class="project-title">Awesome Project Title</h2>
+                                    <p class="project-desc">Lorem ipsum dolor sit amet, quo ut reque putent. Per saperet torquatos temporibus te. Nam nulla fabellas similique id, eruditi accusamus sit ex. Modo aliquid elaboraret nam id, in vel illud numquam. Evertitur consetetur voluptatum pri id, in scaevola vulputate cum. Ea vis mazim accusam, vix ea tale appareat.</p>
+                                    <a class="project-url btn" href="#">See Live</a>
+                                </div>
+                                <!--.Single item end-->
+
+                                <!--Single portfolio item -->
+                                <div class="col-sm-6 col-md-4 mix category-2" data-myorder="App Development">
+                                    <figure class="effect-roxy">
+                                        <img src="img/portfolio/thumb/placeholder_thumb.jpg" alt="" />
+                                        <figcaption>
+                                            <h2>Project <span>Title</span></h2>
+                                            <p>Your Awesome Project Description</p>
+                                            <a href="#portfolio5" class="open-portfolio" >Explore</a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                                <!-- Popup content -->
+                                <div id="portfolio5" class="white-popup mfp-hide">
+                                    <img src="img/portfolio/placeholder.jpg" alt="Portfolio Image">
+                                    <h2 class="project-title">Awesome Project Title</h2>
+                                    <p class="project-desc">Lorem ipsum dolor sit amet, quo ut reque putent. Per saperet torquatos temporibus te. Nam nulla fabellas similique id, eruditi accusamus sit ex. Modo aliquid elaboraret nam id, in vel illud numquam. Evertitur consetetur voluptatum pri id, in scaevola vulputate cum. Ea vis mazim accusam, vix ea tale appareat.</p>
+                                    <a class="project-url btn" href="#">See Live</a>
+                                </div>
+                                <!--.Single item end-->
+
+                                <!--Single portfolio item -->
+                                <div class="col-sm-6 col-md-4 mix category-3" data-myorder="Graphic Design">
+                                    <figure class="effect-roxy">
+                                        <img src="img/portfolio/thumb/placeholder_thumb.jpg" alt="" />
+                                        <figcaption>
+                                            <h2>Project <span>Title</span></h2>
+                                            <p>Your Awesome Project Description</p>
+                                            <a href="#portfolio6" class="open-portfolio" >Explore</a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                                <!-- Popup content -->
+                                <div id="portfolio6" class="white-popup mfp-hide">
+                                    <img src="img/portfolio/placeholder.jpg" alt="Portfolio Image">
+                                    <h2 class="project-title">Awesome Project Title</h2>
+                                    <p class="project-desc">Lorem ipsum dolor sit amet, quo ut reque putent. Per saperet torquatos temporibus te. Nam nulla fabellas similique id, eruditi accusamus sit ex. Modo aliquid elaboraret nam id, in vel illud numquam. Evertitur consetetur voluptatum pri id, in scaevola vulputate cum. Ea vis mazim accusam, vix ea tale appareat.</p>
+                                    <a class="project-url btn" href="#">See Live</a>
+                                </div>
+                                <!--.Single item end-->
+
+                                <!--Single portfolio item -->
+                                <div class="col-sm-6 col-md-4 mix category-1" data-myorder="Graphic Design">
+                                    <figure class="effect-roxy">
+                                        <img src="img/portfolio/thumb/placeholder_thumb.jpg" alt="" />
+                                        <figcaption>
+                                            <h2>Project <span>Title</span></h2>
+                                            <p>Your Awesome Project Description</p>
+                                            <a href="#portfolio7" class="open-portfolio" >Explore</a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                                <!-- Popup content -->
+                                <div id="portfolio7" class="white-popup mfp-hide">
+                                    <img src="img/portfolio/placeholder.jpg" alt="Portfolio Image">
+                                    <h2 class="project-title">Awesome Project Title</h2>
+                                    <p class="project-desc">Lorem ipsum dolor sit amet, quo ut reque putent. Per saperet torquatos temporibus te. Nam nulla fabellas similique id, eruditi accusamus sit ex. Modo aliquid elaboraret nam id, in vel illud numquam. Evertitur consetetur voluptatum pri id, in scaevola vulputate cum. Ea vis mazim accusam, vix ea tale appareat.</p>
+                                    <a class="project-url btn" href="#">See Live</a>
+                                </div>
+                                <!--.Single item end-->
+
+                                <!--Single portfolio item -->
+                                <div class="col-sm-6 col-md-4 mix category-2" data-myorder="Graphic Design">
+                                    <figure class="effect-roxy">
+                                        <img src="img/portfolio/thumb/placeholder_thumb.jpg" alt="" />
+                                        <figcaption>
+                                            <h2>Project <span>Title</span></h2>
+                                            <p>Your Awesome Project Description</p>
+                                            <a href="#portfolio8" class="open-portfolio" >Explore</a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                                <!-- Popup content -->
+                                <div id="portfolio8" class="white-popup mfp-hide">
+                                    <img src="img/portfolio/placeholder.jpg" alt="Portfolio Image">
+                                    <h2 class="project-title">Awesome Project Title</h2>
+                                    <p class="project-desc">Lorem ipsum dolor sit amet, quo ut reque putent. Per saperet torquatos temporibus te. Nam nulla fabellas similique id, eruditi accusamus sit ex. Modo aliquid elaboraret nam id, in vel illud numquam. Evertitur consetetur voluptatum pri id, in scaevola vulputate cum. Ea vis mazim accusam, vix ea tale appareat.</p>
+                                    <a class="project-url btn" href="#">See Live</a>
+                                </div>
+                                <!--.Single item end-->
+                                
+                                <!--Single portfolio item -->
+                                <div class="col-sm-6 col-md-4 mix category-1" data-myorder="Web Design">
+                                    <figure class="effect-roxy">
+                                        <img src="img/portfolio/thumb/placeholder_thumb.jpg" alt="" />
+                                        <figcaption>
+                                            <h2>Project <span>Title</span></h2>
+                                            <p>Your Awesome Project Description</p>
+                                            <a href="#portfolio9" class="open-portfolio" >Explore</a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                                <!-- Popup content -->
+                                <div id="portfolio9" class="white-popup mfp-hide">
+                                    <img src="img/portfolio/placeholder.jpg" alt="Portfolio Image">
+                                    <h2 class="project-title">Awesome Project Title</h2>
+                                    <p class="project-desc">Lorem ipsum dolor sit amet, quo ut reque putent. Per saperet torquatos temporibus te. Nam nulla fabellas similique id, eruditi accusamus sit ex. Modo aliquid elaboraret nam id, in vel illud numquam. Evertitur consetetur voluptatum pri id, in scaevola vulputate cum. Ea vis mazim accusam, vix ea tale appareat.</p>
+                                    <a class="project-url btn" href="#">See Live</a>
+                                </div>
+                                <!--.Single item end-->
+                            </div>
+                            
+                            <!--Load more button-->
+                            <a href="#" class="btn btn-load-more">Load More</a>
+                        </div>
+                        <!-- .portfolio-container -->
+                    </section>
+                    <!-- portfolio section end-->
 
 
+                    <!-- Testimonials Section
+			   ================================================== -->
+                    <section class="row testimonials">
+                        <div class="over-div"></div>
+                        <div class="sec-divider"></div>
+                        <h2 class="section-title">Some of my happy clients</h2>
 
-		<div class="portfolio">
-		
-			<a href="http://andreilys.github.io/forexQuiz/" title="Full Image"> 
-				<img id="forex"src="images/forexquiz.jpg">
-			</a>
-		
-			<a href="http://andreilys.github.io/hotCold/" title="Full Image"> 
-				<img id="hotCold"src="images/hotcold.png">
-			</a>
-		
-			<a href="http://andreilys.github.io/shoppingList/" title="Full Image"> 
-				<img id="shoppingList"src="images/shoppinglist.png">
-			</a>
+                        <div class="col-md-8 col-md-offset-2 text-container">
+                            <div id="testimonial-slides" class="owl-carousel">
+                                <div>
+                                    <blockquote>
+                                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer</p>
+                                        <cite> Jonathan Doe</cite>
+                                    </blockquote>
+                                </div>
+                                <!-- Single testimonial -->
 
-			<a href="http://www.innerprogression.com" title="Full Image"> 
-				<img id="innerProgress" src="images/innerprogress.png">
-			</a>
+                                <div>
+                                    <blockquote>
+                                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer</p>
+                                        <cite> Jane Doe</cite>
+                                    </blockquote>
+                                </div>
+                                <!-- Single testimonial -->
 
-			<a href="" title="resSoc">
-				<img id="resSoc" src="">
-			</a>
+                                <div>
+                                    <blockquote>
+                                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer</p>
+                                        <cite> John Doe</cite>
+                                    </blockquote>
+                                </div>
+                                <!-- Single testimonial -->
 
-			<a href="" title="Innovate Queens">
-				<img id="innovateQueens" src="">
-			</a>
-			
-		
-			<p class="forexPopup">See if you can get 5/5 on my Forex Quiz!</p>
-			<p class="hotColdPopup">Try your luck at guessing the correct number!</p>
-			<p class="shoppingListPopup">Keep track of all your groceries with this handy list</p>
-			<p class="innerprogressionPopup">Get motivated by reading my self development articles</p>
-		</div>
-	
-		
+                            </div>
+                            <!-- Owl Carousel End -->
+                        </div>
+                        <!-- text-container ends -->
 
-		<div class="contact">
-			<a href="https://www.linkedin.com/pub/andrei-lyskov/76/853/258"><img class="linkedin" src="images/linkedin.jpg"></a>
-			<a href="mailto:&#97;&#110;&#100;&#114;&#101;&#105;&#108;&#121;&#115;&#107;&#111;&#118;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;"><img class="email" src="images/mail.jpg"></a>
-			<a href="https://github.com/Andreilys"><img class="github" src="images/github.jpg"></a>
-
-		</div>
+                    </section>
+                    <!-- Testimonials Section End-->
 
 
+                    <section class="row fun-facts">
+                        <ul>
+                            <li>
+                                <h3>50+</h3>
+                                <h5>Happy Clients</h5>
+                            </li>
+                            <li>
+                                <h3> <i class="fa fa-bicycle"></i> </h3>
+                                <h5>Cyclist</h5>
+                            </li>
+                            <li>
+                                <h3>100+</h3>
+                                <h5>Projects Done</h5>
+                            </li>
+                            <li>
+                                <h3> <i class="fa fa-camera-retro"></i> </h3>
+                                <h5>Photographer</h5>
+                            </li>
+                            <li>
+                                <h3>200+</h3>
+                                <h5>Coffee Cups</h5>
+                            </li>
+                        </ul>
+                    </section>
+                    <!-- Fun facts end-->
+
+                    <footer class="row footer">
+                        <a href="http://www.rupok.me">Nazmul hasan Rupok</a> <span>Copyright &copy; 2014 All right reserved</span>
+                    </footer>
+                </article>
+                <!-- .page-info -->
+            </section><!-- Single Page end -->
 
 
-	</div>
+            <!-- Contact Page-->
 
+            <section class="single-page">
+                <header class="page-title">
+                    <span><i class="fa fa-paper-plane fa-3x"></i></span>
+                    <h2>Contact</h2>
+                    <p class="menu-desc">Way to Reach Me...</p>
+                </header>
+                <!-- .page-title -->
+
+			<!-- Contact Page Contents-->
+                <article class="page-info container-fluid">
+                    <section class="row contact">
+                        <div class="over-div"></div>
+                        <div class="sec-divider"></div>
+                        <h2 class="section-title">Drop me a line</h2>
+
+                        <!-- form -->
+                        <section class="row"> 
+                            <div class="col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3 form-container">
+                                <form action="#" id="contactForm" method="post" name="contactForm">
+                                    <fieldset>
+                                        <div>
+                                            <input id="contactName" name="contactName" placeholder="Name_" size="35" type="text" value="">
+                                        </div>
+
+                                        <div>
+                                            <input id="contactEmail" name="contactEmail" placeholder="Email_" size="35" type="email" value="">
+                                        </div>
+
+                                        <div>
+                                            <textarea cols="5" id="contactMessage" name="contactMessage" placeholder="Message_" rows="5"></textarea>
+                                        </div>
+
+                                        <div>
+                                            <!-- contact-warning -->
+
+                                            <div id="message-warning">
+                                                Error boy
+                                            </div>
+                                            <button class="submit">Send <i class="fa fa-angle-right"></i>
+                                            </button>
+                                            <span id="image-loader"><img alt="" src="img/svg-loaders/mail-loader.svg"></span>
+                                        </div>
+                                    </fieldset>
+                                </form>
+                                <!-- Form End -->
+                                <!-- contact-success -->
+
+                                <div id="message-success">
+                                    <i class="fa fa-check"></i>Your message was sent, thank you!
+                                    <br>
+                                </div>
+                            </div>
+                       </section>
+                        <!-- Form Container End -->
+
+
+                        <section class="row social">
+                            <div class="col-md-6 address">
+                                <div class="row location">
+                                    <div class="col-md-12 col-lg-10 col-lg-offset-1">
+                                        <ul>
+                                            <li>
+                                                <img src="img/icons/location-map.svg" alt="">
+                                                <h4>Dhaka, Bangladesh</h4>
+                                            </li>
+                                            <li>
+                                                <img src="img/icons/phone-icon.svg" alt="">
+                                                <h4>+880 123 456 789</h4>
+                                            </li>
+                                            <li>
+                                                <img src="img/icons/email-icon.svg" alt="">
+                                                <h4>mail@rupok.me</h4>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+
+                                <nav class="row social-profiles">
+                                    <div class="col-md-12 col-lg-9 col-lg-offset-2">
+                                        <ul>
+                                            <li><a href="#"><i class="fa fa-facebook fa-2x"></i></a>
+                                            </li>
+                                            <li><a href="#"><i class="fa fa-twitter fa-2x"></i></a>
+                                            </li>
+                                            <li><a href="#"><i class="fa fa-google-plus fa-2x"></i></a>
+                                            </li>
+                                            <li><a href="#"><i class="fa fa-github fa-2x"></i></a>
+                                            </li>
+                                            <li><a href="#"><i class="fa fa-dribbble fa-2x"></i></a>
+                                            </li>
+                                            <li><a href="#"><i class="fa fa-slideshare fa-2x"></i></a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </nav>
+                            </div>
+                            <div class="col-md-6 map-container">
+                                <div id="map"></div>
+                            </div>
+
+                        </section>
+                        <!--Social End-->
+                    </section>
+                    <!--Contact End-->
+                    <footer class="row footer">
+                        <a href="http://www.rupok.me">Nazmul hasan Rupok</a> <span>Copyright &copy; 2014 All right reserved</span>
+                    </footer>
+
+                </article>
+                <!-- .page-info -->
+            </section><!-- Single Page end -->
+
+        <a href="#" class="page-close">Close</a>
+        <a href="#" class="page-scroll">Scroll</a>
+    </main>
+    <!-- .page-container -->
+
+    <!-- JavaScripts -->
+    <script src="js/jquery-2.1.1.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&AMP;sensor=false"></script>
+    <script src="js/gmaps.js"></script>
+    <script src="lib/magnific-popup/jquery.magnific-popup.js"></script>
+    <script src="lib/mixitup/jquery.mixitup.js"></script>
+    <script src="lib/owl-carousel/owl.carousel.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/0.2.0/Chart.min.js"></script>
+    <script src="js/scripts.js"></script>
 </body>
+
 </html>
