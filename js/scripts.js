@@ -135,41 +135,38 @@ jQuery(document).ready(function($) {
             value: 5,
             color: "#fff"
         }],
-        sass: [{
+        Sales [{
             value: 90,
             color: "#404148"
         }, {
             value: 10,
             color: "#fff"
         }],
-        jquery: [{
-            value: 90,
+        jiOS: [{
+            value: 70,
             color: "#404148"
         }, {
             value: 10,
             color: "#fff"
         }],
-        rails: [{
-            value: 60,
+        Marketing: [{
+            value: 90,
             color: "#404148"
         }, {
             value: 40,
             color: "#fff"
         }],
-        backbone: [{
-            value: 50,
+        Leadership: [{
+            value: 90,
             color: "#404148"
         }, {
             value: 50,
             color: "#fff"
         }],
-        photoshop: [{
+        Fundraising: [{
             value: 75,
             color: "#404148"
-        }, {
-            value: 25,
-            color: "#fff"
-        }]
+        }
     };
 
     var offset = 0;
@@ -193,8 +190,8 @@ jQuery(document).ready(function($) {
     map = new GMaps({
         position: "TOP_CENTER",
         el: '#map',
-        lat: 23.790223,
-        lng: 90.414036,
+        lat: 37.7833,
+        lng: 122.4167,
         zoom: 13,
         zoomControl: true,
         zoomControlOpt: {
