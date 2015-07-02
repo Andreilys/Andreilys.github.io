@@ -93,7 +93,7 @@ jQuery(document).ready(function($) {
         midClick: true,
         zoom: {
             enabled: true,
-            duration: 300, // duration of the effect, in milliseconds
+            duration: 100, // duration of the effect, in milliseconds
             easing: 'ease-in-out' // CSS transition easing function 
         }
     });
@@ -193,8 +193,8 @@ jQuery(document).ready(function($) {
     map = new GMaps({
         position: "TOP_CENTER",
         el: '#map',
-        lat: 23.790223,
-        lng: 90.414036,
+        lat: 37.7833,
+        lng: -122.4167,
         zoom: 13,
         zoomControl: true,
         zoomControlOpt: {
@@ -210,7 +210,7 @@ jQuery(document).ready(function($) {
         lng: 90.414036,
         title: 'Codetic',
         infoWindow: {
-            content: '<p> Mirpur , Dhaka</p>'
+            content: '<p> San Fransisco , CA</p>'
         }
     });
 
