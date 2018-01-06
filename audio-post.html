@@ -1,0 +1,313 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Audio Posts Page</title>
+	<meta name="description" content="Picard Html vCard">
+    <meta name="keywords" content="business, personal, portfolio">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="css/bootstrap.css"/> <!-- bootstrap grid -->
+    <link rel="stylesheet" href="css/style.css"/> <!-- template css -->
+    <link rel="stylesheet" href="css/reset.css"/> <!-- reset css -->
+    <link href="perfect-scrollbar/perfect-scrollbar.css" rel="stylesheet" /> <!-- right menu scrollbar css -->   
+    
+     <!-- Color Alternatives -->   
+    <link href="css/colors/switcher.css" rel="stylesheet" type="text/css">
+    <link href="css/colors/color-1.css" rel="stylesheet" type="text/css">
+    <link href="css/colors/color-2.css" rel="alternate stylesheet" type="text/css" title="color-2">
+    <link href="css/colors/color-3.css" rel="alternate stylesheet" type="text/css" title="color-3">
+    <link href="css/colors/color-4.css" rel="alternate stylesheet" type="text/css" title="color-4">
+    <link href="css/colors/color-5.css" rel="alternate stylesheet" type="text/css" title="color-5">
+    <link href="css/colors/color-6.css" rel="alternate stylesheet" type="text/css" title="color-6">
+    <link href="css/colors/color-7.css" rel="alternate stylesheet" type="text/css" title="color-7">
+    <link href="css/colors/color-8.css" rel="alternate stylesheet" type="text/css" title="color-8">
+    
+    <!-- Google Web fonts -->
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,700,900' rel='stylesheet' type='text/css'>
+    
+    <!-- Font icons -->
+    <link rel="stylesheet" href="icon-fonts/font-awesome-4.4.0/css/font-awesome.min.css"/> <!-- Fontawesome icons css -->
+    
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+        
+</head>
+
+<body>
+	 <!-- Preloading --> 
+    <div id="preloader">
+    	<div class="spinner">
+            <div class='uil-ripple-css' style='transform:scale(0.29);'><div></div><div></div></div>
+        </div>
+    </div>
+   
+     <div class="color-switcher">
+    	<div class="open"><i class="fa fa-cog fa-spin"></i></div>
+        <h4>SELECT A COLOR</h4>
+        <ul>
+        	<li><a class="color-1" onclick="setActiveStyleSheet('color-1'); return false;" href="#"><i class="fa fa-circle"></i></a> </li>
+            <li><a class="color-2" onclick="setActiveStyleSheet('color-2'); return false;" href="#"><i class="fa fa-circle"></i></a> </li>
+            <li><a class="color-3" onclick="setActiveStyleSheet('color-3'); return false;" href="#"><i class="fa fa-circle"></i></a> </li>
+            <li><a class="color-4" onclick="setActiveStyleSheet('color-4'); return false;" href="#"><i class="fa fa-circle"></i></a> </li>
+            <li><a class="color-5" onclick="setActiveStyleSheet('color-5'); return false;" href="#"><i class="fa fa-circle"></i></a> </li>
+            <li><a class="color-6" onclick="setActiveStyleSheet('color-6'); return false;" href="#"><i class="fa fa-circle"></i></a> </li>
+            <li><a class="color-7" onclick="setActiveStyleSheet('color-7'); return false;" href="#"><i class="fa fa-circle"></i></a> </li>
+            <li><a class="color-8" onclick="setActiveStyleSheet('color-8'); return false;" href="#"><i class="fa fa-circle"></i></a> </li>
+        </ul>
+        <button class="switcher-reset" onclick="setActiveStyleSheet('color-1'); return false;">RESET </button>
+        
+    </div>
+   
+    <div class="parallax"> </div>
+    <div id="wrapper">
+        <div class="container">
+            <div class="row">
+            	
+                <!-- Profile Informations-->
+                <div class="profile col-md-3 wow fadeInDown">
+                    <div class="profile-image">
+                        <img alt="" src="images/Profile-img.png">
+                    </div>
+                    <div class="profile-info">
+                    	<div class="name-job">
+                            <h1>CHRIS JOHNSON</h1>
+                            <span class="job"> Web Designer </span>
+                        </div><!-- .name-job -->                        
+                         <div class="social-icons">
+                            <a class="facebook" href="#"><i class="fa fa-facebook"></i> </a>
+                            <a class="twitter" href="#"><i class="fa fa-twitter"></i> </a>
+                            <a class="behance" href="#"><i class="fa fa-behance"></i> </a>
+                            <a  class="dribbble" href="#"><i class="fa fa-dribbble"></i> </a>
+                        </div>
+                    </div>
+                </div> <!--.profile .col-md-3-->
+                
+                <!--Right Section-->
+                <div class="col-md-9">
+                    	<!--Top Menu -->
+                        <div class="responsive-menu hidden-md hidden-lg">MENU</div> 
+                        <i class="fa fa-bars right-menu"></i> 
+                    	<ul class="top-menu wow fadeInRight">
+                        	<li> <a href="index.html"><i class="fa fa-user"></i> <span> ABOUT </span></a></li>
+                            <li> <a href="index.html#blog"><i class="fa fa-rotate-left"></i> <span >BACK BLOG PAGE</span></a></li>
+                        </ul>
+                   
+                    <!--Right Content-->
+                    <div class="content col-md-12 wow fadeInUp">
+                    	<div class="row">
+                    		<div class="page-title">
+                           		<h2>Blog Posts </h2>
+                            </div>
+                            <div class="col-md-12 page">
+                            	<!--Blog Post -->
+                                <div class="col-md-12 blog-post">
+                                	<div class="post-image">
+                                    	<iframe height="450" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/275486953&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>                                                          
+                                    </div> 
+                                    <div class="post-title">
+                                    	<h1>Extended Kindness Trifling Remember He Confined Outlived</h1> 
+                                    </div>  
+                                    <div class="post-info">
+                                    	<span>December 06, 2016 / Business, Company / 2 Comments</span>
+                                    </div>  
+                                   <p>Raising say express had chiefly detract demands she. Quiet led own cause three him. Front no party young abode state up. Saved he do fruit woody of to. Met defective are allowance two perceived listening consulted contained. It chicken oh colonel pressed excited suppose to shortly. He improve started no we manners however effects. Prospect humoured mistress to by proposal marianne attended. Simplicity the far admiration preference everything. Up help home head spot an he room in.  </p>
+                                    
+							   <blockquote> “He improve started no we manners however effects. Prospect humoured mistress to by proposal attended.”</blockquote>
+                               
+                                 <p>Carriage quitting securing be appetite it declared. High eyes kept so busy feel call in. Would day nor ask walls known. But preserved advantage are but and certainty earnestly enjoyment. Passage weather as up am exposed. And natural related man subject. Eagerness get situation his was delighted.  <br/><br/>
+		
+Rendered her for put improved concerns his. Ladies bed wisdom theirs mrs men months set. Everything so dispatched as it increasing pianoforte. Hearing now saw perhaps minutes herself his. Of instantly excellent therefore difficult he northward. Joy green but least marry rapid quiet but. Way devonshire introduced expression saw travelling affronting. Her and effects affixed pretend account ten natural. Need eat week even yet that. Incommode delighted he resolving sportsmen do in listening. <br/><br/>
+
+Style never met and those among great. At no or september sportsmen he perfectly happiness attending. Depending listening delivered off new she procuring satisfied sex existence. Person plenty answer to exeter it if. Law use assistance especially resolution cultivated did out sentiments unsatiable. Way necessary had intention happiness but september delighted his curiosity. Furniture furnished or on strangers neglected remainder engrossed. </p>
+
+								<ul>
+                                	<li> Greatest properly off ham exercise all. </li>
+                                    <li> Unsatiable invitation its possession nor off.  </li>
+                                    <li> All difficulty estimating unreserved increasing the solicitude.   </li>
+                                </ul>
+                                
+                                <p>Wrong do point avoid by fruit learn or in death. So passage however besides invited comfort elderly be me. Walls began of child civil am heard hoped my. Satisfied pretended mr on do determine by. Old post took and ask seen fact rich. Man entrance settling believed eat joy. Money as drift begin on to. Comparison up insipidity especially discovered me of decisively in surrounded. Points six way enough she its father. Folly sex downs tears ham green forty. 
+</p>
+                                </div>
+                                
+                                <!-- Comments -->
+                                 <div class="col-md-12 post-comments">
+                                 	<h2 class="section-title">Comments(2)</h2>
+                                    	<ul class="comments clearfix">
+                                        	<!-- comment -->
+                                        	<li>
+                                                <div class="user-img">
+                                                	<img alt="" src="images/comment-1.png">
+                                                </div>
+                                                <div class="comment-content">
+                                                	<div class="comment-info">
+                                                        <div class="user">
+                                                            <a class="user-name" href="#">Jackson Richardson</a>
+                                               				<a class="reply" href="#"> Reply </a>
+                                                        </div> <!-- .user -->
+                                                        <div class="date">
+                                                            <a href="#">Jan 06, 2016 at 14:35</a>
+                                                        </div> <!-- .date -->
+                                                    </div> <!-- .comment-info end -->
+                                                    <p class="comment-text">Nulla consequat elit aliquam mauris molestie fermentum. Nam at tempor massa, mattis vulputate felis. Maecenas est arcu, viverra vitae elit vel, pretium malesuada lectus. Proin ut vulputate ex. </p>
+                                                </div> <!-- .comment-content end-->
+                                            </li>
+                                            <!-- comment -->
+                                            <li class="comment-reply">
+                                                <div class="user-img">
+                                                	<img alt="" src="images/comment-1.png">
+                                                </div>
+                                                <div class="comment-content">
+                                                	<div class="comment-info">
+                                                        <div class="user">
+                                                            <a class="user-name" href="#">Jackson Richardson</a>
+                                               				<a class="reply" href="#"> Reply </a>
+                                                        </div> <!-- .user -->
+                                                        <div class="date">
+                                                            <a href="#">Jan 06, 2016 at 14:35</a>
+                                                        </div> <!-- .date -->
+                                                    </div> <!-- .comment-info end -->
+                                                    <p class="comment-text">Nulla consequat elit aliquam mauris molestie fermentum. Nam at tempor massa, mattis vulputate felis. Maecenas est arcu, viverra vitae elit vel, pretium malesuada lectus. Proin ut vulputate ex. </p>
+                                                </div> <!-- .comment-content end-->
+                                            </li>
+                                            <!-- comment -->
+                                            <li>
+                                                <div class="user-img">
+                                                	<img alt="" src="images/comment-1.png">
+                                                </div> 
+                                                <div class="comment-content">
+                                                	<div class="comment-info">
+                                                        <div class="user">
+                                                            <a class="user-name" href="#">Jackson Richardson</a>
+                                               				<a class="reply" href="#"> Reply </a>
+                                                        </div> <!-- .user -->
+                                                        <div class="date">
+                                                            <a href="#">Jan 06, 2016 at 14:35</a>
+                                                        </div> <!-- .date -->
+                                                    </div> <!-- .comment-info end -->
+                                                    <p class="comment-text">Nulla consequat elit aliquam mauris molestie fermentum. Nam at tempor massa, mattis vulputate felis. Maecenas est arcu, viverra vitae elit vel, pretium malesuada lectus. Proin ut vulputate ex. </p>
+                                                </div> <!-- .comment-content end-->
+                                            </li>
+                                        </ul>
+                                 </div> <!-- .col-md-12 .post-comments end -->
+                                 
+                                 <!-- Write Message -->
+                                 <div class="col-md-12 write-message">
+                                 	
+                                    <h2 class="section-title">Write a Message</h2>
+                                    <div class="row">
+                                        <!-- Name -->
+                                        <div class="col-md-6">
+                                            <input class="blog-msg" type="text" placeholder="Name">
+                                        </div>
+                                        <!-- Email -->
+                                        <div class="col-md-6">
+                                            <input class="blog-msg" type="text" placeholder="Email">
+                                        </div>
+                                        <!-- Website -->
+                                        <div class="col-md-12">
+                                            <input class="blog-msg" type="text" placeholder="Website">
+                                        </div>
+                                        <!-- Message -->
+                                        <div class="col-md-12">
+                                            <textarea placeholder="Message" rows="8"></textarea>
+                                        </div>                                        
+                                    </div>  
+                                    <input class="but-big" type="submit" value="SEND A MESSAGE">                                  
+                                 </div>
+                                
+                                
+                                <!--footer-->
+                                <footer class="footer"> <p>  Copyright © 2016 All right reserved </p></footer>
+                                                                                              
+                            </div><!-- .col-md-12 .page -->
+                        </div><!--.row end-->
+                    </div> <!--.content .col-md-12 end -->
+                </div> <!-- .col-md-9 end -->
+            </div> <!-- .row end-->
+        </div><!-- .container end -->
+    </div> <!-- #wrapper end-->
+    
+    <!-- Sidebar Menu -->
+        <div class="slidemenu-fixed">
+            <button class="right-menu slidemenu-close"><i class="fa fa-times" aria-hidden="true"></i></button>  
+            <div class="widget-out">     
+                <!-- Search Widget-->
+                <div class="widget-search widget">
+                    <h2 class="widget-title">Search</h2>
+                    <form>                                    
+                        <input class="search-inp" type="text" placeholder="Search...">
+                        <input class="search-ico" type="submit" value="">
+                    </form>
+                 </div>
+                <!-- Submenu Widget-->
+                <div class="widget-submenu widget">
+                    <h2 class="widget-title">Submenu</h2>
+                        <ul>
+                           <li> <a href="single-blog.html">Standart Post </a> </li>
+                           <li> <a href="audio-post.html">Audio Post </a> </li>
+                           <li> <a href="video-post.html">Video Post </a> </li>
+                           <li> <a href="404.html">404 Page </a> </li>
+                        </ul>
+                 </div>
+                 <!--Latest Posts-->
+                <div class="widget-blog widget">
+                    <h2 class="widget-title">Latest Posts</h2>
+                        <ul class="latest-post">
+                           <li> 
+                                <div class="tag"><a href="#">#Business </a> <a href="#">#Company </a> </div> 
+                                <a class="post" href="single-blog.html">  I should be incapable of drawing a single stroke at the present moment and yet I feel that... </a>
+                                <span> August 23, 2016 <i class="fa fa-comments-o" aria-hidden="true"></i> 15 </span>
+                           </li>
+                           <li> 
+                                <div class="tag"><a href="#">#Business </a> <a href="#">#Company </a> </div> 
+                                <a class="post" href="single-blog.html">  I should be incapable of drawing a single stroke at the present moment and yet I feel that... </a>
+                                <span> August 23, 2016 <i class="fa fa-comments-o" aria-hidden="true"></i> 15 </span>
+                           </li>
+                           <li> 
+                                <div class="tag"><a href="#">#Business </a> <a href="#">#Company </a> </div> 
+                                <a class="post" href="single-blog.html">  I should be incapable of drawing a single stroke at the present moment and yet I feel that... </a>
+                                <span> August 23, 2016 <i class="fa fa-comments-o" aria-hidden="true"></i> 15 </span>
+                           </li>                           
+                        </ul>
+                 </div>
+                 <!-- Categories Widget-->
+                <div class="widget-submenu widget">
+                    <h2 class="widget-title">Categories</h2>
+                        <ul>
+                           <li> <a href="#"> Web Design </a></li>
+                           <li> <a href="#"> Photoshop </a></li>
+                           <li> <a href="#"> After Effect </a></li>
+                           <li> <a href="#"> Dreamviewer </a></li>
+                        </ul>
+                 </div>
+                 <!-- Tags Widget-->
+                <div class="widget-tags widget">
+                    <h2 class="widget-title">Tags</h2>
+                        <ul>
+                           <li><a href="#"> Web Design </a></li>
+                           <li><a href="#"> Photoshop </a></li>
+                           <li><a href="#"> After Effect </a></li>
+                           <li><a href="#"> Dreamviewer </a></li>
+                           <li><a href="#"> Application </a></li>
+                           <li><a href="#"> Seo </a></li>
+                           <li><a href="#"> Other Issues </a></li>
+                        </ul>
+                 </div>
+            </div>
+        </div>
+        <div id="overlay"></div>
+    
+    <!-- Javascripts -->
+    <script src="js/jquery-2.1.4.min.js"></script><!-- jQuery library -->
+    <script src="js/styleswitcher.js"></script> 
+	<script src="perfect-scrollbar/jquery.mousewheel.js"></script>
+	<script src="perfect-scrollbar/perfect-scrollbar.js"></script>
+    <script src="js/main.js"></script><!-- Main js -->
+    
+</body>
+</html>
