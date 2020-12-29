@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why Data Scientists Need To Lead Data Evangelism Efforts"
-description: "Kickstart Data Evangelism With These Six Initiatives""
+description: "Kickstart Data Evangelism With These Six Initiatives"
 comments: true
 keywords: "data science, machine learning, data, career advicet"
 ---
