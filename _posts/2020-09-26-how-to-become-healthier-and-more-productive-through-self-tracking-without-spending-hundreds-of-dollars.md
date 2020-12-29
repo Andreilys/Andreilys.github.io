@@ -6,7 +6,7 @@ comments: true
 keywords: "quantified-self, self-development"
 ---
 
-![[*Datafloq](https://datafloq.com/read/the-rise-of-the-quantified-self-and-what-it-means-/223)*](https://cdn-images-1.medium.com/max/2476/1*LlFLOHQR0vg6cVOgZn5XFg.png)*[*Datafloq](https://datafloq.com/read/the-rise-of-the-quantified-self-and-what-it-means-/223)**
+![](https://cdn-images-1.medium.com/max/2476/1*LlFLOHQR0vg6cVOgZn5XFg.png)
 
 From steps, to sleep, to time spent online. Every day you’re generating data which has the power to inform and shape the way you live your life. For those willing to seek, lies a treasure trove of personal insights waiting to be discovered.
 
