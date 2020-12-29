@@ -3,7 +3,7 @@ layout: post
 title: "Mastering The Data Science Interview Loop"
 description: "Learn what it takes to master the data science interview loop"
 comments: true
-keywords: "data, data-science""
+keywords: "data, data-science"
 ---
 
 In 2012, Harvard Business Review announced that Data Science will be the sexiest job of the 21st Century. Since then, the hype around data science has only grown. Recent reports have shown that demand for data scientists far exceeds the supply.
