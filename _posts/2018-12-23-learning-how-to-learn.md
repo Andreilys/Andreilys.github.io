@@ -8,7 +8,6 @@ keywords: "metalearning, self development"
 
 There is no skill that will earn greater dividends in your life than that of learning effectively.
 
-
 The twin forces of Globalization and Technological Progress ensures that the days of a single career at one company are long past. The average person can be expected to [change jobs 10 to 15 times](https://www.thebalancecareers.com/how-often-do-people-change-jobs-2060467), and planning for[ multiple careers in a lifetime](https://www.ft.com/content/0151d2fe-868a-11e7-8bb1-5ba57d47eff7) is becoming a necessity.
 
 
@@ -60,9 +59,9 @@ Below are a handful of strategies that when applied, can have a great impact on 
 
 * Gives you an aspirational model for what good performance looks like.
 
-*Dynamic Testing: *As you learn it’s important to have some sort of feedback loop to see how much you’re actually learning and where your holes are. The easiest way to do this is with flashcards, but other ways could include writing a blog post or explaining a concept to a friend who can point out inconsistencies. In doing so, you’ll quickly notice the gaps in your knowledge and the concepts you need to revisit in your future learning sessions.
+*Dynamic Testing:* As you learn it’s important to have some sort of feedback loop to see how much you’re actually learning and where your holes are. The easiest way to do this is with flashcards, but other ways could include writing a blog post or explaining a concept to a friend who can point out inconsistencies. In doing so, you’ll quickly notice the gaps in your knowledge and the concepts you need to revisit in your future learning sessions.
 
-*Pomodoro technique: *This is a technique I’ve been using consistently for the past few years and I’ve been very happy with it so far. The concept is pretty simple, you start a timer for either 25 or 50 minutes, after which you focus on one single thing. Once the timer is up, you have a 5 or 10-minute break before starting again.
+*Pomodoro technique:* This is a technique I’ve been using consistently for the past few years and I’ve been very happy with it so far. The concept is pretty simple, you start a timer for either 25 or 50 minutes, after which you focus on one single thing. Once the timer is up, you have a 5 or 10-minute break before starting again.
 
 **Common Learning Traps**
 
@@ -103,7 +102,5 @@ I challenge you to revisit an old hobby or learning project and employ some of t
 *The Superpower I have a new book coming out early next year, The Rise of Superman: Decoding the Science of Ultimate…*www.forbes.com](https://www.forbes.com/sites/stevenkotler/2013/06/02/learning-to-learn-faster-the-one-superpower-everyone-needs/#4b13ea642dd7)
 - [**Learning How To Learn (Learning Hacks (Chunking. Chunks are pieces of…**
 *Learning How To Learn (Learning Hacks (Chunking. Chunks are pieces of…: Learning How To Learn*static.coggle.it](https://static.coggle.it/diagram/WMbg3JvOtwABM9gV/t/learning-how-to-learn)
-- [**Learning To Learn “Develop a passion for…**
-- *Learning To Learn “Develop a passion for…: Learning To Learn “Develop a passion for learning. If you do, you will…*coggle.it](https://coggle.it/diagram/V83cTEMcVU1E-DGf/t/learning-to-learn-cease-to-grow-%E2%80%9D/c52462e2ac70ccff427070e1cf650eacdbe1cf06cd0eb9f0013dc53a2079cc8a)
 - [**Learning How to Learn: Powerful mental tools to help you master tough subjects | Coursera**
 *This course gives you easy access to the invaluable learning techniques used by experts in art, music, literature…*www.coursera.org](https://www.coursera.org/learn/learning-how-to-learn)

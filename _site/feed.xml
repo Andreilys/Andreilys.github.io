@@ -3,11 +3,590 @@
   <channel>
     <title></title>
     <description>Minimalist Jekyll theme for technical writing blog.</description>
-    <link>http://localhost:5000/</link>
-    <atom:link href="http://localhost:5000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 28 Dec 2020 16:53:35 -0800</pubDate>
-    <lastBuildDate>Mon, 28 Dec 2020 16:53:35 -0800</lastBuildDate>
+    <link>http://localhost:4040/</link>
+    <atom:link href="http://localhost:4040/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 28 Dec 2020 17:19:35 -0800</pubDate>
+    <lastBuildDate>Mon, 28 Dec 2020 17:19:35 -0800</lastBuildDate>
     <generator>Jekyll v4.0.1</generator>
+    
+      <item>
+        <title></title>
+        <description>&lt;p&gt;In 2012, Harvard Business Review announced that Data Science will be the sexiest job of the 21st Century. Since then, the hype around data science has only grown. Recent reports have shown that demand for data scientists far exceeds the supply.&lt;/p&gt;
+
+&lt;p&gt;However, the reality is most of these jobs are for those who already have experience. Entry level data science jobs, on the other hand, are extremely competitive due to the supply/demand dynamics. Data scientists come from all kinds of backgrounds, ranging from social sciences to traditional computer science backgrounds. Many people also see data science as a chance to rebrand themselves which results in a huge influx of people looking to land their first role.&lt;/p&gt;
+
+&lt;p&gt;To make matters more complicated, unlike software development positions which have more standardized interview processes, data science interviews can have huge variations. This is partly because as an industry, there still isn’t an agreed upon definition of a data scientist. Airbnb recognized this and decided to split their &lt;a href=&quot;https://www.linkedin.com/pulse/one-data-science-job-doesnt-fit-all-elena-grewal/&quot;&gt;data scientists into three paths&lt;/a&gt;: Algorithms, Inference and Analytics.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2000/1*OejCBdsq286istzH0JkL-Q.png&quot; alt=&quot;[https://www.linkedin.com/pulse/one-data-science-job-doesnt-fit-all-elena-grewal/](https://www.linkedin.com/pulse/one-data-science-job-doesnt-fit-all-elena-grewal/)&quot; /&gt;&lt;em&gt;&lt;a href=&quot;https://www.linkedin.com/pulse/one-data-science-job-doesnt-fit-all-elena-grewal/&quot;&gt;https://www.linkedin.com/pulse/one-data-science-job-doesnt-fit-all-elena-grewal/&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;So before starting to search for a role, it’s important to determine what flavor of data science appeals to you. Based on your response to that, what you study and what questions you’ll be asked will vary. Despite the differences in the types, generally speaking, they’ll follow a similar interview loop although the particular questions asked may vary. In this article, we’ll explore what to expect at each step of the interview process, along with some tips and ways to prepare. If you’re looking for a list of data science questions that may come up in an interview, you should consider reading &lt;a href=&quot;https://towardsdatascience.com/data-science-interview-guide-4ee9f5dc778&quot;&gt;this&lt;/a&gt; and &lt;a href=&quot;https://www.analyticsvidhya.com/blog/2018/06/comprehensive-data-science-machine-learning-interview-guide/&quot;&gt;this&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2000/0*r5Q8gKztFDRBlCu3&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;the-coding-challenge&quot;&gt;&lt;strong&gt;The Coding Challenge&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Coding challenges can range from a simple Fizzbuzz question to more complicated problems like building a time series forecasting model using messy data. These challenges will be timed (ranging anywhere from 30mins to one week) based on how complicated the questions are. Challenges can be hosted on sites such as &lt;a href=&quot;https://www.hackerrank.com/&quot;&gt;HackerRank&lt;/a&gt;, &lt;a href=&quot;https://coderbyte.com/&quot;&gt;CoderByte&lt;/a&gt;, and even internal company solutions.&lt;/p&gt;
+
+&lt;p&gt;More often than not, you’ll be provided with written test cases that will tell you if you’ve passed or failed a question. This will typically consider both correctness as well as complexity (i.e. how long did it take to run your code). If you’re not provided with tests, it’s a good idea to write your own. With data science coding challenges you may even encounter multiple-choice questions on statistics so make sure you ask your recruiter what exactly you’ll be tested on.&lt;/p&gt;
+
+&lt;p&gt;When you’re doing a coding challenge, it’s important to keep in mind that companies aren’t always looking for the ‘correct’ solution. They may also be looking for code readability, good design, or even a specific optimal solution. So don’t take it personally when even after passing all the test cases, you didn’t get to the next stage in the interview process.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Preparation:&lt;/em&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Practice questions on &lt;a href=&quot;https://leetcode.com/&quot;&gt;Leetcode&lt;/a&gt; which has both SQL and traditional data structures/algorithm questions&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Review &lt;a href=&quot;https://brilliant.org/&quot;&gt;Brilliant&lt;/a&gt; for math and statistics questions.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://sqlzoo.net/&quot;&gt;SQL Zoo&lt;/a&gt; and &lt;a href=&quot;https://mode.com/sql-tutorial/introduction-to-sql/&quot;&gt;Mode Analytics&lt;/a&gt; both offer various SQL exercises you can solve in your browser.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;em&gt;Tips:&lt;/em&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Before you start coding, read through all the questions. This allows your unconscious mind to start working on problems in the background.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Start with the hardest problem first, when you hit a snag, move to the simpler problem before returning to the harder one.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Focus on passing all the test cases first, then worry about improving complexity and readability.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;If you’re done and have a few minutes left, go get a drink and try to clear your head. Read through your solutions one last time, then submit.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;It’s okay to not finish a coding challenge. Sometimes companies will create unreasonably tedious coding challenges with one-week time limits that require 5–10 hours to complete. Unless you’re desperate, you can always walk away and spend your time preparing for the next interview.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;the-hr-screen&quot;&gt;&lt;strong&gt;The HR Screen&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;HR screens will consist of behavioral questions, asking you to explain certain parts of your resume, why you wanted to apply to this company and examples of when you may have had to deal with a particular situation in the workplace. Occasionally you may be asked a couple of simple technical questions, perhaps a SQL or a basic computer science theory question. Afterward, you’ll be given a few minutes to ask questions of your own.&lt;/p&gt;
+
+&lt;p&gt;Keep in mind the person you’re speaking to is unlikely to be technical, so they may not have a deep understanding of the role or the technical side of the organization. With that in mind, try to keep your questions focused on the company, the person’s experience there, and logistical questions like how the interview loop typically runs. If you have specific questions they can’t answer, you can always ask the recruiter to forward your questions to someone who can answer them.&lt;/p&gt;
+
+&lt;p&gt;Remember, interviews are a two-way street so it would be in your best interest to identify any red flags before committing more time to the interviewing with this particular company.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Preparation:&lt;/em&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Read the role and company description.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Lookup who your interview is going to be and try to find areas of rapport. Perhaps you both worked in a particular city or volunteer at similar nonprofits.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Read over your resume before getting on the call.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;em&gt;Tips:&lt;/em&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Come prepared with questions.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Keep your resume in clear view.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Find a quiet space to take the interview. If that’s not possible, reschedule the interview.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Focus on building rapport in the first few minutes of the call. If the recruiter wants to spend the first few minutes talking about last nights basketball game, let them.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Don’t bad mouth your current or past companies. Even if the place you worked at was terrible, it rarely will benefit you.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;the-technical-call&quot;&gt;&lt;strong&gt;The Technical Call&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;At this stage of the interview process, you’ll have an opportunity to be interviewed by a technical member of the team. Calls such as these are typically conducted using platforms such as &lt;a href=&quot;https://coderpad.io/&quot;&gt;Coderpad&lt;/a&gt;, which includes a code editor along with a way to run your code. Occasionally you may be asked to write code in a Google doc. Thus you should be comfortable coding without any syntax highlighting or code completion. Language-wise, Python and SQL are typically the two that you’ll be asked to write in, however, this can differ based on the role and company.&lt;/p&gt;
+
+&lt;p&gt;Questions at this stage can range in complexity from a simple SQL question solved with a windows function to problems involving Dynamic Programming. Regardless of the difficulty, you should always ask clarifying questions before starting to code. Once you have a good understanding of the problem and expectations, start with a brute-force solution so that you have at least something to work with. However, make sure you tell your interviewer that you’re solving it first in a non-optimal way before thinking about optimization. After you have something working, start to optimize your solution and make your code more readable. Throughout the process, it’s helpful to verbalize your approach, since interviewers may occasionally help guide you in the right direction.&lt;/p&gt;
+
+&lt;p&gt;If you have a few minutes at the end of the interview, take advantage of the fact that you’re speaking to a technical member of the team. Ask them about coding standards and processes, how the team handles work, and what their day to day looks like.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Preparation:&lt;/em&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;If the data science position you’re interviewing for is part of the engineering organization, make sure to read &lt;a href=&quot;https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850&quot;&gt;Cracking The Coding Interview&lt;/a&gt; and &lt;a href=&quot;https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836&quot;&gt;Elements of Programming Interviews&lt;/a&gt; since you may have a software engineer conducting the technical screen.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Flashcards are typically the best way to review machine learning theory which may come up at this stage. You can either make your own or purchase &lt;a href=&quot;https://machinelearningflashcards.com/&quot;&gt;this set for $12&lt;/a&gt;. &lt;a href=&quot;https://ml-cheatsheet.readthedocs.io/en/latest/&quot;&gt;The Machine Learning Cheatsheet&lt;/a&gt; is also a good resource to review.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Look at Glassdoor to get some insight into the type of questions that may come up.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Research who is going to interview you. A machine learning engineer with a Ph.D. will interview you differently than a data analyst.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;em&gt;Tips:&lt;/em&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;It’s okay to ask for help if you’re stuck.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Practice mock technical calls with a friend or use a platform like &lt;a href=&quot;http://www.interviewing.io&quot;&gt;interviewing.io&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Don’t be afraid to ask for a minute or two to think about a problem before you start solving it. Once you do start, it’s important to walk your interviewer through your approach.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;the-take-home-project&quot;&gt;&lt;strong&gt;The Take Home Project&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Take home’s have been rising in popularity within data science interview loops since they tend to be more closely tied with what you’ll be doing once you start working. They can either occur after the first HR screen prior to a technical screen or serve as a deliverable for your onsite. Companies may test you on your ability to work with ambiguity (e.g. Here’s a dataset, find some insights and pitch to business stakeholders) or focused on a more concrete deliverable (e.g. Here’s some data, build a classifier).&lt;/p&gt;
+
+&lt;p&gt;When possible, try to ask clarifying questions to make sure you know what they’re testing you on and who your audience will be. If the audience for your take home is business stakeholders, it’s not a good idea to fill your slides with technical jargon. Instead, focus on actionable insights and recommendations and leave the technical jargon for the appendix.&lt;/p&gt;
+
+&lt;p&gt;While all take homes may differ in their objectives, the common denominator is that you’ll be receiving data from the company. So regardless of what they’ve asked you to do, the first step will always be Exploratory Data Analysis. Luckily there are some automated EDA solutions, such as &lt;a href=&quot;https://speedml.com/automate-exploratory-data-analysis/&quot;&gt;SpeedML&lt;/a&gt;. Primarily what you want to do here is investigate peculiarities in the data. More often than not, the company will have synthetically generated the data, leaving specific easter eggs for you to find (e.g. A power law distribution with customer revenue).&lt;/p&gt;
+
+&lt;p&gt;Once you finish your take-home, try to get some feedback from friends or mentors. Often if you’ve been working on a take-home for long enough you may start to miss the forest for the trees, so it’s always good to get feedback from someone who doesn’t have the context you do.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Preparation:&lt;/em&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Practice take-home challenges which you can either purchase from &lt;a href=&quot;https://datamasked.com/&quot;&gt;datamasked&lt;/a&gt; or by looking at the answers without the questions on this &lt;a href=&quot;https://github.com/JifuZhao/DS-Take-Home&quot;&gt;Github repo&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Brush up on libraries and tools that may help with your work. For example SpeedML or Tableau for rapid data visualization.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;em&gt;Tips:&lt;/em&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Some companies deliberately provide a take-home that requires you to email them to get additional information, so don’t be afraid to get in touch!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;A good take home can often offset any poor performance at an onsite. The rationale being that despite not knowing how to solve a particular interview problem you’ve demonstrated competency in solving problems that they may encounter on a daily basis. So if given the choice between doing more Leetcode problems or polishing your onsite presentation, it’s worthwhile to focus on the latter.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Make sure to save every onsite challenge you do. You never know when you may need to reuse a component in future challenges.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;It’s okay to make assumptions as long as you state them. Information asymmetry is a given in these situations and it’s better to make an assumption than to continuously bombard your recruiter with questions.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;the-onsite&quot;&gt;&lt;strong&gt;The Onsite&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;An onsite will consist of a series of interviews throughout the day, including a lunch interview which is typically evaluating your ‘culture fit’.&lt;/p&gt;
+
+&lt;p&gt;It’s important to remember that any company that has gotten you to this stage wants to see you succeed. They’ve already spent a significant amount of money and time interviewing candidates to narrow it down to the onsite candidates, so have some confidence in your abilities!&lt;/p&gt;
+
+&lt;p&gt;Make sure to ask your recruiter for a list of people who will be interviewing you so that you have a chance to do some research beforehand. If you’re interviewing with a director, you should focus on preparing for higher level questions such as company strategy and culture. On the other hand, if you’re interviewing with a software engineer it’s likely that they’ll ask you to whiteboard a programming question. As mentioned before, the person’s background will influence the type of questions they’ll ask.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Preparation:&lt;/em&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Read as much as you can about the company. The company website, &lt;a href=&quot;https://www.crunchbase.com/&quot;&gt;CrunchBase&lt;/a&gt;, Wikipedia, recent news articles, &lt;a href=&quot;https://www.teamblind.com/articles/Topics&quot;&gt;Blind&lt;/a&gt;, &lt;a href=&quot;https://www.glassdoor.com/&quot;&gt;Glassdoor&lt;/a&gt;, all serve as great resources for information gathering.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Do some mock interviews with a friend who can give you feedback on any verbal tics you may exhibit or holes in your answers. This is especially helpful if you have a take-home presentation that you’ll be giving at the on-site.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Have stories prepared to common behavioural interview questions such as, ‘Tell me about yourself”, ‘Why this company?’, ‘Tell me about a time you had to deal with a difficult colleague”.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;If you have any software engineers on your onsite day, there’s a good chance you’ll need to brush up on your data structures and algorithms.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;em&gt;Tips:&lt;/em&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Don’t be too serious. Most of these interviewers would rather be back at their desk working on their assigned projects. So try your best to make it a pleasant experience for your interviewer.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Make sure to dress the part. If you’re interviewing at an east coast fortune 500, it’s likely you’ll need to dress much more conservatively than if you were interviewing with a startup on the west coast.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Take advantage of bathroom and water breaks to recompose yourself.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Ask questions you’re actually interested in. You’re interviewing the company just as much as they are interviewing you.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Send a short thank you note to your recruiter and hiring manager after the onsite.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;the-offer-and-negotiation&quot;&gt;&lt;strong&gt;The Offer and Negotiation&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Negotiating for many people may seem uncomfortable, especially for those without previous industry experience. However, the reality is that negotiating has almost no downside (as long as you’re polite about it) and lots of upside.&lt;/p&gt;
+
+&lt;p&gt;Typically companies will inform you that they’re planning on giving you an offer over the phone. At this point, it may be tempting to commit and accept the offer on the spot. Instead, you should convey your excitement about the offer, and ask that they give you some time to discuss it with your significant other or friend. You can also be up front and tell them you’re still in the interview loop with a couple of other companies and that you’ll get back to them shortly. Sometimes these offers come with deadlines, however, these are often quite arbitrary and can be pushed by a simple request on your part.&lt;/p&gt;
+
+&lt;p&gt;Your ability to negotiate ultimately rests on a variety of factors, but the biggest one is optionality. If you have two great offers in hand, it’s much easier to negotiate because you have the optionality to walk away.&lt;/p&gt;
+
+&lt;p&gt;When you’re negotiating, there are various levers you can pull. The three main ones are your base salary, stock options, and signing/relocation bonus. Every company has a different policy, which means some levers may be easier to pull than others. Generally speaking, signing/relocation is the easiest to negotiate, followed by stock options and then base salary. So if you’re in a weaker position, ask for a higher signing/relocation bonus. However, if you’re in a strong position it may be in your best interest to increase your base salary. The reason being that not only will it act as a higher multiplier when you get raises, but it will also have an effect on company benefits such as 401k matching, and employee stock purchase plans. That said each situation is different so make sure to reprioritize what you negotiate as necessary.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Preparation:&lt;/em&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;One of the best resources on negotiation is an &lt;a href=&quot;https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/&quot;&gt;article written by Haseeb Qureshi &lt;/a&gt;that details how he went from boot camp grad to receiving offers from Google, Airbnb and many others.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;em&gt;Tips:&lt;/em&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;If you aren’t good at speaking on the fly, it may be advantageous to let calls from recruiters go to voicemail so you can compose yourself before you call them back. It’s highly unlikely that you’ll be getting a rejection call since those are typically done over email. This means that when you do call them back, you should mentally rehearse what you’ll say when they inform you that they want to give you an offer.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Show genuine excitement for the company. Recruiters can sense when a candidate is only in it for the money, and they may be less likely to help you out in the negotiating process.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Always leave things off on a good note! Even if you don’t accept an offer from a company, it’s important to be polite and candid with your recruiters. The tech industry can be a surprisingly small place and your reputation matters.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Don’t reject other companies or stop interviewing until you have an actual offer in hand. Verbal offers have a history of being retracted so don’t celebrate until you have something in writing.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Remember, interviewing is a skill that can be learned, just like anything else. Hopefully, this article has given you some insight on what to expect in a data science interview loop.&lt;/p&gt;
+
+&lt;p&gt;The process also isn’t perfect and there will be times that you fail to impress an interviewer because you don’t possess some obscure piece of knowledge. However, with repeated persistence and adequate preparation, you’ll be able to land a data science job in no time!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 28 Dec 2020 17:19:35 -0800</pubDate>
+        <link>http://localhost:4040/2020/2019-01-22-Mastering-the-Data-Science-Interview-Loop/</link>
+        <guid isPermaLink="true">http://localhost:4040/2020/2019-01-22-Mastering-the-Data-Science-Interview-Loop/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>How to Become Healthier and More Productive Through Self Tracking Without Spending Hundreds of Dollars</title>
+        <description>&lt;p&gt;![&lt;a href=&quot;https://cdn-images-1.medium.com/max/2476/1*LlFLOHQR0vg6cVOgZn5XFg.png&quot;&gt;&lt;em&gt;Datafloq](https://datafloq.com/read/the-rise-of-the-quantified-self-and-what-it-means-/223)&lt;/em&gt;&lt;/a&gt;*&lt;a href=&quot;https://datafloq.com/read/the-rise-of-the-quantified-self-and-what-it-means-/223&quot;&gt;*Datafloq&lt;/a&gt;**&lt;/p&gt;
+
+&lt;p&gt;From steps, to sleep, to time spent online. Every day you’re generating data which has the power to inform and shape the way you live your life. For those willing to seek, lies a treasure trove of personal insights waiting to be discovered.&lt;/p&gt;
+
+&lt;p&gt;In this article we’ll cover:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;ol&gt;
+    &lt;li&gt;Why you should start tracking your data &lt;em&gt;today,&lt;/em&gt; in order to take advantage of compounding effects&lt;/li&gt;
+    &lt;li&gt;What to track, and how to use this data to make better data-informed decisions&lt;/li&gt;
+    &lt;li&gt;How to build robust tracking systems that will stand the test of time&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I’ll also talk about my journey and key learnings from quantified self over the last 6 years, along with the tools I’ve built and open-sourced, such as a &lt;a href=&quot;https://github.com/andreilys/personal_dashboard&quot;&gt;real-time personal dashboard&lt;/a&gt;,weekly check-in bot and a daily journal.&lt;/p&gt;
+
+&lt;h2 id=&quot;why-you-should-start-tracking-today&quot;&gt;Why you should start tracking today&lt;/h2&gt;
+
+&lt;p&gt;Despite our best intentions, human memory is fallible. Countless studies have proven that we simply cannot rely on our memories for an accurate picture of the past. You might look back on your week and feel accomplished, but if you dug into the data the story might be quite different.&lt;/p&gt;
+
+&lt;p&gt;Quantified self helps remedy this problem by identifying metrics which are trackable and can act as signals that we’re on the right track. With data, you can hold yourself accountable. If you commit to three workouts a week, you can catalog your progress rather than rely on memory alone.&lt;/p&gt;
+
+&lt;p&gt;Another benefit of tracking data, is that it gets more valuable as it grows in volume. It can help you identify patterns that would otherwise go undetected. For example, you may notice that while traveling your meditation time drops. This may lead you to implement a new meditation travel protocol to ensure you hit your goal.&lt;/p&gt;
+
+&lt;p&gt;It can also act as a historical capsule to get a sense of who your past self was, and how you’ve changed over the years. Whether it’s the websites you’ve visited, or the locations you’ve frequented, all this can act as a way to get a sense of where you’ve been, and where you’re going.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-to-track&quot;&gt;What to Track&lt;/h2&gt;
+
+&lt;p&gt;What you choose to track is a byproduct of how much time and money you’d like to commit to self-tracking. The great thing with quantified self is that you can start with a paper and pen, tracking something as simple as your workouts. For those who are lazy, we have technology which can help automate the tracking process.&lt;/p&gt;
+
+&lt;p&gt;In most cases, it’s recommended that people start with apps like &lt;a href=&quot;https://gyrosco.pe/&quot;&gt;Gyroscope&lt;/a&gt; which has both a free and paid tier. Apps like Gyroscope serve as general-purpose data aggregators, providing slick visualizations of your data, which make the process of collecting, and understanding your data a lot easier. They have a variety of integrations with third party data providers, and have an intuitive user interface that makes it easy to identify trends to take action on.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2000/1*yqtk5iRX4gH1_bySt2XVZQ.png&quot; alt=&quot;[Gyroscope](https://gyrosco.pe/)&quot; /&gt;&lt;em&gt;&lt;a href=&quot;https://gyrosco.pe/&quot;&gt;Gyroscope&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;For those with technical skills, you can access your data through API’s from services and websites that you use. Below are some examples of things I track:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Time spent online — &lt;a href=&quot;https://www.rescuetime.com/&quot;&gt;Rescuetime&lt;/a&gt;
+Focus time — &lt;a href=&quot;https://toggl.com/&quot;&gt;Toggl&lt;/a&gt;
+Workouts, weight, steps — &lt;a href=&quot;https://www.withings.com/&quot;&gt;Withings&lt;/a&gt;
+Meditation — &lt;a href=&quot;https://insighttimer.com/&quot;&gt;Insight Timer&lt;/a&gt;
+Workouts, weight, steps — &lt;a href=&quot;https://www.withings.com/&quot;&gt;Withings&lt;/a&gt;
+Finances — &lt;a href=&quot;https://statusmoney.com/&quot;&gt;Status Money&lt;/a&gt;
+Books — &lt;a href=&quot;https://www.goodreads.com/&quot;&gt;Goodreads&lt;/a&gt;
+Writing — &lt;a href=&quot;https://medium.com/&quot;&gt;Medium&lt;/a&gt;
+Programming — &lt;a href=&quot;https://wakatime.com/&quot;&gt;Wakatime&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This data is then aggregated and summarized in three different ways. One is through a dashboard that I have in the corner of my room. This gives me context on how my day is going and whether I’m on track to hit my daily goals. The other is my daily evening journal which uses a &lt;a href=&quot;https://vimwiki.github.io&quot;&gt;vimwiki&lt;/a&gt; template to grab all my data for the day, giving me another opportunity to reflect on my day. Finally we have a Facebook Messenger bot that pings me on Sundays with the results of the week. Responding to this bot via Messenger with my reflections is then captured in a Google spreadsheet.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2624/1*I6PKAnzVrdFrPO3r5r7gJA.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;making-better-decisions&quot;&gt;Making Better Decisions&lt;/h2&gt;
+
+&lt;p&gt;Quantified self can help with both micro day-to-day decision making, as well as macro life-altering decisions. In my case, the immediate impact of seeing how I’m spending my day based on the real-time dashboard I have helps me adjust accordingly. If I see that I’m approaching my daily limit for unproductive time on my computer, I can take evasive action to prevent a loss in my daily goals streak. Jerry Seinfeld used the same technique by marking a physical calendar every day that he wrote new comedic material. In this way, he would build momentum and avoid &lt;a href=&quot;https://www.writersstore.com/dont-break-the-chain-jerry-seinfeld/&quot;&gt;“breaking chain”&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2208/1*Ang8HOeKHkNrTS9WzxNYKQ.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Below are three other data-driven decisions I’ve made with the help of quantified self:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Accomplishing Internal Goals&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Reading through my journals, I realized that the days where I felt most nourished were the days that I spent focusing, meditating and not having my attention get hijacked by time-wasting sites. To that end, I decided to setup some internal goals which consist of spending 2.5 hours focusing (&lt;a href=&quot;https://toggl.com/&quot;&gt;Toggl&lt;/a&gt;), 20mins meditating (&lt;a href=&quot;https://insighttimer.com/&quot;&gt;Insight Timer&lt;/a&gt;), and less than 1 hour on unproductive websites (&lt;a href=&quot;https://www.rescuetime.com/&quot;&gt;RescueTime&lt;/a&gt;). After implementing these measures and building out a dashboard to track this, I was able to make better micro-decisions around how I spent my day, which significantly affected the macro-outlook of my life.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Scheduled Walks&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I’ve always viewed myself as a fairly active person and am well aware of the risks of a sedentary lifestyle. That’s why I was surprised when I learned I was walking less than 5000 steps a day. Noticing this pattern, I decided to take action and implement a solution. Each afternoon, when I would typically experience a drop in productivity, I blocked off 30 minutes to go for a walk. This served as a natural break in the day, which resulted in increased steps, and a much more productive afternoon.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Limiting Online Communications&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Looking at the visualization of my Rescue Time data, I realized how frequently I checked email and social media throughout the day. To combat this, I purged my phone of apps that weren’t necessary and disabled notifications on everything that wasn’t essential. I also implemented content blocking through the&lt;a href=&quot;https://support.apple.com/en-us/HT201304&quot;&gt; iOS content restriction feature&lt;/a&gt;, and installed a &lt;a href=&quot;https://chrome.google.com/webstore/detail/go-fucking-work/hibmkkpfegfiinilnlabbfnjcopdiiig?hl=en&quot;&gt;Chrome extension&lt;/a&gt; whose purpose was to block me from visiting unproductive sites during work hours. I also experimented with phone-free Sunday’s, with the help of a &lt;a href=&quot;https://www.amazon.com/Kitchen-Safe-Locking-Container-Height/dp/B00JGFQTD2&quot;&gt;timed-lock box&lt;/a&gt;, which would prevent me from using my phone until the time I set expired.&lt;/p&gt;
+
+&lt;h2 id=&quot;my-three-rules-for-quantified-self&quot;&gt;My Three Rules for Quantified Self&lt;/h2&gt;
+
+&lt;h3 id=&quot;tracking-must-be-frictionless&quot;&gt;Tracking must be frictionless&lt;/h3&gt;
+
+&lt;p&gt;I am a firm proponent of lazy tracking, which requires little to no input from you. Having spent years trying out various quantified self apps, I’ve come to the conclusion that anything requiring manual input from me is going to fail long term. When I consider adding a new data source, I always ask myself “Will I still be doing this 5 years from now?”. In this way I’m able to build robust systems that I can commit to for the long term.&lt;/p&gt;
+
+&lt;h3 id=&quot;theres-a-process-in-place-to-review-my-data-and-make-decisions&quot;&gt;There’s a process in place to review my data and make decisions&lt;/h3&gt;
+
+&lt;p&gt;Having a dashboard in the corner of my room displaying my goals forces me to review and make adjustments during my day. Same thing with my daily journal and weekly check-in bot, I get messaged and can review the data without much hassle. Having a proper feedback loop will ensure that you get the most out of your personal data collection.&lt;/p&gt;
+
+&lt;h3 id=&quot;embracing-open-data&quot;&gt;Embracing open data&lt;/h3&gt;
+
+&lt;p&gt;One of my guiding principles for integrating a new data source is that the website or device must have an API or way of exporting the data. Too many quantified self devices and websites lock down your data behind proprietary systems. Typically the visualization tools are limited and there is a very real chance of the company shutting down or being acquired. Once that happens, all the data that you built up over the years is as good as gone.&lt;/p&gt;
+
+&lt;p&gt;Adhering to these three rules is what has helped me stick with my current quantified self system for over 3 years now. Where before I had many false starts, now I’m much more consistent and systematic in the way I collect and review my data. This ensures that I will be much more likely to comply long-term, it also allows me to evaluate future extensions of the data this way.&lt;/p&gt;
+
+&lt;p&gt;As you go about setting up your own tracking system, I encourage you to keep iterating and improving on your system.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 26 Sep 2020 00:00:00 -0700</pubDate>
+        <link>http://localhost:4040/2020/how-to-become-healthier-and-more-productive-through-self-tracking-without-spending-hundreds-of-dollars/</link>
+        <guid isPermaLink="true">http://localhost:4040/2020/how-to-become-healthier-and-more-productive-through-self-tracking-without-spending-hundreds-of-dollars/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Nietzche on Self-overcoming, Eternal Recurrence and Suffering</title>
+        <description>&lt;p&gt;A 19th-century philosopher shares his thoughts on living&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2000/1*O8beg_3VPzPWnFoDWRu7-Q.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;His work has influenced diverse groups including Marxists, Anarchists, and Conservatives. Freud, Heidegger, Jung, Hesse, Camus, Sartre, and Kafka have been influenced by his work in one form or another.&lt;/p&gt;
+
+&lt;p&gt;So who was Fredrich Nietzsche? Born in Germany in 1844, he was above all a keen observer of the human condition. Before making his mark on the world as a philosopher, he was a professor of philology at Basel University, a post he obtained at the young age of 24. It wouldn’t be until his 30s that he would strike it out on his own after having already published The Birth of Tragedy and Human, All Too Human.&lt;/p&gt;
+
+&lt;p&gt;It was during this period of independence that he would go on to write his most influential books including Thus Spoke Zarathustra, Beyond Good and Evil, On The Genealogy of Morals, and The Antichrist. His ideas were provocative and controversial. They shocked the world, particularly3 his critique of Christian morality and the Enlightenment ideas that underpinned Western philosophy.&lt;/p&gt;
+
+&lt;p&gt;In this post, we’ll stay away from his more controversial ideas, and instead, focus on three ideas that are relatable to readers today. They include self-overcoming, the eternal recurrence, and suffering as a catalyst for greatness.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2000/1*y5FPAVB6IZei-Kbn1YWTSA.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;1-self-overcoming&quot;&gt;1. Self-overcoming&lt;/h3&gt;
+
+&lt;p&gt;Nietzsche thought of as the great systems destroyer. He believed from birth that we are burdened with ideas and scripts which seek to confine our ability to self-actualize. In fact, the highest act of self-reflection in Nietzsche’s opinion was the revaluation of all values. This meant reconsidering your thoughts on good vs. evil, what constitutes a good life, and other foundational concepts that have been conditioned into you from a young age. To that extent, he offers the following analogy as a method for metamorphosis and coming into your own.&lt;/p&gt;
+
+&lt;p&gt;Life has us start as camels, burdened with cultural baggage. These are things passed down throughout generations without question. For example, the idea that subverting authority is bad, and that being docile and meek is good.&lt;/p&gt;
+
+&lt;p&gt;To evolve beyond the camel, one must become a lion. This entails embracing nonconformity, conquering your will and creating freedom for yourself. It’s about saying “No” and shaking off excess baggage.&lt;/p&gt;
+
+&lt;p&gt;At a certain point, however, you need to evolve once again into the child, which represents innocence, forgetting and a new beginning. The child embodies the sacred yes. An entity that is capable of saying yes without reservation, even to suffering. This final stage of metamorphosis naturally leads to Nietzsche’s next idea of life-affirmation and the eternal recurrence.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2560/1*vCcPbRm_y7meZy_q_NDBGQ.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;2-life-affirmation-and-eternal-recurrence&quot;&gt;2. Life-Affirmation and Eternal Recurrence&lt;/h3&gt;
+
+&lt;p&gt;In “&lt;em&gt;The Gay Science”&lt;/em&gt;, one of Nietzsche’s more personal works, he offers the following thought experiment:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“What, if some day or night a demon were to steal after you into your loneliest loneliness and say to you: ‘This life as you now live it and have lived it, you will have to live once more and innumerable times more; and there will be nothing new in it, but every pain and every joy and every thought and sigh and everything unutterably small or great in your life will have to return to you, all in the same succession and sequence — even this spider and this moonlight between the trees, and even this moment and I myself. The eternal hourglass of existence is turned upside down again and again, and you with it, speck of dust!’”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;For Nietzsche this thought experiment represented the absolute necessity of Amor Fati, learning to love and say yes to your fate. Not wanting anything to be different, not backward, not forwards, for all of eternity.&lt;/p&gt;
+
+&lt;p&gt;He furthers his point by saying &lt;em&gt;“Did you ever say yes to a pleasure? oh my friends, then you also said yes to all the pain. All things are linked, entwined, in love with one another.”&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;This capacity to say yes, even to the difficulties is one that is obviously not easy. It’s much easier to deny, numb, forget, and distract yourself from that which is most painful.&lt;/p&gt;
+
+&lt;p&gt;There are whole industries built which seek to profit from one’s inability to say yes to suffering. Yet it is the exact act of saying yes to suffering, that leads one into our next idea which is the notion that suffering is a natural catalyst to greatness.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2000/1*XxMfcXIvtfp8iuNVzMWkxw.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;3-suffering-as-a-catalyst-to-greatness&quot;&gt;3. Suffering as a catalyst to greatness&lt;/h3&gt;
+
+&lt;p&gt;If you asked Nietzsche what he wished for his close ones, he would’ve responded with the following:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“To those human beings who are of any concern to me I wish suffering, desolation, sickness, ill-treatment, indignities — I wish that they should not remain unfamiliar with profound self-contempt, the torture of self-mistrust, the wretchedness of the vanquished: I have no pity for them, because I wish them the only thing that can prove today whether one is worth anything or not — that one endures.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Now on the surface, it seems cruel to want to wish these things on those you hold dearest. Rather good health and happiness seem like the more appropriate thing to wish for. However, for Nietzsche, happiness was not an end in itself. To truly experience the beauty of life, one needed to suffer. In his mind the deeper the descent, the higher the exaltation.&lt;/p&gt;
+
+&lt;p&gt;Yet this passage is also powerful in that everybody will inevitably suffer. There is no escaping this part of life. Sooner or later, you will suffer tragedies, and the best response in those situations is to turn your affliction into an advantage.&lt;/p&gt;
+
+&lt;p&gt;Rather than let these moments wreak havoc, let them act as teachers. The most spiritual human beings are often those who experience painful tragedies. These painful moments serve as a catalyst to break the shell of their previous self and allow a beautiful transformation to occur. After all, how could you become new without first becoming ashes?&lt;/p&gt;
+
+&lt;p&gt;The particularly nuanced point he made was that merely eliminating pain would be deemed goodness, however putting pain to work is a necessary prerequisite to greatness. Rather than dull and push away your suffering, the alternative is to transform agony and suffering into beauty and art. For generations, artists and creators of all kinds have used their pain as life fuel to create beautiful works of art and told stories that resonate with the core of what it means to be human. There is a sense that to be great, one must learn to heroically endure their suffering.&lt;/p&gt;
+
+&lt;p&gt;As a final note, Nietzsche knew that not all of his ideas would resonate with everyone. Instead, he writes for those individuals capable of being a value-creators and who can break out of the herd mentality. In his book Zarathustra, he uses the main character as a mouthpiece to explore several of his more intriguing ideas, and leaves the reader to ponder the following question:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“I am a law only for mine own, I am not a law for all. This is now my way, where is yours?” — Zarathustra&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 17 Aug 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4040/2019/Nietzsche-on-Self-overcoming,-eternal-recurrence-and-suffering/</link>
+        <guid isPermaLink="true">http://localhost:4040/2019/Nietzsche-on-Self-overcoming,-eternal-recurrence-and-suffering/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>A Guide to Full Immersion Learning</title>
+        <description>&lt;p&gt;Learn how to accelerate your learning and gain fluency in any subject!&lt;/p&gt;
+
+&lt;p&gt;How do you learn? If you’re anything like the average person, you may enroll in a course, or buy a book and take some notes. But is the reliance on one or two sources the best way to learn?&lt;/p&gt;
+
+&lt;p&gt;An alternative is that of full immersion learning. This approach is all about adding as many diverse learning resources as possible and taking an active role in your learning. Full immersion learning consists of three parts: Learning the Vocabulary, Building A Tribe and Applying Your Knowledge. After reading and putting this approach in practice, you’ll be ready to tackle any subject of your interest!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2294/1*raakTIkMIp7TzIblU7ovlQ.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;learning-the-vocabulary&quot;&gt;&lt;em&gt;Learning The Vocabulary&lt;/em&gt;&lt;/h3&gt;
+
+&lt;p&gt;The first goal when starting to learn something new is to familiarize yourself with the vocabulary. Additionally understanding the concepts, foundational ideas, key figures, and the history, will give you a deeper appreciation for what you’re learning. It’ll also allow you to form new insights and ask questions that go beyond the surface level.&lt;/p&gt;
+
+&lt;p&gt;One of the best ways to acquire this vocabulary is to approach multiple resources simultaneously. For example, you may be enrolled in a technical machine learning course, while also watching West World, and listening to a podcast which interviews experts in machine learning. By adding multiple resources you’ll start to notice common ideas and phrases, presented in different formats.&lt;/p&gt;
+
+&lt;p&gt;Here are some resources that can help when you’re starting out:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;**Books **— Don’t restrict yourself to only non-fiction! Some of the most thought-provoking and educational books can come out of fiction. Neal Stephenson is a renowned author of fiction, who packs his books with tons of educational content. Take some time to also read biographies of key figures and the history of the field you’re learning. This will give you some context of how it started and where it may be going.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;**Courses — **Online or in-person courses are a great way to familiarize yourself with vocabulary in a more structured setting. They also offer an opportunity for you to get to know other students who are on the same learning journey. There are any number of Massively Open Online Classrooms, some of which are free and others paid.&lt;a href=&quot;https://www.coursera.org/&quot;&gt; Coursera&lt;/a&gt;,&lt;a href=&quot;https://www.edx.org/&quot;&gt; Edx&lt;/a&gt;, and&lt;a href=&quot;https://www.udemy.com/&quot;&gt; Udemy&lt;/a&gt; all offer a diverse set of courses that will likely cover the subject you’re interested in learning.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Media&lt;/strong&gt; — On top of courses you may also find short or long-form content in the form of podcasts, videos, and articles that will help complement your learning. As with books, try to expand your scope beyond the technical. If you’re learning biology, then it may be interesting to watch sci-fi tv movies which grapple with ethical dilemmas associated with our increasing mastery over biology. Documentaries are also great for getting a short overview of a field and familiarizing yourself with top experts. Also, make sure to search YouTube since there’s a high likelihood that someone has created a channel to help you learn.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;**Practice and Testing — **One of the best ways to increase your vocabulary and understanding is through practice and testing. This can be as simple as creating flashcards for terms or can involve more practical problems related to your field.&lt;a href=&quot;https://getatomi.com/staffroom/what-is-active-recall-and-how-effective-is-it/&quot;&gt; Active recall&lt;/a&gt; has proven to be one of the best techniques to solidify your learning, so make sure to take advantage of this!&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;building-a-tribe&quot;&gt;&lt;em&gt;Building A Tribe&lt;/em&gt;&lt;/h3&gt;
+
+&lt;p&gt;Once you feel like you have a good grasp of vocabulary, it’s time to meet some people! The three groups of individuals that you should seek out are Mentors, Peers, and Mentees. Building a learning tribe that consists of these three groups will help you confront holes in your knowledge, while also receiving guidance and support.&lt;/p&gt;
+
+&lt;p&gt;Mentors are people who have achieved some level of mastery or expertise in the field you’re interested in. They can help you identify areas of weakness, answer specific questions and provide milestones for you to strive towards. Peers are other learners who have a similar level of expertise. The advantage of having a peer is that you’ll often encounter similar learning challenges, allowing each of you an opportunity to teach and learn from one another. Mentees are people who may be just starting out. Richard Feynman, a Nobel winning physicist, was known for saying “*If you can’t explain something in simple terms, you don’t understand it.”. *Thus mentees provide an opportunity for you to test how thoroughly you actually understand something.&lt;/p&gt;
+
+&lt;p&gt;Here are some areas you can find these people:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;**Online Communities — &lt;a href=&quot;https://slofile.com/&quot;&gt;**Slack&lt;/a&gt; and &lt;a href=&quot;https://discordservers.com/&quot;&gt;Discord&lt;/a&gt; are frequently used by niche communities who want to have to create a more intimate community. While there are plenty of Facebook online communities, they aren’t nearly as versatile or engaging as the former two. Other options include Twitter, which often has its own sub-Twitter communities, Quora where you can ask and answer questions, and Medium where you can identify experts who write about the content you’re interested in.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;**Offline Communities — **Depending on what you’re learning and where you live, there’s a good chance that there exists some sort of offline community filled with similarly motivated learners. Take a look at websites such as &lt;a href=&quot;https://www.meetup.com/&quot;&gt;Meetup&lt;/a&gt;, Facebook’s discover event feature or &lt;a href=&quot;https://www.eventbrite.ca/&quot;&gt;Eventbrite&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;**Paid Mentor — **A more effective way of finding a mentor is to pay for one. Informal mentors may not have the ability to meet with you regularly or have a background in mentoring. Paid mentors, on the other hand, will have had lots of experience working with people of your skill level and can meet with you on your own terms. Depending on the subject, you can either find specific websites for mentors (e.g. &lt;a href=&quot;https://hackhands.com/&quot;&gt;HackHands&lt;/a&gt; a website for programming mentors) or more general websites such as &lt;a href=&quot;https://www.superprof.com/&quot;&gt;Super Prof&lt;/a&gt; which have a wide variety of teachers and mentors.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;applying-your-knowledge&quot;&gt;&lt;em&gt;Applying Your Knowledge&lt;/em&gt;&lt;/h3&gt;
+
+&lt;p&gt;Once you’ve learned the vocabulary, and formed your learning tribe, it’s time to apply your knowledge! This is an important step in your learning journey as it allows you to consolidate your learning, and get feedback from others. Whether you choose to apply your knowledge through writing, programming, or another way of expressing your knowledge, the key is to weave in your learning in a way that feels authentic.&lt;/p&gt;
+
+&lt;p&gt;There are any number of ways for you to apply your knowledge, however, three general areas are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;**Experiences **— Applying your knowledge within the context of experiences could involve giving a talk to share your knowledge with a wider audience, or organizing a dinner group with the intention of discussing your subject in depth. Showcasing your knowledge by creating experiences also serves as a great way to identify mentors, peers, and mentees.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;**Products — **Creating a product whether free or paid, is a fantastic way of consolidating your knowledge. Products could range from mobile apps, websites, physical products, or even an online course. An example using an abstract subject such as Ethics might be a mobile app that helps users crowdsource advice related to ethical problems in their life. Inside the app, you could write articles explaining various ethical frameworks that would serve to educate users and help them make morally informed decisions.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;**Media **— Distribution channels for content such as Medium, LinkedIn, Quora and Youtube all serve as a great way to share your learning with a wider audience. You might start by creating content and guides to help out learners who are just starting out or simply answering questions that other people have. This will allow you to clarify your thinking, and get feedback.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;After following this framework, all that’s left is to climb the ladder of competency in your given field. At a certain point in your learning journey, you may even benefit from learning another complementary field that can help you deepen and generate new insights. For example, if you’ve spent the last 6 months learning to program, you may benefit from learning about Product so that you can improve the products that you build.&lt;/p&gt;
+
+&lt;p&gt;If you’re interested in more tactical advice on learning, I’d recommend reading my other article on &lt;a href=&quot;https://medium.com/age-of-awareness/learning-how-to-learn-a727f7b96f53&quot;&gt;learning how to learn&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 13 Feb 2019 00:00:00 -0800</pubDate>
+        <link>http://localhost:4040/2019/A-Guide-To-Full-Immersion-Learning/</link>
+        <guid isPermaLink="true">http://localhost:4040/2019/A-Guide-To-Full-Immersion-Learning/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Optimizing Your Workspace</title>
+        <description>&lt;p&gt;The main purpose of a workspace is to enable you to do your best work. Even the greatest artist would not be able to reach the heights of their creative potential without the proper tools.&lt;/p&gt;
+
+&lt;p&gt;With that in mind, it’s important to note that everyone’s tools or workspaces will look different. Different modes of work, demand different workspaces. The one described in this article is best suited for knowledge workers who use computers extensively.&lt;/p&gt;
+
+&lt;p&gt;Over the years of tweaking and experimenting, I’ve settled on a workspace that has proven to be effective at enabling flow states whenever I’m writing or programming. Hopefully, you’ll find an item or two that will help improve your own workspace and empower you to do your best work.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2880/0*cQZ_hj1IhhFqw38f&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;**Dual Monitor and Laptop Stand
+**By far the best way to upgrade your workspace is with the addition of a second monitor. &lt;a href=&quot;https://www.maketecheasier.com/do-dual-monitors-improve-productivity/&quot;&gt;Multiple studies&lt;/a&gt; have shown that the addition of another monitor leads to faster task completion and overall increased ease of use. While adding a laptop stand is not necessary, it does help with screen alignment, making it easier to switch between monitors.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;**Ergonomic Keyboard 
+**If you spend a significant amount of time typing on a keyboard, you owe it to yourself to invest in an ergonomic keyboard. The one pictured is the &lt;a href=&quot;https://www.amazon.com/Kinesis-Advantage2-Ergonomic-Keyboard-KB600/dp/B01KR1C5PY&quot;&gt;Kinesis Advantage 2&lt;/a&gt;, although there are plenty others out there. After getting used to the keyboard, you’ll immediately feel the difference and your hands will thank you for it.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;**Magic Trackpad
+**After using one of the &lt;a href=&quot;https://www.apple.com/ca/shop/product/MJ2R2LL/A/magic-trackpad-2-silver&quot;&gt;Magic Trackpads sold by Apple&lt;/a&gt;, it’s very difficult to go back to a regular mouse. There are several intuitive swipe features that make this easy to use and an essential part of any workflow.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;**Audio Technica Headphones
+**Lauded as one of the &lt;a href=&quot;https://www.lifewire.com/best-audio-technica-headphones-4157704&quot;&gt;best headphones on the market&lt;/a&gt;, Audio Technica’s offer a great audio experience. They also contribute to perceived busyness that will deter even the most determined person from interrupting you while you’re in the zone. For additional comfort, I suggest getting the &lt;a href=&quot;http://www.zmfheadphones.com/pads-and-cables/zmf-oval-earpads&quot;&gt;ZMF oval earpads &lt;/a&gt;(Cowhide).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;**Flic button 
+&lt;a href=&quot;https://flic.io&quot;&gt;**Flic&lt;/a&gt; is a home automation button that allows you to map a sequence of actions to three distinct tactile gestures (single, double, and long press). In my case, I map a single press to changing my hue lights to an ‘energetic’ color and automatically opening up Toggl and Spotify. Double press changes the lights to a more soothing color and puts my computer to sleep. Long press switches Spotify songs.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;**Hue light 
+**These &lt;a href=&quot;https://www.amazon.com/slp/hue-lights/jupbu3rx5nqmtqh&quot;&gt;Internet-of-Thing lights&lt;/a&gt; are what I use to prime myself to get into either productive or relaxing states. Pairing them with the previously mentioned Flic button allows me to anchor states to lights with the push of a button.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;**Water 
+**Certain studies have shown that upwards of &lt;a href=&quot;https://www.medicaldaily.com/75-americans-may-suffer-chronic-dehydration-according-doctors-247393&quot;&gt;75% of Americans suffer from chronic dehydration&lt;/a&gt;. The general advice is to drink &lt;a href=&quot;https://www.healthline.com/nutrition/8-glasses-of-water-per-day&quot;&gt;8 glasses of 8 ounces of water &lt;/a&gt;a day. So by having a &lt;a href=&quot;https://www.amazon.com/d/Sports-Water-Bottles/Nalgene-Mouth-BPA-Free-Water-Bottle/B071GL7NNN&quot;&gt;48 oz water bottle&lt;/a&gt; by my desk, I can easily keep track of my daily goal of drinking a bottle and a half a day.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;**Essential Oil Diffuser
+**Our sense of smell is quite powerful, as anyone could tell you after encountering a sentimental smell from their childhood. By anchoring specific smells with specific states you want to cultivate (i.e. flow or relaxation), you can better access those states. There are a number of &lt;a href=&quot;https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&amp;amp;field-keywords=aromatherapy+diffuser&quot;&gt;diffusers&lt;/a&gt; you can find on Amazon.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;**Bullet Journal 
+**The &lt;a href=&quot;https://bulletjournal.com/&quot;&gt;Bullet Journal&lt;/a&gt; is a productivity tool and technique that helps you get things done. The system is quite&lt;a href=&quot;https://bulletjournal.com/pages/learn&quot;&gt; simple and intuitive&lt;/a&gt;, although you’re always welcome to improvise and suit it to your needs. I fill mine out every Sunday, and every evening before I go to bed I specify the three things I want to accomplish the next day.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;**Gum
+&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4449949/&quot;&gt;**Chewing gum has been associated&lt;/a&gt; with enhanced productivity and reduced cognitive errors at work. It also gives you something to do if you’re stuck on a particular problem! I recommend getting the s&lt;a href=&quot;https://www.amazon.com/Eclipse-Sugarfree-Gum-Bottle-Bottles/dp/B001D3K2AG?ref_=Oct_TopRatedC_16322471_1&amp;amp;pf_rd_p=801c4a43-8eef-5fa0-8c89-bfee1e13b0af&amp;amp;pf_rd_s=merchandised-search-6&amp;amp;pf_rd_t=101&amp;amp;pf_rd_i=16322471&amp;amp;pf_rd_m=ATVPDKIKX0DER&amp;amp;pf_rd_r=7G5H3SRFKJEFYFW2V7HZ&amp;amp;pf_rd_r=7G5H3SRFKJEFYFW2V7HZ&amp;amp;pf_rd_p=801c4a43-8eef-5fa0-8c89-bfee1e13b0af&quot;&gt;ugar-free gum that comes in packs of 60.&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;**Fidget cube
+**If you happen to have a lot of kinetic energy, &lt;a href=&quot;https://www.amazon.com/Helect-Fidget-Relieves-Stress-Anxiety/dp/B075K6V37H/ref=sr_1_3?ie=UTF8&amp;amp;qid=1547217350&amp;amp;sr=8-3&amp;amp;keywords=fidget+cube&quot;&gt;the fidget cube&lt;/a&gt; is the perfect place to channel it. Whenever you encounter a problem that requires additional thought, playing with your fidget cube can be a surefire way of breaking through the problem.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Remember, while a brilliant artist is better enabled by superior tools, these tools in the hands of a mediocre artist will not make a significant difference. So don’t be fooled into thinking that by improving your workspace everything will change. In the end, talent and a strong work ethic trump all. However, an optimized workspace may give you the extra edge you need to do your best work.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 17 Jan 2019 00:00:00 -0800</pubDate>
+        <link>http://localhost:4040/2019/optimizing-your-workspace/</link>
+        <guid isPermaLink="true">http://localhost:4040/2019/optimizing-your-workspace/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Learning How To Learn</title>
@@ -81,9 +660,9 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;*Dynamic Testing: *As you learn it’s important to have some sort of feedback loop to see how much you’re actually learning and where your holes are. The easiest way to do this is with flashcards, but other ways could include writing a blog post or explaining a concept to a friend who can point out inconsistencies. In doing so, you’ll quickly notice the gaps in your knowledge and the concepts you need to revisit in your future learning sessions.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Dynamic Testing:&lt;/em&gt; As you learn it’s important to have some sort of feedback loop to see how much you’re actually learning and where your holes are. The easiest way to do this is with flashcards, but other ways could include writing a blog post or explaining a concept to a friend who can point out inconsistencies. In doing so, you’ll quickly notice the gaps in your knowledge and the concepts you need to revisit in your future learning sessions.&lt;/p&gt;
 
-&lt;p&gt;*Pomodoro technique: *This is a technique I’ve been using consistently for the past few years and I’ve been very happy with it so far. The concept is pretty simple, you start a timer for either 25 or 50 minutes, after which you focus on one single thing. Once the timer is up, you have a 5 or 10-minute break before starting again.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Pomodoro technique:&lt;/em&gt; This is a technique I’ve been using consistently for the past few years and I’ve been very happy with it so far. The concept is pretty simple, you start a timer for either 25 or 50 minutes, after which you focus on one single thing. Once the timer is up, you have a 5 or 10-minute break before starting again.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Common Learning Traps&lt;/strong&gt;&lt;/p&gt;
 
@@ -134,15 +713,50 @@
 &lt;em&gt;The Superpower I have a new book coming out early next year, The Rise of Superman: Decoding the Science of Ultimate…&lt;/em&gt;www.forbes.com&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://static.coggle.it/diagram/WMbg3JvOtwABM9gV/t/learning-how-to-learn&quot;&gt;&lt;strong&gt;Learning How To Learn (Learning Hacks (Chunking. Chunks are pieces of…&lt;/strong&gt;
 &lt;em&gt;Learning How To Learn (Learning Hacks (Chunking. Chunks are pieces of…: Learning How To Learn&lt;/em&gt;static.coggle.it&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;[&lt;strong&gt;Learning To Learn “Develop a passion for…&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Learning To Learn “Develop a passion for…: Learning To Learn “Develop a passion for learning. If you do, you will…&lt;/em&gt;coggle.it](https://coggle.it/diagram/V83cTEMcVU1E-DGf/t/learning-to-learn-cease-to-grow-%E2%80%9D/c52462e2ac70ccff427070e1cf650eacdbe1cf06cd0eb9f0013dc53a2079cc8a)&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.coursera.org/learn/learning-how-to-learn&quot;&gt;&lt;strong&gt;Learning How to Learn: Powerful mental tools to help you master tough subjects | Coursera&lt;/strong&gt;
 &lt;em&gt;This course gives you easy access to the invaluable learning techniques used by experts in art, music, literature…&lt;/em&gt;www.coursera.org&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 23 Dec 2018 00:00:00 -0800</pubDate>
-        <link>http://localhost:5000/2018/learning-how-to-learn/</link>
-        <guid isPermaLink="true">http://localhost:5000/2018/learning-how-to-learn/</guid>
+        <link>http://localhost:4040/2018/learning-how-to-learn/</link>
+        <guid isPermaLink="true">http://localhost:4040/2018/learning-how-to-learn/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>One Simple Tactic from the Stoics For Setting Better Goals</title>
+        <description>&lt;p&gt;How do you set your goals? If you’re anything like the average goal-oriented person you likely have goals related to career, money, lifestyle or health. Goals such as earning a six figure salary, getting a promotion, moving to a nicer neighbourhood, or getting a washboard abs are all far too common amongst well intentioned goal-oriented people.&lt;/p&gt;
+
+&lt;p&gt;But is that the best way to go about setting your goals? To approach this question, I decided to turn to the ancient philosophers for advice. Specifically, the Stoics and their ideas surrounding the trichotomy of control. To give you some quick background, &lt;a href=&quot;https://en.wikipedia.org/wiki/Stoicism&quot;&gt;Stoicism is an ancient philosophy&lt;/a&gt; that gained prominence during the reign of the Romans and the Greeks. It’s a philosophy which offers practical advice on daily living, with a specific focus on living a virtuous life that leads to less suffering. It’s recently seen a resurgence in modern day culture — specifically places like Silicon Valley, thanks to people like &lt;a href=&quot;https://tim.blog/2009/04/13/stoicism-101-a-practical-guide-for-entrepreneurs/&quot;&gt;Tim Ferriss&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://ryanholiday.net/stoicism-a-practical-philosophy-you-can-actually-use/&quot;&gt;Ryan Holiday&lt;/a&gt; promoting the ideals and tenets of Stoicism.&lt;/p&gt;
+
+&lt;p&gt;One of the central ideas within Stoicism is the trichotomy of control. It’s a pretty simple idea, yet when implemented correctly can be incredibly powerful. As the name hints, the Stoics believed that control in our lives could be broken down into three buckets: things we have complete control over, things we have partial control over, and things which we have no control over. Within the context of setting goals, we’ll focus specifically on the bucket of things we have partial control over.&lt;/p&gt;
+
+&lt;p&gt;While some people would try to argue that you can accomplish all your personal goals through sheer force of will, the reality is that it can often be subject to the whims of external factors. Whether that be internal company politics, external forces within the market or even events in your personal life, all these have a strong influence on the outcome of achieving your goals.&lt;/p&gt;
+
+&lt;p&gt;So bearing that in mind, how did the Stoics recommend we deal with things we had partial control over? Their recommendation was that instead of setting external goals, we should strive towards setting internal goals — goals which we have a greater degree of control over accomplishing.&lt;/p&gt;
+
+&lt;p&gt;To give you some examples, imagine you’re an entrepreneur who is looking to raise some money. You could either set an external goal of “&lt;em&gt;I want to raise $2M by the end of this quarter,&lt;/em&gt;” or you could focus on setting an internal goal such as “&lt;em&gt;I’d like to meet with five new investors a week&lt;/em&gt;” or “&lt;em&gt;I’d like to spend three hours a day on improving my pitch deck&lt;/em&gt;.” Another example could be someone wanting to get their PhD. Instead of focusing on the external goal of receiving a PhD diploma (Which has shown a &lt;a href=&quot;https://finishyourthesis.com/drop-out/&quot;&gt;50% attrition rate&lt;/a&gt;), the person could set the goal of 4–5 hours of &lt;a href=&quot;https://blog.evernote.com/blog/2017/02/23/deep-work-matters-distracted-world/&quot;&gt;deep work&lt;/a&gt; a day, and other health related internal goals to prevent burnout.&lt;/p&gt;
+
+&lt;p&gt;The best internal goals are ones which you have a higher degree control over. In the entrepreneur example, meeting with five new investors a week is not fully within your control, in contrast, spending your time working on your deck would be.&lt;/p&gt;
+
+&lt;p&gt;When I first encountered the idea of trichotomy of control, it deeply resonated with me. For the majority of my life, I had set external goals which I would occasionally achieve, but more often than not, I either missed the mark or changed my mind on the goal, leading to inevitable frustration. I’m now more cognizant of setting internal goals and in fact, built out a tool specifically to address this issue.&lt;/p&gt;
+
+&lt;p&gt;The tool is a real-time &lt;a href=&quot;http://snip.ly/f69dk#https://qself-dashboard.herokuapp.com/&quot;&gt;personal dashboard&lt;/a&gt; for my life that aggregates and visualizes my personal data. The top view consists of three internal goals (my steps, focus time and unproductivity) along with a calendar showing me which days I hit or missed my internal goals. The rest of the page consists of a variety of pie, line and bar graphs which give me feedback on how I’m spending my time. To keep my internal goals top of mind, I have a raspberry pi hooked up to a TV monitor that displays these metrics, and throughout the day I’m able to glance to see how I’m doing.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2868/0*TfP1HHmne3TxBe9H.&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;[&lt;em&gt;Quantified Self Dashboard](http://snip.ly/f69dk)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Transitioning to this style of goal setting and implementing a feedback loop for these goals has led to a much happier and more productive life. Instead of stressing over whether I’m on track to meet some arbitrary external goal that I have partial control over, I can feel satisfied knowing I’ve spent another day where I completed the internal goals I set for myself.&lt;/p&gt;
+
+&lt;p&gt;While it’s tempting to set big hairy audacious external goals which can signal how ambitious you are, the more practical approach is to focus on setting internal goals. If in the process of achieving your internal goals you hit your external goals — fantastic! If not, it’s not an issue because you were able to achieve your own internal goals.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Let me know what you think in the comments below, how do you think about goal setting? Do you see the value of setting goals internally as opposed to externally?&lt;/strong&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 16 Nov 2017 00:00:00 -0800</pubDate>
+        <link>http://localhost:4040/2017/one-simple-tactic-from-the-stoics-for-setting-better-goals/</link>
+        <guid isPermaLink="true">http://localhost:4040/2017/one-simple-tactic-from-the-stoics-for-setting-better-goals/</guid>
         
         
       </item>
