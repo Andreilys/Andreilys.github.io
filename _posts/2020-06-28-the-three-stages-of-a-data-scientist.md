@@ -1,8 +1,10 @@
-
-# The Three Stages of a Data Scientist
-
-In this article, we’ll explore the differences between data scientists as Decision Support, Advisor and Integrated Partner
-
+---
+layout: post
+title: "The Three Stages of a Data Scientist"
+description: "In this article, we’ll explore the differences between data scientists as Decision Support, Advisor and Integrated Partner"
+comments: true
+keywords: "data science, data, career advice"
+---
 ![](https://cdn-images-1.medium.com/max/2312/0*ahgwx-_d2b5Rrq7M)
 
 One of the best and worst parts of being a data scientist is the ambiguity that the role can often entail. Since data science is a relatively new function, the mandate and objectives aren’t always clear. This often means that the destiny of data science at a company lies in the hands of the data scientists, who often find themselves straddling both technical and non-technical domains. As such, being able to shape and define the role is key if you want to have a fulfilling career as a data scientist.

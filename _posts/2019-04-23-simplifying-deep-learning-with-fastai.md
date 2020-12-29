@@ -1,8 +1,10 @@
-
-# Simplifying Deep Learning with Fast.ai
-
-An Overview of The Fast.ai Practical Deep Learning for Coders Course
-
+---
+layout: post
+title: "Simplifying Deep Learning with Fast.ai"
+description: "An Overview of The Fast.ai Practical Deep Learning for Coders Course"
+comments: true
+keywords: "data science, machine learning, data, deep learning"
+---
 ![](https://cdn-images-1.medium.com/max/2000/1*bUZKHfAugVeXAkl0TGClCA.png)
 
 Deep learning is a field notorious for gatekeeping. If you try to find answers [online](https://www.quora.com/Whats-the-most-effective-way-to-get-started-with-deep-learning) on how to break into the field, you’ll likely find yourself overwhelmed with a long list of requirements.

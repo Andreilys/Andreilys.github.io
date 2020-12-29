@@ -1,7 +1,10 @@
-
-# Making Recommendations Stick As A Data Scientist
-
-Use These Six Principles To Make Recommendations Stand Out
+---
+layout: post
+title: "Making Recommendations Stick As A Data Scientist"
+description: "Use These Six Principles To Make Recommendations Stand Out"
+comments: true
+keywords: "data science, data, career advice"
+---
 
 ![](https://cdn-images-1.medium.com/max/2000/1*uSYLH1oZk8VjrV27_L6vhQ.png)
 

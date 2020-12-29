@@ -1,7 +1,10 @@
-
-# Goal Setting for Data Scientists
-
-A framework for setting and achieving career goals
+---
+layout: post
+title: "Goal Setting for Data Scientists"
+description: "A framework for setting and achieving career goals"
+comments: true
+keywords: "data, career advice"
+---
 
 ![](https://cdn-images-1.medium.com/max/3200/0*3tsM0Ft8x_e8mfJf)
 

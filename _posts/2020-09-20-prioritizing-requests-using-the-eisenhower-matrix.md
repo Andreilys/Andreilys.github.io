@@ -1,7 +1,10 @@
-
-# Prioritizing Requests Using The Eisenhower Matrix
-
-Data scientists can use the Eisenhower Matrix to avoid simply taking orders, and instead, establish themselves as strategic advisers
+---
+layout: post
+title: "Prioritizing Requests Using The Eisenhower Matrix"
+description: "Data scientists can use the Eisenhower Matrix to avoid simply taking orders, and instead, establish themselves as strategic advisers"
+comments: true
+keywords: "data science, productivity, data, career advice"
+---
 
 ![](https://cdn-images-1.medium.com/max/2000/0*WVEZg8fwJX1vDCuH)
 
