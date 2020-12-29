@@ -6,17 +6,17 @@ comments: true
 keywords: "metalearning, self development"
 ---
 
-# Learning How To Learn
-
-
-
 There is no skill that will earn greater dividends in your life than that of learning effectively.
+
 
 The twin forces of Globalization and Technological Progress ensures that the days of a single career at one company are long past. The average person can be expected to [change jobs 10 to 15 times](https://www.thebalancecareers.com/how-often-do-people-change-jobs-2060467), and planning for[ multiple careers in a lifetime](https://www.ft.com/content/0151d2fe-868a-11e7-8bb1-5ba57d47eff7) is becoming a necessity.
 
+
 Beyond career benefits, there’s also the personal ones. Have you ever tried to learn an instrument, before leaving it to gather dust in the attic? How about learning a language on Duolingo, only to never reopen the course after the first week? If you’re like me, there’s likely a graveyard of dead hobbies and interests that started initially with great gusto but quickly petered out.
 
+
 In the face of all this, you have a choice. Will you choose stagnation or growth? This article is for those who choose the latter. It contains a synthesis of all the books and articles I’ve read on learning, with the hope that you’ll be able to apply it in both your personal and professional life. It’s broken down into three main sections: upgrading your learning toolbox, common learning traps and steps for effective learning.
+
 
 **Upgrading Your Learning Toolbox**
 
@@ -72,11 +72,11 @@ Below are a handful of strategies that when applied, can have a great impact on 
 
 *Dunning Kruger effect:* Not realizing you’re incompetent. To combat this, find ways to test your abilities through dynamic testing or in public forums.
 
-*Einstellung: *Our mindset prevents us from seeing new solutions or grasping new knowledge. To counteract this, learn to step back from the problem and take a break. Sometimes all it takes is a relaxing hot shower or a long walk to be able to break through a tough conceptual learning challenge.
+*Einstellung:* Our mindset prevents us from seeing new solutions or grasping new knowledge. To counteract this, learn to step back from the problem and take a break. Sometimes all it takes is a relaxing hot shower or a long walk to be able to break through a tough conceptual learning challenge.
 
-*Fluency illusion: *Learning something complex and thinking you understand it. For example, you may read about computing integrals thinking you understand them, then when tested you fail to get any of the answers correct. Thus having some sort of feedback loop to check your understanding is the quickest way to defuse this. Another way would be to explain what you learned to someone smarter than you
+*Fluency illusion:* Learning something complex and thinking you understand it. For example, you may read about computing integrals thinking you understand them, then when tested you fail to get any of the answers correct. Thus having some sort of feedback loop to check your understanding is the quickest way to defuse this. Another way would be to explain what you learned to someone smarter than you
 
-*Multitasking: *Switching constantly between tasks and thinking modes. When you’re learning, it’s important to focus completely on the learning material at hand. By letting your attention be hijacked by notifications or other less important tasks, you miss out on the ability to get into a [flow state](https://en.wikipedia.org/wiki/Flow_(psychology)).
+*Multitasking:* Switching constantly between tasks and thinking modes. When you’re learning, it’s important to focus completely on the learning material at hand. By letting your attention be hijacked by notifications or other less important tasks, you miss out on the ability to get into a [flow state](https://en.wikipedia.org/wiki/Flow_(psychology)).
 
 **Steps For Learning**
 
@@ -99,11 +99,11 @@ Before iterating through these steps, it’s important to compile a set of tasks
 I challenge you to revisit an old hobby or learning project and employ some of the techniques outlined in this article. Realize that there may be some stumbling along the way, and a reversion to old habits (e.g. Highlighting and re-reading text), but keep trying and you’ll soon see how effective the new tools in your learning toolbox are!
 
 **Additional Resources**
-[**Learning To Learn Faster: The One Superpower Everyone Needs**
+- [**Learning To Learn Faster: The One Superpower Everyone Needs**
 *The Superpower I have a new book coming out early next year, The Rise of Superman: Decoding the Science of Ultimate…*www.forbes.com](https://www.forbes.com/sites/stevenkotler/2013/06/02/learning-to-learn-faster-the-one-superpower-everyone-needs/#4b13ea642dd7)
-[**Learning How To Learn (Learning Hacks (Chunking. Chunks are pieces of…**
+- [**Learning How To Learn (Learning Hacks (Chunking. Chunks are pieces of…**
 *Learning How To Learn (Learning Hacks (Chunking. Chunks are pieces of…: Learning How To Learn*static.coggle.it](https://static.coggle.it/diagram/WMbg3JvOtwABM9gV/t/learning-how-to-learn)
-[**Learning To Learn “Develop a passion for…**
-*Learning To Learn “Develop a passion for…: Learning To Learn “Develop a passion for learning. If you do, you will…*coggle.it](https://coggle.it/diagram/V83cTEMcVU1E-DGf/t/learning-to-learn-cease-to-grow-%E2%80%9D/c52462e2ac70ccff427070e1cf650eacdbe1cf06cd0eb9f0013dc53a2079cc8a)
-[**Learning How to Learn: Powerful mental tools to help you master tough subjects | Coursera**
+- [**Learning To Learn “Develop a passion for…**
+- *Learning To Learn “Develop a passion for…: Learning To Learn “Develop a passion for learning. If you do, you will…*coggle.it](https://coggle.it/diagram/V83cTEMcVU1E-DGf/t/learning-to-learn-cease-to-grow-%E2%80%9D/c52462e2ac70ccff427070e1cf650eacdbe1cf06cd0eb9f0013dc53a2079cc8a)
+- [**Learning How to Learn: Powerful mental tools to help you master tough subjects | Coursera**
 *This course gives you easy access to the invaluable learning techniques used by experts in art, music, literature…*www.coursera.org](https://www.coursera.org/learn/learning-how-to-learn)
