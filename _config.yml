@@ -1,6 +1,6 @@
 # Site settings
-title_left    : "Andrei"
-title_right   : "Lyskov" # default: ""
+title_left    : ""
+title_right   : "Andrei Lyskov" # default: ""
 description   : "Minimalist Jekyll theme for technical writing blog."
 keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
 url           :  https://andreilyskov.com # site url
@@ -9,8 +9,8 @@ cover         : "" # image uri like logo/cover image for site seo
 
 google_analytics  : UA-XXXXX-XX
 twitter_username  : "LyskovAndrei"
-comments_enabled  : false # if enabled (set to true), please provide your disqus_username
-disqus_shortname  : ""
+comments_enabled  : true # if enabled (set to true), please provide your disqus_username
+disqus_shortname  : "andrei_lyskov"
 postshare_enabled : false
 
 # Build settings
