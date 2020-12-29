@@ -5,8 +5,8 @@
     <description>Minimalist Jekyll theme for technical writing blog.</description>
     <link>http://localhost:4040/</link>
     <atom:link href="http://localhost:4040/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 28 Dec 2020 17:19:35 -0800</pubDate>
-    <lastBuildDate>Mon, 28 Dec 2020 17:19:35 -0800</lastBuildDate>
+    <pubDate>Mon, 28 Dec 2020 17:23:08 -0800</pubDate>
+    <lastBuildDate>Mon, 28 Dec 2020 17:23:08 -0800</lastBuildDate>
     <generator>Jekyll v4.0.1</generator>
     
       <item>
@@ -266,7 +266,7 @@
 
 &lt;p&gt;The process also isn’t perfect and there will be times that you fail to impress an interviewer because you don’t possess some obscure piece of knowledge. However, with repeated persistence and adequate preparation, you’ll be able to land a data science job in no time!&lt;/p&gt;
 </description>
-        <pubDate>Mon, 28 Dec 2020 17:19:35 -0800</pubDate>
+        <pubDate>Mon, 28 Dec 2020 17:23:08 -0800</pubDate>
         <link>http://localhost:4040/2020/2019-01-22-Mastering-the-Data-Science-Interview-Loop/</link>
         <guid isPermaLink="true">http://localhost:4040/2020/2019-01-22-Mastering-the-Data-Science-Interview-Loop/</guid>
         
