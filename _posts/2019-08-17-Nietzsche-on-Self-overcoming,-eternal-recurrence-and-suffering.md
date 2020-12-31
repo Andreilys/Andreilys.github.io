@@ -6,8 +6,6 @@ comments: true
 keywords: "self-development, philosophy"
 ---
 
-A 19th-century philosopher shares his thoughts on living
-
 ![](https://cdn-images-1.medium.com/max/2000/1*O8beg_3VPzPWnFoDWRu7-Q.png)
 
 His work has influenced diverse groups including Marxists, Anarchists, and Conservatives. Freud, Heidegger, Jung, Hesse, Camus, Sartre, and Kafka have been influenced by his work in one form or another.

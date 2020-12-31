@@ -27,8 +27,6 @@ The tool is a real-time [personal dashboard](http://snip.ly/f69dk#https://qself-
 
 ![](https://cdn-images-1.medium.com/max/2868/0*TfP1HHmne3TxBe9H.)
 
-[*Quantified Self Dashboard](http://snip.ly/f69dk)*
-
 Transitioning to this style of goal setting and implementing a feedback loop for these goals has led to a much happier and more productive life. Instead of stressing over whether I’m on track to meet some arbitrary external goal that I have partial control over, I can feel satisfied knowing I’ve spent another day where I completed the internal goals I set for myself.
 
 While it’s tempting to set big hairy audacious external goals which can signal how ambitious you are, the more practical approach is to focus on setting internal goals. If in the process of achieving your internal goals you hit your external goals — fantastic! If not, it’s not an issue because you were able to achieve your own internal goals.

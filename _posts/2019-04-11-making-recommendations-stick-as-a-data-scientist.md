@@ -12,7 +12,7 @@ Have you ever walked an audience through your recommendations, only to have them
 
 Part of the work of a data scientist is being able to translate your work into actionable recommendations and insights for stakeholders. This means making your ideas memorable, easy to understand and impactful.
 
-In this article, we’ll explore the principles behind the book [*Made To Stick](https://www.amazon.com/Made-Stick-Ideas-Survive-Others-ebook/dp/B000N2HCKQ)*, and apply it within the context of data science. This book suggests that the best ideas follow six main principles: Simplicity, Unexpectedness, Concreteness, Credibility, Emotions, and Stories (SUCCESs). After reading this article, you’ll be able to integrate these principles into your work and increase the impact of your recommendations and insights.
+In this article, we’ll explore the principles behind the book [Made To Stick](https://www.amazon.com/Made-Stick-Ideas-Survive-Others-ebook/dp/B000N2HCKQ), and apply it within the context of data science. This book suggests that the best ideas follow six main principles: Simplicity, Unexpectedness, Concreteness, Credibility, Emotions, and Stories (SUCCESs). After reading this article, you’ll be able to integrate these principles into your work and increase the impact of your recommendations and insights.
 
 ### **Simple**
 

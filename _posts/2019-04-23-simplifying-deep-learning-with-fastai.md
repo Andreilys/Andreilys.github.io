@@ -24,22 +24,22 @@ In this article, you’ll get a high-level overview of their deep learning for c
 
 ### Course Overview
 
-**1. Image Classification
-**The first lesson covers Jeremy’s background and qualifications, the motivation for the course and possibilities after completing it. He debunks some common myths about deep learning (such as the need for lots of data and GPU) and showcases some past student projects and success stories.
+**1. Image Classification**
+The first lesson covers Jeremy’s background and qualifications, the motivation for the course and possibilities after completing it. He debunks some common myths about deep learning (such as the need for lots of data and GPU) and showcases some past student projects and success stories.
 
 The rest of the lesson involves building image classifiers using the fastai library to achieve state of the art accuracy. Since the class is taught in a top-down manner, the first lesson is focused on getting something working as soon as possible.
 
 [Lesson Notes](https://github.com/hiromis/notes/blob/master/Lesson1.md)
 
-**2. Production; SGD from scratch
-**Continuing with the theme of image classifiers, you now get a chance to build your own image classifier. After training a model based on images you find on Google, you’re then taught how to put this model into production. The best part of this lesson is the ease of going from an idea to a production working application ([here’s a live example of the bear image classifier built in this lesson](https://fastai-v3.onrender.com/)).
+**2. Production; SGD from scratch**
+Continuing with the theme of image classifiers, you now get a chance to build your own image classifier. After training a model based on images you find on Google, you’re then taught how to put this model into production. The best part of this lesson is the ease of going from an idea to a production working application ([here’s a live example of the bear image classifier built in this lesson](https://fastai-v3.onrender.com/)).
 
 The rest of the lesson consists of learning about stochastic gradient descent, by building it from scratch.
 
 [Lesson Notes](https://github.com/hiromis/notes/blob/master/Lesson2.md)
 
-**3. Multi-label; Segmentation
-**The first part of lesson 3 gives you an overview of how to deal with multi-label classification. It also looks under the hood at some of the functions and classes used in the fastai library.
+**3. Multi-label; Segmentation**
+The first part of lesson 3 gives you an overview of how to deal with multi-label classification. It also looks under the hood at some of the functions and classes used in the fastai library.
 
 As you continue further into the lesson, you get into the task of image segmentation. This, of course, is used extensively in applications like self-driving cars and image tagging. You also start encountering some more theory to go with the application, such as learning why certain learning rates give better results.
 
@@ -47,8 +47,8 @@ This lesson also gives a sneak preview of natural language processing (NLP).
 
 [Lesson Notes](https://github.com/hiromis/notes/blob/master/Lesson3.md)
 
-**4. NLP; Tabular Data; Recommendation Systems
-**Building off of the preview of NLP in lesson 3, you now learn some of the techniques that drive state of the art results. The first of which is the idea of transfer learning, which allows you to use a pre-trained model for a specific task. With this pre-trained model, you then learn how to predict negative or positive movie reviews. Based off of this simple example you’re able to achieve state of the art results, using a standardized transfer learning approach.
+**4. NLP; Tabular Data; Recommendation Systems**
+Building off of the preview of NLP in lesson 3, you now learn some of the techniques that drive state of the art results. The first of which is the idea of transfer learning, which allows you to use a pre-trained model for a specific task. With this pre-trained model, you then learn how to predict negative or positive movie reviews. Based off of this simple example you’re able to achieve state of the art results, using a standardized transfer learning approach.
 
 You then move on to to the topic of building deep learning models for tabular data (data you might see in a spreadsheet or relational database). The example model built is predicting whether an individual makes over $50k.
 
@@ -56,15 +56,15 @@ The lesson then wraps up with an overview of recommendation systems (collaborati
 
 [Lesson Notes](https://github.com/hiromis/notes/blob/master/Lesson4.md)
 
-**5. Backprop; Neural Net from scratch
-**As the title implies, this lesson is much more theory based. At this point, you start learning more about fine-tuning, unfreezing/freezing layers, regularization, using discriminative learning rates, embeddings, bias and other things that were abstracted away from you in the previous lessons.
+**5. Backprop; Neural Net from scratch**
+As the title implies, this lesson is much more theory based. At this point, you start learning more about fine-tuning, unfreezing/freezing layers, regularization, using discriminative learning rates, embeddings, bias and other things that were abstracted away from you in the previous lessons.
 
 The lesson wraps up with an example of a neural network built within excel, to show you exactly how it all works under the hood.
 
 [Lesson Notes](https://github.com/hiromis/notes/blob/master/Lesson5.md)
 
-**6. CNN deep dive; Ethics
-**Lesson six continues the exploration of theory, such as the importance of dropout and why it can lead to good results. Another interesting part of this lesson is the subject of data augmentation. This is the process of taking one image and turning it into several images (as can be seen below).
+**6. CNN deep dive; Ethics**
+Lesson six continues the exploration of theory, such as the importance of dropout and why it can lead to good results. Another interesting part of this lesson is the subject of data augmentation. This is the process of taking one image and turning it into several images (as can be seen below).
 
 ![](https://cdn-images-1.medium.com/max/2000/0*8xUz8s2lBM3FM4he)
 
@@ -74,8 +74,8 @@ The last part of the lesson is dedicated to ethics in data science. This largely
 
 [Lesson Notes](https://github.com/hiromis/notes/blob/master/Lesson6.md)
 
-**7. Resnet; U-net; GANs
-**The last lesson continues to build on the theory, covering the use of Resnet and U-net to achieve state of the art results.
+**7. Resnet; U-net; GANs**
+The last lesson continues to build on the theory, covering the use of Resnet and U-net to achieve state of the art results.
 
 You also have a chance to be exposed to Generative Adversarial Networks, a topic that has been getting some media coverage lately through applications such as DeepFakes. GAN’s in this lesson are applied within the context of cleaning images, and you also have a chance to get an understanding of how the internals work.
 

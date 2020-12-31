@@ -45,7 +45,7 @@ Below are a handful of strategies that when applied, can have a great impact on 
 
 * Has a known training method or mental model from experts in the field that you can aspire towards
 
-*Your Ideal Teacher: *An experienced teacher can mean the difference between breaking through or breaking down. As such, it’s important to consider the following when looking for a teacher:
+*Your Ideal Teacher:* An experienced teacher can mean the difference between breaking through or breaking down. As such, it’s important to consider the following when looking for a teacher:
 
 * They are someone who can keep you up to date on specific progress
 

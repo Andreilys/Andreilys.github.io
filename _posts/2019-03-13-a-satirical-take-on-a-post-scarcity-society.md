@@ -6,7 +6,8 @@ comments: true
 keywords: "technology, commentary, ai, novel, automation"
 ---
 
-![[Player Piano](https://www.amazon.ca/Player-Piano-Novel-Kurt-Vonnegut/dp/0385333781)](https://cdn-images-1.medium.com/max/2000/0*aRvLTi7KfxsfQptr.jpg)*[Player Piano](https://www.amazon.ca/Player-Piano-Novel-Kurt-Vonnegut/dp/0385333781)*
+![[Player Piano](https://www.amazon.ca/Player-Piano-Novel-Kurt-Vonnegut/dp/0385333781)](https://cdn-images-1.medium.com/max/2000/0*aRvLTi7KfxsfQptr.jpg)*
+[Player Piano](https://www.amazon.ca/Player-Piano-Novel-Kurt-Vonnegut/dp/0385333781)*
 
 What does it mean to be human in a world where automation has devalued almost all human labor? This is the central theme of Kurt Vonnegut’s 1952 novel, Player Piano. In the beginning, we’re introduced to Paul Proteus, an engineering manager of a plant in futuristic New York who is a rising star within his company. This is partly because of his famous father who kickstarted the mechanization of the entire country. In this world, machines have gotten to the point where they do everything from mundane chores like house cleaning, to deciding your career path.
 
