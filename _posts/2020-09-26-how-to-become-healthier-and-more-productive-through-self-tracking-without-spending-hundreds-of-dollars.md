@@ -15,7 +15,7 @@ In this article we’ll cover:
 > 2. What to track, and how to use this data to make better data-informed decisions
 > 3. How to build robust tracking systems that will stand the test of time
 
-I’ll also talk about my journey and key learnings from quantified self over the last 6 years, along with the tools I’ve built and open-sourced, such as a [real-time personal dashboard](https://github.com/andreilys/personal_dashboard),weekly check-in bot and a daily journal.
+I’ll also talk about my journey and key learnings from quantified self over the last 6 years, along with the tools I’ve built and open-sourced, such as a [real-time personal dashboard](https://github.com/andreilys/personal_dashboard), weekly check-in bot and a daily journal.
 
 ## Why you should start tracking today
 
@@ -37,15 +37,15 @@ In most cases, it’s recommended that people start with apps like [Gyroscope](h
 
 For those with technical skills, you can access your data through API’s from services and websites that you use. Below are some examples of things I track:
 
-> Time spent online — [Rescuetime](https://www.rescuetime.com/)
-> Focus time — [Toggl](https://toggl.com/)
-> Workouts, weight, steps — [Withings](https://www.withings.com/)
-> Meditation — [Insight Timer](https://insighttimer.com/)
-> Workouts, weight, steps — [Withings](https://www.withings.com/)
-> Finances — [Status Money](https://statusmoney.com/)
-> Books — [Goodreads](https://www.goodreads.com/)
-> Writing — [Medium](https://medium.com/)
-> Programming — [Wakatime](https://wakatime.com/)
+> - Time spent online — [Rescuetime](https://www.rescuetime.com/)
+> - Focus time — [Toggl](https://toggl.com/)
+> - Workouts, weight, steps — [Withings](https://www.withings.com/)
+> - Meditation — [Insight Timer](https://insighttimer.com/)
+> - Workouts, weight, steps — [Withings](https://www.withings.com/)
+> - Finances — [Status Money](https://statusmoney.com/)
+> - Books — [Goodreads](https://www.goodreads.com/)
+> - Writing — [Medium](https://medium.com/)
+> - Programming — [Wakatime](https://wakatime.com/)
 
 This data is then aggregated and summarized in three different ways. One is through a dashboard that I have in the corner of my room. This gives me context on how my day is going and whether I’m on track to hit my daily goals. The other is my daily evening journal which uses a [vimwiki](https://vimwiki.github.io) template to grab all my data for the day, giving me another opportunity to reflect on my day. Finally we have a Facebook Messenger bot that pings me on Sundays with the results of the week. Responding to this bot via Messenger with my reflections is then captured in a Google spreadsheet.
 

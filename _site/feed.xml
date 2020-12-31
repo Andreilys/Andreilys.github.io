@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <description>Minimalist Jekyll theme for technical writing blog.</description>
-    <link>http://localhost:4040/</link>
-    <atom:link href="http://localhost:4040/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 29 Dec 2020 11:04:49 -0800</pubDate>
-    <lastBuildDate>Tue, 29 Dec 2020 11:04:49 -0800</lastBuildDate>
+    <description>.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 31 Dec 2020 11:37:39 -0800</pubDate>
+    <lastBuildDate>Thu, 31 Dec 2020 11:37:39 -0800</lastBuildDate>
     <generator>Jekyll v4.0.1</generator>
     
       <item>
@@ -24,7 +24,7 @@
   &lt;/ol&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;I’ll also talk about my journey and key learnings from quantified self over the last 6 years, along with the tools I’ve built and open-sourced, such as a &lt;a href=&quot;https://github.com/andreilys/personal_dashboard&quot;&gt;real-time personal dashboard&lt;/a&gt;,weekly check-in bot and a daily journal.&lt;/p&gt;
+&lt;p&gt;I’ll also talk about my journey and key learnings from quantified self over the last 6 years, along with the tools I’ve built and open-sourced, such as a &lt;a href=&quot;https://github.com/andreilys/personal_dashboard&quot;&gt;real-time personal dashboard&lt;/a&gt;, weekly check-in bot and a daily journal.&lt;/p&gt;
 
 &lt;h2 id=&quot;why-you-should-start-tracking-today&quot;&gt;Why you should start tracking today&lt;/h2&gt;
 
@@ -47,15 +47,17 @@
 &lt;p&gt;For those with technical skills, you can access your data through API’s from services and websites that you use. Below are some examples of things I track:&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Time spent online — &lt;a href=&quot;https://www.rescuetime.com/&quot;&gt;Rescuetime&lt;/a&gt;
-Focus time — &lt;a href=&quot;https://toggl.com/&quot;&gt;Toggl&lt;/a&gt;
-Workouts, weight, steps — &lt;a href=&quot;https://www.withings.com/&quot;&gt;Withings&lt;/a&gt;
-Meditation — &lt;a href=&quot;https://insighttimer.com/&quot;&gt;Insight Timer&lt;/a&gt;
-Workouts, weight, steps — &lt;a href=&quot;https://www.withings.com/&quot;&gt;Withings&lt;/a&gt;
-Finances — &lt;a href=&quot;https://statusmoney.com/&quot;&gt;Status Money&lt;/a&gt;
-Books — &lt;a href=&quot;https://www.goodreads.com/&quot;&gt;Goodreads&lt;/a&gt;
-Writing — &lt;a href=&quot;https://medium.com/&quot;&gt;Medium&lt;/a&gt;
-Programming — &lt;a href=&quot;https://wakatime.com/&quot;&gt;Wakatime&lt;/a&gt;&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Time spent online — &lt;a href=&quot;https://www.rescuetime.com/&quot;&gt;Rescuetime&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;Focus time — &lt;a href=&quot;https://toggl.com/&quot;&gt;Toggl&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;Workouts, weight, steps — &lt;a href=&quot;https://www.withings.com/&quot;&gt;Withings&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;Meditation — &lt;a href=&quot;https://insighttimer.com/&quot;&gt;Insight Timer&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;Workouts, weight, steps — &lt;a href=&quot;https://www.withings.com/&quot;&gt;Withings&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;Finances — &lt;a href=&quot;https://statusmoney.com/&quot;&gt;Status Money&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;Books — &lt;a href=&quot;https://www.goodreads.com/&quot;&gt;Goodreads&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;Writing — &lt;a href=&quot;https://medium.com/&quot;&gt;Medium&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;Programming — &lt;a href=&quot;https://wakatime.com/&quot;&gt;Wakatime&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;This data is then aggregated and summarized in three different ways. One is through a dashboard that I have in the corner of my room. This gives me context on how my day is going and whether I’m on track to hit my daily goals. The other is my daily evening journal which uses a &lt;a href=&quot;https://vimwiki.github.io&quot;&gt;vimwiki&lt;/a&gt; template to grab all my data for the day, giving me another opportunity to reflect on my day. Finally we have a Facebook Messenger bot that pings me on Sundays with the results of the week. Responding to this bot via Messenger with my reflections is then captured in a Google spreadsheet.&lt;/p&gt;
@@ -101,8 +103,8 @@ Programming — &lt;a href=&quot;https://wakatime.com/&quot;&gt;Wakatime&lt;/a&g
 &lt;p&gt;As you go about setting up your own tracking system, I encourage you to keep iterating and improving on your system.&lt;/p&gt;
 </description>
         <pubDate>Sat, 26 Sep 2020 00:00:00 -0700</pubDate>
-        <link>http://localhost:4040/2020/how-to-become-healthier-and-more-productive-through-self-tracking-without-spending-hundreds-of-dollars/</link>
-        <guid isPermaLink="true">http://localhost:4040/2020/how-to-become-healthier-and-more-productive-through-self-tracking-without-spending-hundreds-of-dollars/</guid>
+        <link>http://localhost:4000/2020/how-to-become-healthier-and-more-productive-through-self-tracking-without-spending-hundreds-of-dollars/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/how-to-become-healthier-and-more-productive-through-self-tracking-without-spending-hundreds-of-dollars/</guid>
         
         
       </item>
@@ -144,8 +146,8 @@ Programming — &lt;a href=&quot;https://wakatime.com/&quot;&gt;Wakatime&lt;/a&g
 &lt;p&gt;In summary, the data scientists that are able to have the most impact, are the ones that have a deep expertise and are plugged into the wider company. They’re able to exercise influence across verticals and create coalitions to accomplish broad strategic objectives, regardless of the technical methods they employ.&lt;/p&gt;
 </description>
         <pubDate>Sun, 28 Jun 2020 00:00:00 -0700</pubDate>
-        <link>http://localhost:4040/2020/the-three-stages-of-a-data-scientist/</link>
-        <guid isPermaLink="true">http://localhost:4040/2020/the-three-stages-of-a-data-scientist/</guid>
+        <link>http://localhost:4000/2020/the-three-stages-of-a-data-scientist/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/the-three-stages-of-a-data-scientist/</guid>
         
         
       </item>
@@ -202,13 +204,14 @@ Programming — &lt;a href=&quot;https://wakatime.com/&quot;&gt;Wakatime&lt;/a&g
 
 &lt;p&gt;Long-term these kinds of asks may surface the need to create self-service options. A good rule of thumb is that anytime you get asked three different times to either update analysis, or pull data to answer a similar question, you should explore a dashboarding or automated solution.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2210/1*mCIwWYHuIzt455Qy7HTmoA.png&quot; alt=&quot;*The Original Eisenhower Matrix*&quot; /&gt;&lt;strong&gt;The Original Eisenhower Matrix&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;So next time you have a request sitting in your email, consider which of the four quadrants it would fall under. After doing so, you can then take the corresponding measures. You’ll inevitably make some mistakes, but the alternative of trying to keep all your stakeholders happy by simply being an order taker will diminish the impact that you can have as a data scientist.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2210/1*mCIwWYHuIzt455Qy7HTmoA.png&quot; alt=&quot;*The Original Eisenhower Matrix*&quot; /&gt;&lt;/p&gt;
+&lt;div align=&quot;center&quot;&gt;The Original Eisenhower Matrix&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
+So next time you have a request sitting in your email, consider which of the four quadrants it would fall under. After doing so, you can then take the corresponding measures. You’ll inevitably make some mistakes, but the alternative of trying to keep all your stakeholders happy by simply being an order taker will diminish the impact that you can have as a data scientist.&lt;/p&gt;
 </description>
         <pubDate>Mon, 20 Jan 2020 00:00:00 -0800</pubDate>
-        <link>http://localhost:4040/2020/prioritizing-requests-using-the-eisenhower-matrix/</link>
-        <guid isPermaLink="true">http://localhost:4040/2020/prioritizing-requests-using-the-eisenhower-matrix/</guid>
+        <link>http://localhost:4000/2020/prioritizing-requests-using-the-eisenhower-matrix/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/prioritizing-requests-using-the-eisenhower-matrix/</guid>
         
         
       </item>
@@ -278,17 +281,15 @@ Programming — &lt;a href=&quot;https://wakatime.com/&quot;&gt;Wakatime&lt;/a&g
 &lt;p&gt;As we enter 2020, I encourage you to think about setting at least one goal per category (technical, behavioral, and professional). When setting these goals make sure to set SMART internal goals, and have a way to keep yourself accountable, whether through social or financial penalties.&lt;/p&gt;
 </description>
         <pubDate>Sun, 29 Dec 2019 00:00:00 -0800</pubDate>
-        <link>http://localhost:4040/2019/goal-setting-for-data-scientists/</link>
-        <guid isPermaLink="true">http://localhost:4040/2019/goal-setting-for-data-scientists/</guid>
+        <link>http://localhost:4000/2019/goal-setting-for-data-scientists/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/goal-setting-for-data-scientists/</guid>
         
         
       </item>
     
       <item>
         <title>Nietzche on Self-overcoming, Eternal Recurrence and Suffering</title>
-        <description>&lt;p&gt;A 19th-century philosopher shares his thoughts on living&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2000/1*O8beg_3VPzPWnFoDWRu7-Q.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2000/1*O8beg_3VPzPWnFoDWRu7-Q.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;His work has influenced diverse groups including Marxists, Anarchists, and Conservatives. Freud, Heidegger, Jung, Hesse, Camus, Sartre, and Kafka have been influenced by his work in one form or another.&lt;/p&gt;
 
@@ -347,8 +348,8 @@ Programming — &lt;a href=&quot;https://wakatime.com/&quot;&gt;Wakatime&lt;/a&g
 &lt;p&gt;&lt;em&gt;“I am a law only for mine own, I am not a law for all. This is now my way, where is yours?” — Zarathustra&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 17 Aug 2019 00:00:00 -0700</pubDate>
-        <link>http://localhost:4040/2019/Nietzsche-on-Self-overcoming,-eternal-recurrence-and-suffering/</link>
-        <guid isPermaLink="true">http://localhost:4040/2019/Nietzsche-on-Self-overcoming,-eternal-recurrence-and-suffering/</guid>
+        <link>http://localhost:4000/2019/Nietzsche-on-Self-overcoming,-eternal-recurrence-and-suffering/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/Nietzsche-on-Self-overcoming,-eternal-recurrence-and-suffering/</guid>
         
         
       </item>
@@ -376,22 +377,22 @@ Programming — &lt;a href=&quot;https://wakatime.com/&quot;&gt;Wakatime&lt;/a&g
 
 &lt;h3 id=&quot;course-overview&quot;&gt;Course Overview&lt;/h3&gt;
 
-&lt;p&gt;**1. Image Classification
-**The first lesson covers Jeremy’s background and qualifications, the motivation for the course and possibilities after completing it. He debunks some common myths about deep learning (such as the need for lots of data and GPU) and showcases some past student projects and success stories.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. Image Classification&lt;/strong&gt;
+The first lesson covers Jeremy’s background and qualifications, the motivation for the course and possibilities after completing it. He debunks some common myths about deep learning (such as the need for lots of data and GPU) and showcases some past student projects and success stories.&lt;/p&gt;
 
 &lt;p&gt;The rest of the lesson involves building image classifiers using the fastai library to achieve state of the art accuracy. Since the class is taught in a top-down manner, the first lesson is focused on getting something working as soon as possible.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://github.com/hiromis/notes/blob/master/Lesson1.md&quot;&gt;Lesson Notes&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;**2. Production; SGD from scratch
-**Continuing with the theme of image classifiers, you now get a chance to build your own image classifier. After training a model based on images you find on Google, you’re then taught how to put this model into production. The best part of this lesson is the ease of going from an idea to a production working application (&lt;a href=&quot;https://fastai-v3.onrender.com/&quot;&gt;here’s a live example of the bear image classifier built in this lesson&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. Production; SGD from scratch&lt;/strong&gt;
+Continuing with the theme of image classifiers, you now get a chance to build your own image classifier. After training a model based on images you find on Google, you’re then taught how to put this model into production. The best part of this lesson is the ease of going from an idea to a production working application (&lt;a href=&quot;https://fastai-v3.onrender.com/&quot;&gt;here’s a live example of the bear image classifier built in this lesson&lt;/a&gt;).&lt;/p&gt;
 
 &lt;p&gt;The rest of the lesson consists of learning about stochastic gradient descent, by building it from scratch.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://github.com/hiromis/notes/blob/master/Lesson2.md&quot;&gt;Lesson Notes&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;**3. Multi-label; Segmentation
-**The first part of lesson 3 gives you an overview of how to deal with multi-label classification. It also looks under the hood at some of the functions and classes used in the fastai library.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. Multi-label; Segmentation&lt;/strong&gt;
+The first part of lesson 3 gives you an overview of how to deal with multi-label classification. It also looks under the hood at some of the functions and classes used in the fastai library.&lt;/p&gt;
 
 &lt;p&gt;As you continue further into the lesson, you get into the task of image segmentation. This, of course, is used extensively in applications like self-driving cars and image tagging. You also start encountering some more theory to go with the application, such as learning why certain learning rates give better results.&lt;/p&gt;
 
@@ -399,8 +400,8 @@ Programming — &lt;a href=&quot;https://wakatime.com/&quot;&gt;Wakatime&lt;/a&g
 
 &lt;p&gt;&lt;a href=&quot;https://github.com/hiromis/notes/blob/master/Lesson3.md&quot;&gt;Lesson Notes&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;**4. NLP; Tabular Data; Recommendation Systems
-**Building off of the preview of NLP in lesson 3, you now learn some of the techniques that drive state of the art results. The first of which is the idea of transfer learning, which allows you to use a pre-trained model for a specific task. With this pre-trained model, you then learn how to predict negative or positive movie reviews. Based off of this simple example you’re able to achieve state of the art results, using a standardized transfer learning approach.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4. NLP; Tabular Data; Recommendation Systems&lt;/strong&gt;
+Building off of the preview of NLP in lesson 3, you now learn some of the techniques that drive state of the art results. The first of which is the idea of transfer learning, which allows you to use a pre-trained model for a specific task. With this pre-trained model, you then learn how to predict negative or positive movie reviews. Based off of this simple example you’re able to achieve state of the art results, using a standardized transfer learning approach.&lt;/p&gt;
 
 &lt;p&gt;You then move on to to the topic of building deep learning models for tabular data (data you might see in a spreadsheet or relational database). The example model built is predicting whether an individual makes over $50k.&lt;/p&gt;
 
@@ -408,15 +409,15 @@ Programming — &lt;a href=&quot;https://wakatime.com/&quot;&gt;Wakatime&lt;/a&g
 
 &lt;p&gt;&lt;a href=&quot;https://github.com/hiromis/notes/blob/master/Lesson4.md&quot;&gt;Lesson Notes&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;**5. Backprop; Neural Net from scratch
-**As the title implies, this lesson is much more theory based. At this point, you start learning more about fine-tuning, unfreezing/freezing layers, regularization, using discriminative learning rates, embeddings, bias and other things that were abstracted away from you in the previous lessons.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;5. Backprop; Neural Net from scratch&lt;/strong&gt;
+As the title implies, this lesson is much more theory based. At this point, you start learning more about fine-tuning, unfreezing/freezing layers, regularization, using discriminative learning rates, embeddings, bias and other things that were abstracted away from you in the previous lessons.&lt;/p&gt;
 
 &lt;p&gt;The lesson wraps up with an example of a neural network built within excel, to show you exactly how it all works under the hood.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://github.com/hiromis/notes/blob/master/Lesson5.md&quot;&gt;Lesson Notes&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;**6. CNN deep dive; Ethics
-**Lesson six continues the exploration of theory, such as the importance of dropout and why it can lead to good results. Another interesting part of this lesson is the subject of data augmentation. This is the process of taking one image and turning it into several images (as can be seen below).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;6. CNN deep dive; Ethics&lt;/strong&gt;
+Lesson six continues the exploration of theory, such as the importance of dropout and why it can lead to good results. Another interesting part of this lesson is the subject of data augmentation. This is the process of taking one image and turning it into several images (as can be seen below).&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2000/0*8xUz8s2lBM3FM4he&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
@@ -426,8 +427,8 @@ Programming — &lt;a href=&quot;https://wakatime.com/&quot;&gt;Wakatime&lt;/a&g
 
 &lt;p&gt;&lt;a href=&quot;https://github.com/hiromis/notes/blob/master/Lesson6.md&quot;&gt;Lesson Notes&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;**7. Resnet; U-net; GANs
-**The last lesson continues to build on the theory, covering the use of Resnet and U-net to achieve state of the art results.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;7. Resnet; U-net; GANs&lt;/strong&gt;
+The last lesson continues to build on the theory, covering the use of Resnet and U-net to achieve state of the art results.&lt;/p&gt;
 
 &lt;p&gt;You also have a chance to be exposed to Generative Adversarial Networks, a topic that has been getting some media coverage lately through applications such as DeepFakes. GAN’s in this lesson are applied within the context of cleaning images, and you also have a chance to get an understanding of how the internals work.&lt;/p&gt;
 
@@ -462,8 +463,8 @@ Programming — &lt;a href=&quot;https://wakatime.com/&quot;&gt;Wakatime&lt;/a&g
 &lt;p&gt;Fast.ai is a promising development in the field of deep learning. If you’re interested in deep learning it’s one of the best sources to get started and to see what is possible.&lt;/p&gt;
 </description>
         <pubDate>Tue, 23 Apr 2019 00:00:00 -0700</pubDate>
-        <link>http://localhost:4040/2019/simplifying-deep-learning-with-fastai/</link>
-        <guid isPermaLink="true">http://localhost:4040/2019/simplifying-deep-learning-with-fastai/</guid>
+        <link>http://localhost:4000/2019/simplifying-deep-learning-with-fastai/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/simplifying-deep-learning-with-fastai/</guid>
         
         
       </item>
@@ -476,7 +477,7 @@ Programming — &lt;a href=&quot;https://wakatime.com/&quot;&gt;Wakatime&lt;/a&g
 
 &lt;p&gt;Part of the work of a data scientist is being able to translate your work into actionable recommendations and insights for stakeholders. This means making your ideas memorable, easy to understand and impactful.&lt;/p&gt;
 
-&lt;p&gt;In this article, we’ll explore the principles behind the book [&lt;em&gt;Made To Stick](https://www.amazon.com/Made-Stick-Ideas-Survive-Others-ebook/dp/B000N2HCKQ)&lt;/em&gt;, and apply it within the context of data science. This book suggests that the best ideas follow six main principles: Simplicity, Unexpectedness, Concreteness, Credibility, Emotions, and Stories (SUCCESs). After reading this article, you’ll be able to integrate these principles into your work and increase the impact of your recommendations and insights.&lt;/p&gt;
+&lt;p&gt;In this article, we’ll explore the principles behind the book &lt;a href=&quot;https://www.amazon.com/Made-Stick-Ideas-Survive-Others-ebook/dp/B000N2HCKQ&quot;&gt;Made To Stick&lt;/a&gt;, and apply it within the context of data science. This book suggests that the best ideas follow six main principles: Simplicity, Unexpectedness, Concreteness, Credibility, Emotions, and Stories (SUCCESs). After reading this article, you’ll be able to integrate these principles into your work and increase the impact of your recommendations and insights.&lt;/p&gt;
 
 &lt;h3 id=&quot;simple&quot;&gt;&lt;strong&gt;Simple&lt;/strong&gt;&lt;/h3&gt;
 
@@ -505,15 +506,16 @@ Programming — &lt;a href=&quot;https://wakatime.com/&quot;&gt;Wakatime&lt;/a&g
 &lt;p&gt;Next time you’re tasked with distilling your insights or pitching recommendations, keep in mind these six principles and you’ll be creating simple, unexpected, concrete, credentialed emotional stories in no time!&lt;/p&gt;
 </description>
         <pubDate>Thu, 11 Apr 2019 00:00:00 -0700</pubDate>
-        <link>http://localhost:4040/2019/making-recommendations-stick-as-a-data-scientist/</link>
-        <guid isPermaLink="true">http://localhost:4040/2019/making-recommendations-stick-as-a-data-scientist/</guid>
+        <link>http://localhost:4000/2019/making-recommendations-stick-as-a-data-scientist/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/making-recommendations-stick-as-a-data-scientist/</guid>
         
         
       </item>
     
       <item>
         <title>A Satirical Take On a Post-Scarcity Society</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2000/0*aRvLTi7KfxsfQptr.jpg&quot; alt=&quot;[Player Piano](https://www.amazon.ca/Player-Piano-Novel-Kurt-Vonnegut/dp/0385333781)&quot; /&gt;&lt;em&gt;&lt;a href=&quot;https://www.amazon.ca/Player-Piano-Novel-Kurt-Vonnegut/dp/0385333781&quot;&gt;Player Piano&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2000/0*aRvLTi7KfxsfQptr.jpg&quot; alt=&quot;[Player Piano](https://www.amazon.ca/Player-Piano-Novel-Kurt-Vonnegut/dp/0385333781)&quot; /&gt;*
+&lt;a href=&quot;https://www.amazon.ca/Player-Piano-Novel-Kurt-Vonnegut/dp/0385333781&quot;&gt;Player Piano&lt;/a&gt;*&lt;/p&gt;
 
 &lt;p&gt;What does it mean to be human in a world where automation has devalued almost all human labor? This is the central theme of Kurt Vonnegut’s 1952 novel, Player Piano. In the beginning, we’re introduced to Paul Proteus, an engineering manager of a plant in futuristic New York who is a rising star within his company. This is partly because of his famous father who kickstarted the mechanization of the entire country. In this world, machines have gotten to the point where they do everything from mundane chores like house cleaning, to deciding your career path.&lt;/p&gt;
 
@@ -532,8 +534,8 @@ Programming — &lt;a href=&quot;https://wakatime.com/&quot;&gt;Wakatime&lt;/a&g
 &lt;p&gt;The alternative path is a much harder one and which in itself will bring a lot of pain and turmoil but may at the very least lead to a brighter future. Specifically, the destruction and creation of new institutions and values. In a world where machines have mechanized most labor, does it make sense to have the educational institutions we have? How about the value systems and incentive structures, that may have served us well in the past but may not be suited for the future ahead? These are all important questions to ask, and while we may not always like the answer, Vonnegut does a brilliant job of painting a vision of a future where our values stay the same, but the environment changes drastically. Ultimately Player Piano leaves us with the sense that if we fail to address these fundamental issues than the future may indeed be quite bleak for the majority of the world.&lt;/p&gt;
 </description>
         <pubDate>Wed, 13 Mar 2019 00:00:00 -0700</pubDate>
-        <link>http://localhost:4040/2019/a-satirical-take-on-a-post-scarcity-society/</link>
-        <guid isPermaLink="true">http://localhost:4040/2019/a-satirical-take-on-a-post-scarcity-society/</guid>
+        <link>http://localhost:4000/2019/a-satirical-take-on-a-post-scarcity-society/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/a-satirical-take-on-a-post-scarcity-society/</guid>
         
         
       </item>
@@ -579,8 +581,8 @@ Programming — &lt;a href=&quot;https://wakatime.com/&quot;&gt;Wakatime&lt;/a&g
 &lt;p&gt;If you have other ideas for data evangelism efforts, please share in the comments below!&lt;/p&gt;
 </description>
         <pubDate>Wed, 06 Mar 2019 00:00:00 -0800</pubDate>
-        <link>http://localhost:4040/2019/why-data-scientists-need-to-lead-data-evangelism-efforts/</link>
-        <guid isPermaLink="true">http://localhost:4040/2019/why-data-scientists-need-to-lead-data-evangelism-efforts/</guid>
+        <link>http://localhost:4000/2019/why-data-scientists-need-to-lead-data-evangelism-efforts/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/why-data-scientists-need-to-lead-data-evangelism-efforts/</guid>
         
         
       </item>
@@ -605,16 +607,16 @@ Programming — &lt;a href=&quot;https://wakatime.com/&quot;&gt;Wakatime&lt;/a&g
 
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;**Books **— Don’t restrict yourself to only non-fiction! Some of the most thought-provoking and educational books can come out of fiction. Neal Stephenson is a renowned author of fiction, who packs his books with tons of educational content. Take some time to also read biographies of key figures and the history of the field you’re learning. This will give you some context of how it started and where it may be going.&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Books&lt;/strong&gt; — Don’t restrict yourself to only non-fiction! Some of the most thought-provoking and educational books can come out of fiction. Neal Stephenson is a renowned author of fiction, who packs his books with tons of educational content. Take some time to also read biographies of key figures and the history of the field you’re learning. This will give you some context of how it started and where it may be going.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;**Courses — **Online or in-person courses are a great way to familiarize yourself with vocabulary in a more structured setting. They also offer an opportunity for you to get to know other students who are on the same learning journey. There are any number of Massively Open Online Classrooms, some of which are free and others paid.&lt;a href=&quot;https://www.coursera.org/&quot;&gt; Coursera&lt;/a&gt;,&lt;a href=&quot;https://www.edx.org/&quot;&gt; Edx&lt;/a&gt;, and&lt;a href=&quot;https://www.udemy.com/&quot;&gt; Udemy&lt;/a&gt; all offer a diverse set of courses that will likely cover the subject you’re interested in learning.&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Courses&lt;/strong&gt; - Online or in-person courses are a great way to familiarize yourself with vocabulary in a more structured setting. They also offer an opportunity for you to get to know other students who are on the same learning journey. There are any number of Massively Open Online Classrooms, some of which are free and others paid.&lt;a href=&quot;https://www.coursera.org/&quot;&gt; Coursera&lt;/a&gt;,&lt;a href=&quot;https://www.edx.org/&quot;&gt; Edx&lt;/a&gt;, and&lt;a href=&quot;https://www.udemy.com/&quot;&gt; Udemy&lt;/a&gt; all offer a diverse set of courses that will likely cover the subject you’re interested in learning.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;Media&lt;/strong&gt; — On top of courses you may also find short or long-form content in the form of podcasts, videos, and articles that will help complement your learning. As with books, try to expand your scope beyond the technical. If you’re learning biology, then it may be interesting to watch sci-fi tv movies which grapple with ethical dilemmas associated with our increasing mastery over biology. Documentaries are also great for getting a short overview of a field and familiarizing yourself with top experts. Also, make sure to search YouTube since there’s a high likelihood that someone has created a channel to help you learn.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;**Practice and Testing — **One of the best ways to increase your vocabulary and understanding is through practice and testing. This can be as simple as creating flashcards for terms or can involve more practical problems related to your field.&lt;a href=&quot;https://getatomi.com/staffroom/what-is-active-recall-and-how-effective-is-it/&quot;&gt; Active recall&lt;/a&gt; has proven to be one of the best techniques to solidify your learning, so make sure to take advantage of this!&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Practice and Testing&lt;/strong&gt; - One of the best ways to increase your vocabulary and understanding is through practice and testing. This can be as simple as creating flashcards for terms or can involve more practical problems related to your field.&lt;a href=&quot;https://getatomi.com/staffroom/what-is-active-recall-and-how-effective-is-it/&quot;&gt; Active recall&lt;/a&gt; has proven to be one of the best techniques to solidify your learning, so make sure to take advantage of this!&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
@@ -628,13 +630,13 @@ Programming — &lt;a href=&quot;https://wakatime.com/&quot;&gt;Wakatime&lt;/a&g
 
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;**Online Communities — &lt;a href=&quot;https://slofile.com/&quot;&gt;**Slack&lt;/a&gt; and &lt;a href=&quot;https://discordservers.com/&quot;&gt;Discord&lt;/a&gt; are frequently used by niche communities who want to have to create a more intimate community. While there are plenty of Facebook online communities, they aren’t nearly as versatile or engaging as the former two. Other options include Twitter, which often has its own sub-Twitter communities, Quora where you can ask and answer questions, and Medium where you can identify experts who write about the content you’re interested in.&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Online Communities&lt;/strong&gt; — &lt;a href=&quot;https://slofile.com/&quot;&gt;Slack&lt;/a&gt; and &lt;a href=&quot;https://discordservers.com/&quot;&gt;Discord&lt;/a&gt; are frequently used by niche communities who want to have to create a more intimate community. While there are plenty of Facebook online communities, they aren’t nearly as versatile or engaging as the former two. Other options include Twitter, which often has its own sub-Twitter communities, Quora where you can ask and answer questions, and Medium where you can identify experts who write about the content you’re interested in.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;**Offline Communities — **Depending on what you’re learning and where you live, there’s a good chance that there exists some sort of offline community filled with similarly motivated learners. Take a look at websites such as &lt;a href=&quot;https://www.meetup.com/&quot;&gt;Meetup&lt;/a&gt;, Facebook’s discover event feature or &lt;a href=&quot;https://www.eventbrite.ca/&quot;&gt;Eventbrite&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Offline Communities&lt;/strong&gt; — Depending on what you’re learning and where you live, there’s a good chance that there exists some sort of offline community filled with similarly motivated learners. Take a look at websites such as &lt;a href=&quot;https://www.meetup.com/&quot;&gt;Meetup&lt;/a&gt;, Facebook’s discover event feature or &lt;a href=&quot;https://www.eventbrite.ca/&quot;&gt;Eventbrite&lt;/a&gt;.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;**Paid Mentor — **A more effective way of finding a mentor is to pay for one. Informal mentors may not have the ability to meet with you regularly or have a background in mentoring. Paid mentors, on the other hand, will have had lots of experience working with people of your skill level and can meet with you on your own terms. Depending on the subject, you can either find specific websites for mentors (e.g. &lt;a href=&quot;https://hackhands.com/&quot;&gt;HackHands&lt;/a&gt; a website for programming mentors) or more general websites such as &lt;a href=&quot;https://www.superprof.com/&quot;&gt;Super Prof&lt;/a&gt; which have a wide variety of teachers and mentors.&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Paid Mentor&lt;/strong&gt; — A more effective way of finding a mentor is to pay for one. Informal mentors may not have the ability to meet with you regularly or have a background in mentoring. Paid mentors, on the other hand, will have had lots of experience working with people of your skill level and can meet with you on your own terms. Depending on the subject, you can either find specific websites for mentors (e.g. &lt;a href=&quot;https://hackhands.com/&quot;&gt;HackHands&lt;/a&gt; a website for programming mentors) or more general websites such as &lt;a href=&quot;https://www.superprof.com/&quot;&gt;Super Prof&lt;/a&gt; which have a wide variety of teachers and mentors.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
@@ -646,13 +648,13 @@ Programming — &lt;a href=&quot;https://wakatime.com/&quot;&gt;Wakatime&lt;/a&g
 
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;**Experiences **— Applying your knowledge within the context of experiences could involve giving a talk to share your knowledge with a wider audience, or organizing a dinner group with the intention of discussing your subject in depth. Showcasing your knowledge by creating experiences also serves as a great way to identify mentors, peers, and mentees.&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Experiences&lt;/strong&gt; — Applying your knowledge within the context of experiences could involve giving a talk to share your knowledge with a wider audience, or organizing a dinner group with the intention of discussing your subject in depth. Showcasing your knowledge by creating experiences also serves as a great way to identify mentors, peers, and mentees.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;**Products — **Creating a product whether free or paid, is a fantastic way of consolidating your knowledge. Products could range from mobile apps, websites, physical products, or even an online course. An example using an abstract subject such as Ethics might be a mobile app that helps users crowdsource advice related to ethical problems in their life. Inside the app, you could write articles explaining various ethical frameworks that would serve to educate users and help them make morally informed decisions.&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Products&lt;/strong&gt; - Creating a product whether free or paid, is a fantastic way of consolidating your knowledge. Products could range from mobile apps, websites, physical products, or even an online course. An example using an abstract subject such as Ethics might be a mobile app that helps users crowdsource advice related to ethical problems in their life. Inside the app, you could write articles explaining various ethical frameworks that would serve to educate users and help them make morally informed decisions.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;**Media **— Distribution channels for content such as Medium, LinkedIn, Quora and Youtube all serve as a great way to share your learning with a wider audience. You might start by creating content and guides to help out learners who are just starting out or simply answering questions that other people have. This will allow you to clarify your thinking, and get feedback.&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Media&lt;/strong&gt; — Distribution channels for content such as Medium, LinkedIn, Quora and Youtube all serve as a great way to share your learning with a wider audience. You might start by creating content and guides to help out learners who are just starting out or simply answering questions that other people have. This will allow you to clarify your thinking, and get feedback.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
@@ -661,8 +663,8 @@ Programming — &lt;a href=&quot;https://wakatime.com/&quot;&gt;Wakatime&lt;/a&g
 &lt;p&gt;If you’re interested in more tactical advice on learning, I’d recommend reading my other article on &lt;a href=&quot;https://medium.com/age-of-awareness/learning-how-to-learn-a727f7b96f53&quot;&gt;learning how to learn&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Wed, 13 Feb 2019 00:00:00 -0800</pubDate>
-        <link>http://localhost:4040/2019/A-Guide-To-Full-Immersion-Learning/</link>
-        <guid isPermaLink="true">http://localhost:4040/2019/A-Guide-To-Full-Immersion-Learning/</guid>
+        <link>http://localhost:4000/2019/A-Guide-To-Full-Immersion-Learning/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/A-Guide-To-Full-Immersion-Learning/</guid>
         
         
       </item>
