@@ -56,6 +56,5 @@ Long-term these kinds of asks may surface the need to create self-service option
 
 ![*The Original Eisenhower Matrix*](https://cdn-images-1.medium.com/max/2210/1*mCIwWYHuIzt455Qy7HTmoA.png)
 <div align="center">The Original Eisenhower Matrix</div>
-<p style="text-align: center;">The Oriignal Eisenhower Matrix</p>
 
 So next time you have a request sitting in your email, consider which of the four quadrants it would fall under. After doing so, you can then take the corresponding measures. You’ll inevitably make some mistakes, but the alternative of trying to keep all your stakeholders happy by simply being an order taker will diminish the impact that you can have as a data scientist.
