@@ -1,5 +1,5 @@
 # Site settings
-title_left    : ""
+title_left    : "Home"
 title_right   : "" # default: ""
 description   : "Writing in Public"
 keywords      : "Data science, quantified self, machine learning, metalearning, philosophy"
