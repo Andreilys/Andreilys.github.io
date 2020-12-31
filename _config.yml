@@ -1,6 +1,6 @@
 # Site settings
 title_left    : ""
-title_right   : "Andrei Lyskov" # default: ""
+title_right   : "" # default: ""
 description   : "Writing in Public"
 keywords      : "Data science, quantified self, machine learning, metalearning, philosophy"
 url           :  https://andreilyskov.com # site url
