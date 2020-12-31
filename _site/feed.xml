@@ -5,13 +5,13 @@
     <description>Minimalist Jekyll theme for technical writing blog.</description>
     <link>http://localhost:4040/</link>
     <atom:link href="http://localhost:4040/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 29 Dec 2020 10:08:02 -0800</pubDate>
-    <lastBuildDate>Tue, 29 Dec 2020 10:08:02 -0800</lastBuildDate>
+    <pubDate>Tue, 29 Dec 2020 11:04:49 -0800</pubDate>
+    <lastBuildDate>Tue, 29 Dec 2020 11:04:49 -0800</lastBuildDate>
     <generator>Jekyll v4.0.1</generator>
     
       <item>
         <title>How to Become Healthier and More Productive Through Self Tracking Without Spending Hundreds of Dollars</title>
-        <description>&lt;p&gt;![&lt;a href=&quot;https://cdn-images-1.medium.com/max/2476/1*LlFLOHQR0vg6cVOgZn5XFg.png&quot;&gt;&lt;em&gt;Datafloq](https://datafloq.com/read/the-rise-of-the-quantified-self-and-what-it-means-/223)&lt;/em&gt;&lt;/a&gt;*&lt;a href=&quot;https://datafloq.com/read/the-rise-of-the-quantified-self-and-what-it-means-/223&quot;&gt;*Datafloq&lt;/a&gt;**&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2476/1*LlFLOHQR0vg6cVOgZn5XFg.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;From steps, to sleep, to time spent online. Every day you’re generating data which has the power to inform and shape the way you live your life. For those willing to seek, lies a treasure trove of personal insights waiting to be discovered.&lt;/p&gt;
 
@@ -108,6 +108,183 @@ Programming — &lt;a href=&quot;https://wakatime.com/&quot;&gt;Wakatime&lt;/a&g
       </item>
     
       <item>
+        <title>The Three Stages of a Data Scientist</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2312/0*ahgwx-_d2b5Rrq7M&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;One of the best and worst parts of being a data scientist is the ambiguity that the role can often entail. Since data science is a relatively new function, the mandate and objectives aren’t always clear. This often means that the destiny of data science at a company lies in the hands of the data scientists, who often find themselves straddling both technical and non-technical domains. As such, being able to shape and define the role is key if you want to have a fulfilling career as a data scientist.&lt;/p&gt;
+
+&lt;p&gt;In this article, we’ll explore the progression that a data scientist makes throughout their career, starting with Decision Support, Advisor and then Integrated Partner. We’ll go over their characteristics, some examples, and how you can progress through each stage.&lt;/p&gt;
+
+&lt;h3 id=&quot;decision-support&quot;&gt;&lt;strong&gt;Decision Support&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;The dynamic that you have at the decision support stage is similar to a ticketing system, where you’re fulfilling requests with simple data extracts and leaving insights to the stakeholder. At this stage, the relationship you have with your stakeholders is subservient. You’re unlikely to push back or provide input on what you should be working on or what the company as a whole should focus on. The work is reactive, and your roadmap consists of whatever your stakeholders are asking for that week.&lt;/p&gt;
+
+&lt;h3 id=&quot;advisor&quot;&gt;&lt;strong&gt;Advisor&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;The advisor, on the other hand, acts as a thought partner. Instead of receiving and fulfilling requests, advisors take the time to understand the problem and reframe the request when necessary. Sometimes this means taking simple data requests and turning them into more substantial projects with recommended action plans. This type of work is semi-reactive, where you still have your roadmap primarily set by stakeholders, however, it begins to take on a collegial tone where you negotiate the terms of the engagement. You’re no longer fulfilling requests unquestioningly, but rather creating a dialog with your stakeholders where you’re able to learn from one another and figure out what the priorities should be.&lt;/p&gt;
+
+&lt;h3 id=&quot;integrated-partner&quot;&gt;&lt;strong&gt;Integrated Partner&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;As an integrated partner, the data scientist helps craft the strategic vision for the organization and has an active hand in creating the data science roadmap. To reach this stage requires deep expertise, not just in technical techniques and data, but also in the business and the politics of your company. It also means learning to spot opportunities and proactively working on projects which drive action and results in partnership with your stakeholders. This requires a high degree of empathy, being able to put yourself in the shoes of your stakeholders, and understanding the incentives that drive them.&lt;/p&gt;
+
+&lt;p&gt;At this stage you can actually set a roadmap and work towards it. You’re able to balance the needs of your stakeholders, with what’s most important based on what you agreed upon. Saying no to requests comes easily to an integrated partner, because they’ve already built trust and received buy-in from their stakeholders on what the priorities should be.&lt;/p&gt;
+
+&lt;p&gt;Integrated partners are also more likely to challenge stakeholders on opinions they hold rather than assuming that they’re always correct. Steve Jobs was famous for cultivating a culture of debate, seeing it as a prerequisite to generating great ideas. Being the gatekeeper of the data, you have a responsibility to provide your unique point of view instead of staying silent.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2170/1*OW9LZTsH-LWCjxUoR7w3UA.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s important to recognize the fluidity of these stages. Having an integrated partner dynamic at all times with all your stakeholders can be taxing. Sometimes it’s easier to simply provide a data extract, than to try to unpack the reason behind the request. However don’t get into the habit of doing this, or you may find yourself stuck in this mode with minimal influence within the organization.&lt;/p&gt;
+
+&lt;p&gt;To build influence and transition through each stage requires you to go beyond understanding data. It requires building coalitions with stakeholders that are data savvy, and helping to convert those that are not as data inclined.&lt;/p&gt;
+
+&lt;p&gt;It also means occasionally opting for a non-elegant solution which secures a quick win and establishes credibility, rather than a multi-month research project that’s unlikely to yield substantial results. Spending some time building an aggregate table and visualizing it in Tableau can buy a lot of goodwill and credibility with your stakeholders. This can then directly translate to future projects that wouldn’t have succeeded without the support from your stakeholders.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2772/1*qPwYBd4Pd4FIJMc1bHK8JA.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In summary, the data scientists that are able to have the most impact, are the ones that have a deep expertise and are plugged into the wider company. They’re able to exercise influence across verticals and create coalitions to accomplish broad strategic objectives, regardless of the technical methods they employ.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 28 Jun 2020 00:00:00 -0700</pubDate>
+        <link>http://localhost:4040/2020/the-three-stages-of-a-data-scientist/</link>
+        <guid isPermaLink="true">http://localhost:4040/2020/the-three-stages-of-a-data-scientist/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Prioritizing Requests Using The Eisenhower Matrix</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2000/0*WVEZg8fwJX1vDCuH&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Data scientists must constantly deal with the tension between short-term requests and long-term projects. Neglect the long-term projects, and you risk having minimal impact. However, neglect the short-term requests, and you may find yourself out of a job.&lt;/p&gt;
+
+&lt;p&gt;As a result, the best data scientists are those that can split their time effectively between short-term requests and long-term projects. In practice, this can be quite difficult because there is never a shortage of questions that your stakeholders may ask. Some of these questions are urgent and important, while others are neither important nor urgent.&lt;/p&gt;
+
+&lt;p&gt;Dwight Eisenhower, a former US President, coined the idea of using urgency and importance to help him prioritize his tasks. Using the&lt;a href=&quot;https://www.eisenhower.me/eisenhower-matrix/&quot;&gt; Eisenhower Matrix&lt;/a&gt;, he was able to ruthlessly prioritize his day.&lt;/p&gt;
+
+&lt;p&gt;In this article, we’ll explore this idea, and how it can help data scientists deal specifically with stakeholder requests. We’ll go through effective strategies to deal with each of the four quadrants below.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2210/1*EAJtwwDDkQVZz9IjftkN-A.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;High Importance / High Urgency&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Typically when you get these requests, everything else gets dropped. There isn’t much leeway here, except for anticipating and planning for these types of requests.&lt;/p&gt;
+
+&lt;p&gt;For example, if you know that at the end of each quarter you’re responsible for pulling data and commentary on business performance, you may find it helpful to automate some of that work. Spotting repeatable work that is automatable, especially with high importance and high urgency tasks, will help you establish credibility as someone who can accomplish objectives quickly.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. High Importance / Low Urgency&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;When it comes to high importance and low urgency requests, you may find yourself wanting to dive right in. However, the more prudent approach is to first understand what is being asked of you.&lt;/p&gt;
+
+&lt;p&gt;Often you can negotiate these types of asks and whittle them down to something more manageable. For example, a marketing executive may send a laundry list of data pulls they need to understand the effects of cannibalization. The reality may be that only one or two of the data pulls are necessary to tell the story they want to tell.&lt;/p&gt;
+
+&lt;p&gt;In general, with high importance and low urgency requests, you should strive to create a dynamic of strategic adviser, rather than that of an order taker. Having a unique point of view and leaving your stamp on the project will ensure a seat at the table for any future projects.&lt;/p&gt;
+
+&lt;p&gt;Since this is a low urgency request, you should use your best judgment whether you should re-prioritize your current queue of work (including that of long-term projects). Sometimes despite the importance of the problem, you may find it better to push back and set a future date for delivery.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. Low Importance / High Urgency&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Just because something is urgent, does not make it important.&lt;/p&gt;
+
+&lt;p&gt;If someone needs data by a certain date, you shouldn’t drop everything you’re working on to meet their deadline. Particularly if the request is of low importance (stack ranked against other requests and long-term objectives you’re working towards).&lt;/p&gt;
+
+&lt;p&gt;The best way to deal with these requests is to get more information. Sometimes all it takes is a 15-minute phone call to realize that the extra work required to pull the data, may end up just being an appendix slide that never gets brought up in the meeting. In this case, you can defer to the time when the data is actually necessary.&lt;/p&gt;
+
+&lt;p&gt;In cases like these, you could explore a rotation model, where each member of your team is “On-call” for these types of requests.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4. Low Importance / Low Urgency&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The final, and trickiest quadrant are those requests that are of low importance and urgency. In the Eisenhower model, we would simply “Eliminate” these tasks. In a company setting, you have to be a bit more delicate with how you respond to these types of requests.&lt;/p&gt;
+
+&lt;p&gt;One easy way to defer these kinds of tasks is to put the onus on the stakeholder to do some work first. It might be a few pointed questions that require them to do some leg work before you start pulling any data. This will either buy you time, or they may lose motivation if the request wasn’t that important in the first place.&lt;/p&gt;
+
+&lt;p&gt;You can also try to delay the delivery of the work, communicating your current list of priorities and letting the stakeholder know that they should follow up with you in another week or two once things have settled down. The key is to never outright say no, but rather communicate your list of priorities to help the stakeholder understand the difficulty you may have with answering their questions at this time.&lt;/p&gt;
+
+&lt;p&gt;Long-term these kinds of asks may surface the need to create self-service options. A good rule of thumb is that anytime you get asked three different times to either update analysis, or pull data to answer a similar question, you should explore a dashboarding or automated solution.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2210/1*mCIwWYHuIzt455Qy7HTmoA.png&quot; alt=&quot;*The Original Eisenhower Matrix*&quot; /&gt;&lt;strong&gt;The Original Eisenhower Matrix&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;So next time you have a request sitting in your email, consider which of the four quadrants it would fall under. After doing so, you can then take the corresponding measures. You’ll inevitably make some mistakes, but the alternative of trying to keep all your stakeholders happy by simply being an order taker will diminish the impact that you can have as a data scientist.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 20 Jan 2020 00:00:00 -0800</pubDate>
+        <link>http://localhost:4040/2020/prioritizing-requests-using-the-eisenhower-matrix/</link>
+        <guid isPermaLink="true">http://localhost:4040/2020/prioritizing-requests-using-the-eisenhower-matrix/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Goal Setting for Data Scientists</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/3200/0*3tsM0Ft8x_e8mfJf&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Setting goals, particularly around the end of December can be a great way to reflect and think about what you would like to get out of your career in the new year. In this article, we’ll discuss a framework for data scientists to use to achieve their career goals.&lt;/p&gt;
+
+&lt;p&gt;Since data science is an interdisciplinary field, the types of goals you set will be quite varied. A good way to partition the different types of goals is into the following three buckets: Technical, Behavioral and Professional.&lt;/p&gt;
+
+&lt;p&gt;For technical goals, you may want to improve your understanding of certain techniques or programming languages. Behavioral goals may focus on your presentation and persuasion skills. Finally, professional goals could focus on achieving career milestones, such as a promotion or landing a new job.&lt;/p&gt;
+
+&lt;h2 id=&quot;focus-on-what-you-can-control&quot;&gt;Focus On What You Can Control&lt;/h2&gt;
+
+&lt;p&gt;Regardless of the type of goal you set, it’s important that you set goals that are within your locus of control. Rather than setting an external goal, such as getting a promotion, instead &lt;a href=&quot;https://medium.com/@LyskovAndrei/one-simple-tactic-from-the-stoics-for-setting-better-goals-45d8c7b392e0&quot;&gt;set internal goals&lt;/a&gt; that are within your control. For example, coming in early and pitching in to help with tasks nobody else wants to do.&lt;/p&gt;
+
+&lt;p&gt;Below you can see some examples of external goals reframed into internal ones for each of the three buckets:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2000/0*G-K0MgCOjgaBV-L0&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;One of the advantages of setting internal goals is that in the event you don’t achieve your external goal (for reasons within or outside your control), you can still feel a sense of accomplishment for having completed the things that were inside your control.&lt;/p&gt;
+
+&lt;h2 id=&quot;be-smart-about-the-goals-you-set&quot;&gt;Be SMART about the goals you set&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2000/0*1N3XAdWQr98XL6LQ&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Originating from management literature in the 1980s the SMART (Specific, Measurable, Attainable, Relevant and Time Based) framework for setting goals and objectives has seen ubiquitous use throughout business and self-development communities. This framework ensures that you’re setting goals that are within your reach, that you can track and measure over time.&lt;/p&gt;
+
+&lt;p&gt;When setting your SMART goals, you should consider the following questions:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;What do I want to accomplish?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;What is the pass/fail criteria?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;How will I measure my progress?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Is this goal appropriate given my skill level and experience?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Do I have the necessary time and resources to accomplish this?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;What’re my quitting criteria?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;By when would I like to accomplish this goal?&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;keep-yourself-accountable&quot;&gt;Keep Yourself Accountable&lt;/h2&gt;
+
+&lt;p&gt;To ensure compliance with your goals, it can be useful to share your goals with a friend or a coach who can keep you on track. You might have a weekly check-in consisting of a phone call, or even a quick text message that summarizes your progress.&lt;/p&gt;
+
+&lt;p&gt;There is also a myriad of tools available for those who want to introduce a financial penalty for not hitting goals. For example, &lt;a href=&quot;https://www.beeminder.com/&quot;&gt;Beeminder&lt;/a&gt;, allows users to set goals that are either self-reported or linked to some external data source (such as &lt;a href=&quot;https://www.rescuetime.com/&quot;&gt;RescueTime&lt;/a&gt; which tracks time spent online). So if you want to set a goal of publishing 2 data science articles a month, you could use Beeminder as a way to financially penalize yourself for not hitting that goal.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2296/0*Bt25GVCMuvgeSiWN&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Another tool that you can use is &lt;a href=&quot;https://www.stickk.com/&quot;&gt;Stickk&lt;/a&gt;, which is similar to Beeminder with the added feature that whenever you fail to meet your goal, you can choose to contribute to an anti-charity (i.e. If you’re a Liverpool soccer fan, your anti-charity might be The Manchester United Fan Club ).&lt;/p&gt;
+
+&lt;p&gt;As we enter 2020, I encourage you to think about setting at least one goal per category (technical, behavioral, and professional). When setting these goals make sure to set SMART internal goals, and have a way to keep yourself accountable, whether through social or financial penalties.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 29 Dec 2019 00:00:00 -0800</pubDate>
+        <link>http://localhost:4040/2019/goal-setting-for-data-scientists/</link>
+        <guid isPermaLink="true">http://localhost:4040/2019/goal-setting-for-data-scientists/</guid>
+        
+        
+      </item>
+    
+      <item>
         <title>Nietzche on Self-overcoming, Eternal Recurrence and Suffering</title>
         <description>&lt;p&gt;A 19th-century philosopher shares his thoughts on living&lt;/p&gt;
 
@@ -172,6 +349,238 @@ Programming — &lt;a href=&quot;https://wakatime.com/&quot;&gt;Wakatime&lt;/a&g
         <pubDate>Sat, 17 Aug 2019 00:00:00 -0700</pubDate>
         <link>http://localhost:4040/2019/Nietzsche-on-Self-overcoming,-eternal-recurrence-and-suffering/</link>
         <guid isPermaLink="true">http://localhost:4040/2019/Nietzsche-on-Self-overcoming,-eternal-recurrence-and-suffering/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Simplifying Deep Learning with Fast.ai</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2000/1*bUZKHfAugVeXAkl0TGClCA.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Deep learning is a field notorious for gatekeeping. If you try to find answers &lt;a href=&quot;https://www.quora.com/Whats-the-most-effective-way-to-get-started-with-deep-learning&quot;&gt;online&lt;/a&gt; on how to break into the field, you’ll likely find yourself overwhelmed with a long list of requirements.&lt;/p&gt;
+
+&lt;p&gt;This often scares away potential contributors to the field, leaving us with a small fraction of the world that can consume and generate deep learning models.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://fast.ai&quot;&gt;Fast.ai&lt;/a&gt; is one organization that tries to address this inequity. It was founded in 2016 by &lt;a href=&quot;https://www.linkedin.com/in/howardjeremy/&quot;&gt;Jeremy Howard &lt;/a&gt;and &lt;a href=&quot;https://www.linkedin.com/in/rachel-thomas-942a7923/&quot;&gt;Rachel Thomas&lt;/a&gt;, with the goal of making deep learning more accessible. It’s primarily known for its free courses and open source library (Named &lt;a href=&quot;https://github.com/fastai/fastai&quot;&gt;fastai&lt;/a&gt; and built on top of Facebook’s &lt;a href=&quot;https://pytorch.org/&quot;&gt;PyTorch&lt;/a&gt; library). One of it’s most popular courses and the focus of this article is &lt;a href=&quot;https://course.fast.ai/&quot;&gt;Practical Deep Learning for Coders.&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;h1 id=&quot;what-i-hope-is-that-lots-of-people-will-realize-that-state-of-the-art-results-of-deep-learning-are-something-they-can-achieve-even-if-theyre-not-a-stanford-university-deep-learning-phd--jeremy-howard&quot;&gt;“What I hope is that lots of people will realize that state-of-the-art results of deep learning are something they can achieve even if they’re not a Stanford University deep learning PhD.” — &lt;a href=&quot;https://www.zdnet.com/article/fast-ais-new-software-could-radically-democratize-ai/&quot;&gt;Jeremy Howard&lt;/a&gt;&lt;/h1&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Deep learning for the uninitiated is a field that exploded in popularity due to the increased availability of data and computing resources. It’s produced state of the art results in areas such as image recognition, natural language processing, and speech recognition. It’s what powers self-driving cars, spam filters, and content recommendation systems. Deep learning at a high-level is an extension of neural networks, which use a set of inputs to train a set of weights, which then produce an output (Like classifying an image as a hot dog). In the case of deep learning, there are a lot more layers, which means a lot more weights to learn.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2000/0*jmVjF0FnzFD8v4ZR&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Fast.ai introduce a top-down style approach to learning, as opposed to most other courses which start with the basics and work their way up. Intuitively this makes sense, if you’re teaching someone to play basketball, you don’t teach them the physics of the sport. Instead, you teach them enough to start playing and let their interest guide them to a deeper understanding of the sport. Similarly, within the first 45 minutes of the deep learning course, Jeremy walks you through how to build a state of the art image classifier from beginning to end. Lesson 2 has you build and productionalize your own image classifier based off of images you find on Google.&lt;/p&gt;
+
+&lt;p&gt;In this article, you’ll get a high-level overview of their deep learning for coders course. You’ll also learn how to get the most out of the course and what this means for the future of deep learning.&lt;/p&gt;
+
+&lt;h3 id=&quot;course-overview&quot;&gt;Course Overview&lt;/h3&gt;
+
+&lt;p&gt;**1. Image Classification
+**The first lesson covers Jeremy’s background and qualifications, the motivation for the course and possibilities after completing it. He debunks some common myths about deep learning (such as the need for lots of data and GPU) and showcases some past student projects and success stories.&lt;/p&gt;
+
+&lt;p&gt;The rest of the lesson involves building image classifiers using the fastai library to achieve state of the art accuracy. Since the class is taught in a top-down manner, the first lesson is focused on getting something working as soon as possible.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/hiromis/notes/blob/master/Lesson1.md&quot;&gt;Lesson Notes&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;**2. Production; SGD from scratch
+**Continuing with the theme of image classifiers, you now get a chance to build your own image classifier. After training a model based on images you find on Google, you’re then taught how to put this model into production. The best part of this lesson is the ease of going from an idea to a production working application (&lt;a href=&quot;https://fastai-v3.onrender.com/&quot;&gt;here’s a live example of the bear image classifier built in this lesson&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;The rest of the lesson consists of learning about stochastic gradient descent, by building it from scratch.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/hiromis/notes/blob/master/Lesson2.md&quot;&gt;Lesson Notes&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;**3. Multi-label; Segmentation
+**The first part of lesson 3 gives you an overview of how to deal with multi-label classification. It also looks under the hood at some of the functions and classes used in the fastai library.&lt;/p&gt;
+
+&lt;p&gt;As you continue further into the lesson, you get into the task of image segmentation. This, of course, is used extensively in applications like self-driving cars and image tagging. You also start encountering some more theory to go with the application, such as learning why certain learning rates give better results.&lt;/p&gt;
+
+&lt;p&gt;This lesson also gives a sneak preview of natural language processing (NLP).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/hiromis/notes/blob/master/Lesson3.md&quot;&gt;Lesson Notes&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;**4. NLP; Tabular Data; Recommendation Systems
+**Building off of the preview of NLP in lesson 3, you now learn some of the techniques that drive state of the art results. The first of which is the idea of transfer learning, which allows you to use a pre-trained model for a specific task. With this pre-trained model, you then learn how to predict negative or positive movie reviews. Based off of this simple example you’re able to achieve state of the art results, using a standardized transfer learning approach.&lt;/p&gt;
+
+&lt;p&gt;You then move on to to the topic of building deep learning models for tabular data (data you might see in a spreadsheet or relational database). The example model built is predicting whether an individual makes over $50k.&lt;/p&gt;
+
+&lt;p&gt;The lesson then wraps up with an overview of recommendation systems (collaborative filtering). Jeremy explores the issue of the cold start problem (How do you recommend something to a new user?) and walks you through a simple movie recommendation example in Excel.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/hiromis/notes/blob/master/Lesson4.md&quot;&gt;Lesson Notes&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;**5. Backprop; Neural Net from scratch
+**As the title implies, this lesson is much more theory based. At this point, you start learning more about fine-tuning, unfreezing/freezing layers, regularization, using discriminative learning rates, embeddings, bias and other things that were abstracted away from you in the previous lessons.&lt;/p&gt;
+
+&lt;p&gt;The lesson wraps up with an example of a neural network built within excel, to show you exactly how it all works under the hood.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/hiromis/notes/blob/master/Lesson5.md&quot;&gt;Lesson Notes&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;**6. CNN deep dive; Ethics
+**Lesson six continues the exploration of theory, such as the importance of dropout and why it can lead to good results. Another interesting part of this lesson is the subject of data augmentation. This is the process of taking one image and turning it into several images (as can be seen below).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2000/0*8xUz8s2lBM3FM4he&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;You’re then exposed to more theory around convolutional neural networks and receive insights into what exactly happens when a CNN is trained.&lt;/p&gt;
+
+&lt;p&gt;The last part of the lesson is dedicated to ethics in data science. This largely consists of all the ways that machine learning technologies have been misused or have the ability to be misused. Bias in facial recognition systems and translation services are two examples of misuse.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/hiromis/notes/blob/master/Lesson6.md&quot;&gt;Lesson Notes&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;**7. Resnet; U-net; GANs
+**The last lesson continues to build on the theory, covering the use of Resnet and U-net to achieve state of the art results.&lt;/p&gt;
+
+&lt;p&gt;You also have a chance to be exposed to Generative Adversarial Networks, a topic that has been getting some media coverage lately through applications such as DeepFakes. GAN’s in this lesson are applied within the context of cleaning images, and you also have a chance to get an understanding of how the internals work.&lt;/p&gt;
+
+&lt;p&gt;The last section revisits NLP and explores the topic of Recurrent Neural Networks, where you get a chance to build a model that predicts the next word in a sequence.&lt;/p&gt;
+
+&lt;p&gt;As a final call to action, Jeremy recommends the following next steps as a way to solidify and build on the knowledge from the course&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2000/0*3jyr_7PbVXqdMvan&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/hiromis/notes/blob/master/Lesson7.md&quot;&gt;Lesson Notes&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;By the end of the 7 lessons, you’ll have covered a wide array of topics, summarized in the image below.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2000/0*sAGk4Hxgv4YCvzIm&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Part 2 which is set to come out June 2019, will cover the following topics:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2000/0*XuIZv1AGiAULcNYm&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;getting-the-most-out-of-fastai&quot;&gt;&lt;strong&gt;Getting The Most Out Of Fast.ai&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;To get the most out of this course, it’s recommended that you watch the lectures once, and then a second or third time where you focus on replicating the notebooks. Once you feel like you’ve got a handle on things, you can start implementing these techniques with your own data and projects, or even a Kaggle competition. It’s much better to see a project through to completion, rather than leaving several half-complete ones.&lt;/p&gt;
+
+&lt;p&gt;Reading research papers is also a great way to take what you’ve learned and build on it. Having a PhD is not a requirement to read research papers, so don’t feel intimidated.&lt;a href=&quot;http://www.arxiv-sanity.com/&quot;&gt; Arxiv Sanity Preserver&lt;/a&gt; is a great place to start, as it offers free pre-print papers from all kinds of sub-specializations in deep learning. If you’re unsure of how to read research papers, check out these two guides (&lt;a href=&quot;https://towardsdatascience.com/getting-started-with-reading-deep-learning-research-papers-the-why-and-the-how-dfd1ac15dbc0&quot;&gt;guide one&lt;/a&gt;,&lt;a href=&quot;https://medium.com/ai-saturdays/how-to-read-academic-papers-without-freaking-out-3f7ef43a070f&quot;&gt; guide two&lt;/a&gt;)&lt;/p&gt;
+
+&lt;h3 id=&quot;simplifying-deep-learning&quot;&gt;&lt;strong&gt;Simplifying Deep Learning&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;While Fast.ai doesn’t promise that you’ll become a deep learning expert after going through their course, it does plant the initial seeds for you to start experimenting and tinkering. Many Fast.ai students go on to do a lot of interesting work, whether in AI residencies like Google, or deep learning at startups.&lt;/p&gt;
+
+&lt;p&gt;The whole idea behind simplifying deep learning is that it’ll allow domain experts to combine their unique expertise with deep learning. It’s not practical to think that a small group of machine learning PhD’s will be able to tackle all the problems that deep learning can solve. Especially if they don’t have the relevant domain expertise built from rigorous study and practice.&lt;/p&gt;
+
+&lt;p&gt;Fast.ai is a promising development in the field of deep learning. If you’re interested in deep learning it’s one of the best sources to get started and to see what is possible.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 23 Apr 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4040/2019/simplifying-deep-learning-with-fastai/</link>
+        <guid isPermaLink="true">http://localhost:4040/2019/simplifying-deep-learning-with-fastai/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Making Recommendations Stick As A Data Scientist</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2000/1*uSYLH1oZk8VjrV27_L6vhQ.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Have you ever walked an audience through your recommendations, only to have them go nowhere? If you’re like most data scientists, chances are that you’ve been in this situation before.&lt;/p&gt;
+
+&lt;p&gt;Part of the work of a data scientist is being able to translate your work into actionable recommendations and insights for stakeholders. This means making your ideas memorable, easy to understand and impactful.&lt;/p&gt;
+
+&lt;p&gt;In this article, we’ll explore the principles behind the book [&lt;em&gt;Made To Stick](https://www.amazon.com/Made-Stick-Ideas-Survive-Others-ebook/dp/B000N2HCKQ)&lt;/em&gt;, and apply it within the context of data science. This book suggests that the best ideas follow six main principles: Simplicity, Unexpectedness, Concreteness, Credibility, Emotions, and Stories (SUCCESs). After reading this article, you’ll be able to integrate these principles into your work and increase the impact of your recommendations and insights.&lt;/p&gt;
+
+&lt;h3 id=&quot;simple&quot;&gt;&lt;strong&gt;Simple&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Making an idea simple is all about stripping the idea to its core. It’s not about dumbing down, but about creating something elegant. This means that you should avoid overwhelming your audience with ideas, when you try to say 3 things, you don’t say anything at all. Another key component to making ideas simple is to avoid burying the lead. If during your analysis you find that 10% of customers contribute to 80% of revenues, lead with that key insight! You should follow an inverted pyramid approach where the first few minutes convey the most information, and as you get further you can get more nuanced. Analogies and metaphors are also a great way to get your ideas across simply and succinctly. Being able to use schemas that your audience can understand and relate to, will make it a lot more digestible. For example, a one-sentence analogy like Uber for X can capture the core message of what you’re trying to convey.&lt;/p&gt;
+
+&lt;h3 id=&quot;unexpected&quot;&gt;&lt;strong&gt;Unexpected&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;An unexpected idea is one that violates people’s expectations and takes advantage of surprise. You can do this in several ways, one of which is making people commit to an answer, then falsifying it. For example, asking to guess how much time employees spend doing a task you’re looking to automate before revealing the real answer. Another way to generate interest and leverage the unexpected principle is to use mysteries since they lead to “aha” moments. This might take the form of starting your presentation with a short story, that you don’t resolve until the end.&lt;/p&gt;
+
+&lt;h3 id=&quot;concrete&quot;&gt;&lt;strong&gt;Concrete&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Abstractness is the enemy of understanding for non-experts. It’s your job as the data scientist to make your recommendations and insights more concrete. A key to understanding is using concrete images and explaining ideas in terms of human actions and senses. The natural enemy of concreteness is the curse of knowledge. As data scientists, we need to fight the urge to overwhelm our audiences with unnecessary technical information. For example, reporting on the Root Mean Squared Error of a model, may not be as helpful as breaking up the language into more concrete terms that anyone can understand.&lt;/p&gt;
+
+&lt;h3 id=&quot;credible&quot;&gt;&lt;strong&gt;Credible&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Adding credibility to your recommendations can take three forms. The first is the most common one when we think of credibility, which is leveraging experts to back up claims or assertions. Another way is using anti-authorities who are real people with powerful stories. For example, if you’re talking about the dangers of smoking, the story of someone who suffers from lung cancer will be a lot more impactful than a sterile statistic. The third ways of adding credibility to your story is by outsourcing the credibility of your point to your audience. This means creating a testable claim that the audience can try out. For example making the claim that customers from region A, take up 80% more customer support time than any other region. In posing this claim, your audience can confirm this claim which can make it easier to lead to your recommendation.&lt;/p&gt;
+
+&lt;h3 id=&quot;emotions&quot;&gt;&lt;strong&gt;Emotions&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Weaving an emotional component to your ideas is all about getting people to care. Humans are naturally wired to feel for humans, not for abstractions. As a result, one individual often trumps a composite statistic. Another component of emotions is tapping into the group identities that your audience conforms to. By keeping those identities in mind, you can tie in the relevant associations and evoke certain schemas that your audience will be most receptive to. For example, if you know one of your audience members is a stickler for numbers and wants to see a detailed breakdown of how you arrived at certain conclusions, then adding an appendix may be helpful.&lt;/p&gt;
+
+&lt;h3 id=&quot;stories&quot;&gt;&lt;strong&gt;Stories&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Humans have been telling stories for centuries and they have proven to be one of the most effective teaching methods. If you reflect on the books you’ve read in the past 5 years, you’re more likely to remember the interesting stories rather than objective facts. When weaving stories into your recommendations, make sure to build tension and don’t give everything away all at once. Another useful tactic is telling stories which act as springboards to other ideas. Creating open-ended stories that your audience can build on is a great way for them to get a sense of ownership.&lt;/p&gt;
+
+&lt;p&gt;Next time you’re tasked with distilling your insights or pitching recommendations, keep in mind these six principles and you’ll be creating simple, unexpected, concrete, credentialed emotional stories in no time!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 11 Apr 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4040/2019/making-recommendations-stick-as-a-data-scientist/</link>
+        <guid isPermaLink="true">http://localhost:4040/2019/making-recommendations-stick-as-a-data-scientist/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>A Satirical Take On a Post-Scarcity Society</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2000/0*aRvLTi7KfxsfQptr.jpg&quot; alt=&quot;[Player Piano](https://www.amazon.ca/Player-Piano-Novel-Kurt-Vonnegut/dp/0385333781)&quot; /&gt;&lt;em&gt;&lt;a href=&quot;https://www.amazon.ca/Player-Piano-Novel-Kurt-Vonnegut/dp/0385333781&quot;&gt;Player Piano&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;What does it mean to be human in a world where automation has devalued almost all human labor? This is the central theme of Kurt Vonnegut’s 1952 novel, Player Piano. In the beginning, we’re introduced to Paul Proteus, an engineering manager of a plant in futuristic New York who is a rising star within his company. This is partly because of his famous father who kickstarted the mechanization of the entire country. In this world, machines have gotten to the point where they do everything from mundane chores like house cleaning, to deciding your career path.&lt;/p&gt;
+
+&lt;p&gt;As a result, the world is divided into engineers who maintain and create machines, and the rest of the population who work in reclamation works or in the army. The latter two which serve no real purpose, other than giving people something to do. As the book progresses, we watch as Paul grows disillusioned with the state of things, and begins to contemplate a life without machines. He’s soon persuaded by one of his former colleagues to join a rebellion and become its figurehead. When the rebellion is in full swing, it soon gets out of control and we see the widespread destruction of even machines whose sole purpose was only to make orange juice. Yet, surprisingly, towards the end of the book, the same people who destroyed the machines are now trying to fix and repair them. At this point, Paul and his conspirators realize their rebellion is over and turn themselves over to the army.&lt;/p&gt;
+
+&lt;p&gt;While Paul’s story was the main plot line, there were also several sub-plot lines which provide for some interesting commentary. One was the American tour of the Shah of Bratpuhr, a spiritual leader of an un-mechanized nation. The goal of this tour was to convince the Shah of the value that mass mechanization can provide for him and his people. Throughout his tour, there are several funny mistranslations. He often calls workers on the side of the road “&lt;em&gt;Takaru&lt;/em&gt;”, or slaves in his language. His translator tries and fails to correct him, stating that they are in fact citizens employed by the government. Although it’s quite clear that the mechanization has turned a large swath of society into indentured slaves. Another interesting scene is when the Shah asks a spiritual riddle to the giant computer brain EPICAC. In his religion, the entity that can answer the riddle will signify the arrival of an &lt;em&gt;“all-wise-god&lt;/em&gt;”. In this case, the machine fails to provide an answer, and the Shah is dismayed to realize that it is, in fact, a false god. Despite all the technological advances, the computer is still unable to answer our deepest questions or give life meaning.&lt;/p&gt;
+
+&lt;p&gt;When you think about what the world will look like post-mechanization, there may be some obvious advantages. Dangerous work will be non-existent, and people may have more free time to explore their interests. Yet the implicit assumption here is that in this post-scarcity society, people will be able to create meaning for themselves. It’s clear however that the citizens of this world are not up to the task, as alcoholism and suicide are rampant.&lt;/p&gt;
+
+&lt;p&gt;The book draws an interesting parallel as well to the story of the Native Americans and settlers. After their lands were taken over, these once proud people felt displaced. No longer were great hunters given an opportunity to hunt and prove their worth. Leaders could no longer lead due to an imbalance that guns gave to the settlers. In this new world, their old values didn’t apply anymore. Similarly, in this futuristic world, the values of a pre-mechanized America were not compatible with the realities of an under-utilized workforce. Friedrich Nietzsche, a philosopher from the 19th century talks about the need for a revaluation of values. While this call for a revaluation of values was in the context of reevaluating Christian values, a similar case can be made in this post-scarcity society. The only way to prevent a stark class divide and massive inequity is to reevaluate all our closest held values and beliefs. Beyond this task, which in itself is a herculean effort, it would be almost impossible to stem the tide of automation and its consequences. Any attempt to regulate it will only lead to other countries adopting mechanization and leaving the laggard countries in the dust.&lt;/p&gt;
+
+&lt;p&gt;It’s quite clear that despite this book having been written almost 70 years ago, it has great relevance for our current society which is increasingly mechanizing its workforce. While it’s true that technology has often added more jobs than it’s replaced in the past, that may not always be the case going forward. As such it’s important to start thinking about what it means to live in a post-scarcity society. Specifically, looking at the values that we and society hold, and whether the institutions we have set up are conducive to those values.&lt;/p&gt;
+
+&lt;p&gt;There’s a high likelihood that the future will lead to widening inequality if we don’t navigate mass mechanization carefully. Individuals who find themselves displaced due to no fault of their own may struggle to find work and meaning. Those unable to find meaning will likely try to distract themselves whether through drugs, alcohol or some other means. Those who reap the windfall of this technological boom will be insulated from any of the fallout. While this may seem like a bleak vision of the future, it does not seem at all inconceivable.&lt;/p&gt;
+
+&lt;p&gt;The alternative path is a much harder one and which in itself will bring a lot of pain and turmoil but may at the very least lead to a brighter future. Specifically, the destruction and creation of new institutions and values. In a world where machines have mechanized most labor, does it make sense to have the educational institutions we have? How about the value systems and incentive structures, that may have served us well in the past but may not be suited for the future ahead? These are all important questions to ask, and while we may not always like the answer, Vonnegut does a brilliant job of painting a vision of a future where our values stay the same, but the environment changes drastically. Ultimately Player Piano leaves us with the sense that if we fail to address these fundamental issues than the future may indeed be quite bleak for the majority of the world.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 13 Mar 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4040/2019/a-satirical-take-on-a-post-scarcity-society/</link>
+        <guid isPermaLink="true">http://localhost:4040/2019/a-satirical-take-on-a-post-scarcity-society/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Why Data Scientists Need To Lead Data Evangelism Efforts</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/3094/1*Y8uBrDxsQ-qz-Yb20vJx5A.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;When is the last time you helped someone with a request that they could’ve easily done themselves? If you’re like most data scientists, you’re likely having to deal with ad hoc requests on a fairly frequent basis.&lt;/p&gt;
+
+&lt;p&gt;The easiest way to minimize the number of these requests is to educate and empower your colleagues through data evangelism efforts. Every organization is different and depending on which stage of the &lt;a href=&quot;https://www.cio.com/article/3077871/the-four-stages-of-the-data-maturity-model.html&quot;&gt;Data Maturity Model&lt;/a&gt; your company is in, one data evangelism initiative may have a higher return on investment than others. For example, if you’re getting variations of a simple SQL request (E.g. what are sales in region x during these days?), then creating a SQL workshop may prove to be a great use of your time.&lt;/p&gt;
+
+&lt;p&gt;Besides making your colleagues self sufficient, data evangelism can also lead to strengthening your technical team and promote awareness of your work. Inviting people to share their work in the context of a learning lunch or a newsletter, is a great way to raise awareness and allows for people to showcase their knowledge. External stakeholders may also benefit from greater insight into what exactly the data science team does, and how they can help them achieve their business objectives.&lt;/p&gt;
+
+&lt;p&gt;As a data scientist, you should be leading the way when it comes to evangelizing your data and encouraging data-driven decision making. With the importance of data evangelism in mind, below are six ideas for initiatives that you can start at your company.&lt;/p&gt;
+
+&lt;h3 id=&quot;1-workshops&quot;&gt;&lt;strong&gt;1. Workshops&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;If you find yourself regularly dealing with simple requests that can be done with some basic training, then it may be time to consider hosting a workshop. Educating line of business stakeholders on the basics of SQL and the mechanics of your data collection and storage may lead to huge time savings on your part. Other topics could include an overview of basic business intelligence tools such as &lt;a href=&quot;https://www.periscopedata.com/&quot;&gt;Periscope&lt;/a&gt; and &lt;a href=&quot;https://www.tableau.com/&quot;&gt;Tableau&lt;/a&gt;, or even a workshop describing the basics of how your predictive models make decisions. The key here is to engage, educate and inspire your colleagues to continue learning on their own. Having office hours during specific times of the week may be another useful way to keep engagement high and create time to answer questions. This way you can also batch questions, and avoid context switching during the week.&lt;/p&gt;
+
+&lt;h3 id=&quot;2-newsletter&quot;&gt;2. &lt;strong&gt;Newsletter&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;With a newsletter, you can either focus on internal topics (highlighting projects and internal team updates), external (industry trends), or a hybrid of the two. Having a way to communicate what your team is working on is a great way to raise awareness and coordinate action with others in your company. Similarly, highlighting developments in your field may lead to someone outside of your immediate team to come up with a novel idea worth exploring.&lt;/p&gt;
+
+&lt;h3 id=&quot;3-research-paper-club&quot;&gt;&lt;strong&gt;3. Research Paper Club&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;When you start working it can be difficult to continue learning and staying on top of the latest developments. In this way, research paper clubs can serve as a useful accountability tool. It may also lead to some interesting ideas that impact your technical roadmap.&lt;/p&gt;
+
+&lt;h3 id=&quot;4-learning-lunches&quot;&gt;&lt;strong&gt;4.&lt;/strong&gt; &lt;strong&gt;Learning Lunches&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Inviting internal or external speakers is a great way to get a fresh perspective and offer a platform for others to share what they’re working on. The goal could be anything from highlighting unique insights from people outside of your team, to generating interesting discussions.&lt;/p&gt;
+
+&lt;h3 id=&quot;5-data-hackathons&quot;&gt;&lt;strong&gt;5. Data Hackathons&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Opening your data to others in your company can be useful if you want to brainstorm new ways to visualize data or different approaches to building predictive models. Sometimes it takes someone who doesn’t look at the same data every day to come up with a novel insight.&lt;/p&gt;
+
+&lt;h3 id=&quot;6-documentation&quot;&gt;&lt;strong&gt;6. Documentation&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;An important step in educating your colleagues is creating documentation on topics that come up frequently. This will also be an invaluable tool when on-boarding new teammates.&lt;/p&gt;
+
+&lt;p&gt;A culture which educates and empowers employees through data evangelism efforts will be one that will reap both explicit and implicit benefits for many years to come. Sometimes it’s as simple as walking through a business stakeholder through the mechanics of a model you have in production to get them to understand how it’s happening, as opposed to having them to think it’s black-box magic. With increased transparency, that business stakeholder may be more likely to cooperate and may even come up with some new applications that you hadn’t thought of before. These types of efforts among the ones listed above will ultimately lead to increased credibility and trust. Without these two things, no matter how great your technical abilities are, your ability to impact the company will be stunted.&lt;/p&gt;
+
+&lt;p&gt;If you have other ideas for data evangelism efforts, please share in the comments below!&lt;/p&gt;
+</description>
+        <pubDate>Wed, 06 Mar 2019 00:00:00 -0800</pubDate>
+        <link>http://localhost:4040/2019/why-data-scientists-need-to-lead-data-evangelism-efforts/</link>
+        <guid isPermaLink="true">http://localhost:4040/2019/why-data-scientists-need-to-lead-data-evangelism-efforts/</guid>
         
         
       </item>
@@ -254,509 +663,6 @@ Programming — &lt;a href=&quot;https://wakatime.com/&quot;&gt;Wakatime&lt;/a&g
         <pubDate>Wed, 13 Feb 2019 00:00:00 -0800</pubDate>
         <link>http://localhost:4040/2019/A-Guide-To-Full-Immersion-Learning/</link>
         <guid isPermaLink="true">http://localhost:4040/2019/A-Guide-To-Full-Immersion-Learning/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Mastering The Data Science Interview Loop</title>
-        <description>&lt;p&gt;In 2012, Harvard Business Review announced that Data Science will be the sexiest job of the 21st Century. Since then, the hype around data science has only grown. Recent reports have shown that demand for data scientists far exceeds the supply.&lt;/p&gt;
-
-&lt;p&gt;However, the reality is most of these jobs are for those who already have experience. Entry level data science jobs, on the other hand, are extremely competitive due to the supply/demand dynamics. Data scientists come from all kinds of backgrounds, ranging from social sciences to traditional computer science backgrounds. Many people also see data science as a chance to rebrand themselves which results in a huge influx of people looking to land their first role.&lt;/p&gt;
-
-&lt;p&gt;To make matters more complicated, unlike software development positions which have more standardized interview processes, data science interviews can have huge variations. This is partly because as an industry, there still isn’t an agreed upon definition of a data scientist. Airbnb recognized this and decided to split their &lt;a href=&quot;https://www.linkedin.com/pulse/one-data-science-job-doesnt-fit-all-elena-grewal/&quot;&gt;data scientists into three paths&lt;/a&gt;: Algorithms, Inference and Analytics.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2000/1*OejCBdsq286istzH0JkL-Q.png&quot; alt=&quot;[https://www.linkedin.com/pulse/one-data-science-job-doesnt-fit-all-elena-grewal/](https://www.linkedin.com/pulse/one-data-science-job-doesnt-fit-all-elena-grewal/)&quot; /&gt;&lt;em&gt;&lt;a href=&quot;https://www.linkedin.com/pulse/one-data-science-job-doesnt-fit-all-elena-grewal/&quot;&gt;https://www.linkedin.com/pulse/one-data-science-job-doesnt-fit-all-elena-grewal/&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;So before starting to search for a role, it’s important to determine what flavor of data science appeals to you. Based on your response to that, what you study and what questions you’ll be asked will vary. Despite the differences in the types, generally speaking, they’ll follow a similar interview loop although the particular questions asked may vary. In this article, we’ll explore what to expect at each step of the interview process, along with some tips and ways to prepare. If you’re looking for a list of data science questions that may come up in an interview, you should consider reading &lt;a href=&quot;https://towardsdatascience.com/data-science-interview-guide-4ee9f5dc778&quot;&gt;this&lt;/a&gt; and &lt;a href=&quot;https://www.analyticsvidhya.com/blog/2018/06/comprehensive-data-science-machine-learning-interview-guide/&quot;&gt;this&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2000/0*r5Q8gKztFDRBlCu3&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;the-coding-challenge&quot;&gt;&lt;strong&gt;The Coding Challenge&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;Coding challenges can range from a simple Fizzbuzz question to more complicated problems like building a time series forecasting model using messy data. These challenges will be timed (ranging anywhere from 30mins to one week) based on how complicated the questions are. Challenges can be hosted on sites such as &lt;a href=&quot;https://www.hackerrank.com/&quot;&gt;HackerRank&lt;/a&gt;, &lt;a href=&quot;https://coderbyte.com/&quot;&gt;CoderByte&lt;/a&gt;, and even internal company solutions.&lt;/p&gt;
-
-&lt;p&gt;More often than not, you’ll be provided with written test cases that will tell you if you’ve passed or failed a question. This will typically consider both correctness as well as complexity (i.e. how long did it take to run your code). If you’re not provided with tests, it’s a good idea to write your own. With data science coding challenges you may even encounter multiple-choice questions on statistics so make sure you ask your recruiter what exactly you’ll be tested on.&lt;/p&gt;
-
-&lt;p&gt;When you’re doing a coding challenge, it’s important to keep in mind that companies aren’t always looking for the ‘correct’ solution. They may also be looking for code readability, good design, or even a specific optimal solution. So don’t take it personally when even after passing all the test cases, you didn’t get to the next stage in the interview process.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Preparation:&lt;/em&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Practice questions on &lt;a href=&quot;https://leetcode.com/&quot;&gt;Leetcode&lt;/a&gt; which has both SQL and traditional data structures/algorithm questions&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Review &lt;a href=&quot;https://brilliant.org/&quot;&gt;Brilliant&lt;/a&gt; for math and statistics questions.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://sqlzoo.net/&quot;&gt;SQL Zoo&lt;/a&gt; and &lt;a href=&quot;https://mode.com/sql-tutorial/introduction-to-sql/&quot;&gt;Mode Analytics&lt;/a&gt; both offer various SQL exercises you can solve in your browser.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;em&gt;Tips:&lt;/em&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Before you start coding, read through all the questions. This allows your unconscious mind to start working on problems in the background.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Start with the hardest problem first, when you hit a snag, move to the simpler problem before returning to the harder one.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Focus on passing all the test cases first, then worry about improving complexity and readability.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;If you’re done and have a few minutes left, go get a drink and try to clear your head. Read through your solutions one last time, then submit.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;It’s okay to not finish a coding challenge. Sometimes companies will create unreasonably tedious coding challenges with one-week time limits that require 5–10 hours to complete. Unless you’re desperate, you can always walk away and spend your time preparing for the next interview.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;the-hr-screen&quot;&gt;&lt;strong&gt;The HR Screen&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;HR screens will consist of behavioral questions, asking you to explain certain parts of your resume, why you wanted to apply to this company and examples of when you may have had to deal with a particular situation in the workplace. Occasionally you may be asked a couple of simple technical questions, perhaps a SQL or a basic computer science theory question. Afterward, you’ll be given a few minutes to ask questions of your own.&lt;/p&gt;
-
-&lt;p&gt;Keep in mind the person you’re speaking to is unlikely to be technical, so they may not have a deep understanding of the role or the technical side of the organization. With that in mind, try to keep your questions focused on the company, the person’s experience there, and logistical questions like how the interview loop typically runs. If you have specific questions they can’t answer, you can always ask the recruiter to forward your questions to someone who can answer them.&lt;/p&gt;
-
-&lt;p&gt;Remember, interviews are a two-way street so it would be in your best interest to identify any red flags before committing more time to the interviewing with this particular company.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Preparation:&lt;/em&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Read the role and company description.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Lookup who your interview is going to be and try to find areas of rapport. Perhaps you both worked in a particular city or volunteer at similar nonprofits.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Read over your resume before getting on the call.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;em&gt;Tips:&lt;/em&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Come prepared with questions.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Keep your resume in clear view.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Find a quiet space to take the interview. If that’s not possible, reschedule the interview.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Focus on building rapport in the first few minutes of the call. If the recruiter wants to spend the first few minutes talking about last nights basketball game, let them.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Don’t bad mouth your current or past companies. Even if the place you worked at was terrible, it rarely will benefit you.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;the-technical-call&quot;&gt;&lt;strong&gt;The Technical Call&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;At this stage of the interview process, you’ll have an opportunity to be interviewed by a technical member of the team. Calls such as these are typically conducted using platforms such as &lt;a href=&quot;https://coderpad.io/&quot;&gt;Coderpad&lt;/a&gt;, which includes a code editor along with a way to run your code. Occasionally you may be asked to write code in a Google doc. Thus you should be comfortable coding without any syntax highlighting or code completion. Language-wise, Python and SQL are typically the two that you’ll be asked to write in, however, this can differ based on the role and company.&lt;/p&gt;
-
-&lt;p&gt;Questions at this stage can range in complexity from a simple SQL question solved with a windows function to problems involving Dynamic Programming. Regardless of the difficulty, you should always ask clarifying questions before starting to code. Once you have a good understanding of the problem and expectations, start with a brute-force solution so that you have at least something to work with. However, make sure you tell your interviewer that you’re solving it first in a non-optimal way before thinking about optimization. After you have something working, start to optimize your solution and make your code more readable. Throughout the process, it’s helpful to verbalize your approach, since interviewers may occasionally help guide you in the right direction.&lt;/p&gt;
-
-&lt;p&gt;If you have a few minutes at the end of the interview, take advantage of the fact that you’re speaking to a technical member of the team. Ask them about coding standards and processes, how the team handles work, and what their day to day looks like.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Preparation:&lt;/em&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;If the data science position you’re interviewing for is part of the engineering organization, make sure to read &lt;a href=&quot;https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850&quot;&gt;Cracking The Coding Interview&lt;/a&gt; and &lt;a href=&quot;https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836&quot;&gt;Elements of Programming Interviews&lt;/a&gt; since you may have a software engineer conducting the technical screen.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Flashcards are typically the best way to review machine learning theory which may come up at this stage. You can either make your own or purchase &lt;a href=&quot;https://machinelearningflashcards.com/&quot;&gt;this set for $12&lt;/a&gt;. &lt;a href=&quot;https://ml-cheatsheet.readthedocs.io/en/latest/&quot;&gt;The Machine Learning Cheatsheet&lt;/a&gt; is also a good resource to review.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Look at Glassdoor to get some insight into the type of questions that may come up.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Research who is going to interview you. A machine learning engineer with a Ph.D. will interview you differently than a data analyst.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;em&gt;Tips:&lt;/em&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;It’s okay to ask for help if you’re stuck.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Practice mock technical calls with a friend or use a platform like &lt;a href=&quot;http://www.interviewing.io&quot;&gt;interviewing.io&lt;/a&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Don’t be afraid to ask for a minute or two to think about a problem before you start solving it. Once you do start, it’s important to walk your interviewer through your approach.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;the-take-home-project&quot;&gt;&lt;strong&gt;The Take Home Project&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;Take home’s have been rising in popularity within data science interview loops since they tend to be more closely tied with what you’ll be doing once you start working. They can either occur after the first HR screen prior to a technical screen or serve as a deliverable for your onsite. Companies may test you on your ability to work with ambiguity (e.g. Here’s a dataset, find some insights and pitch to business stakeholders) or focused on a more concrete deliverable (e.g. Here’s some data, build a classifier).&lt;/p&gt;
-
-&lt;p&gt;When possible, try to ask clarifying questions to make sure you know what they’re testing you on and who your audience will be. If the audience for your take home is business stakeholders, it’s not a good idea to fill your slides with technical jargon. Instead, focus on actionable insights and recommendations and leave the technical jargon for the appendix.&lt;/p&gt;
-
-&lt;p&gt;While all take homes may differ in their objectives, the common denominator is that you’ll be receiving data from the company. So regardless of what they’ve asked you to do, the first step will always be Exploratory Data Analysis. Luckily there are some automated EDA solutions, such as &lt;a href=&quot;https://speedml.com/automate-exploratory-data-analysis/&quot;&gt;SpeedML&lt;/a&gt;. Primarily what you want to do here is investigate peculiarities in the data. More often than not, the company will have synthetically generated the data, leaving specific easter eggs for you to find (e.g. A power law distribution with customer revenue).&lt;/p&gt;
-
-&lt;p&gt;Once you finish your take-home, try to get some feedback from friends or mentors. Often if you’ve been working on a take-home for long enough you may start to miss the forest for the trees, so it’s always good to get feedback from someone who doesn’t have the context you do.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Preparation:&lt;/em&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Practice take-home challenges which you can either purchase from &lt;a href=&quot;https://datamasked.com/&quot;&gt;datamasked&lt;/a&gt; or by looking at the answers without the questions on this &lt;a href=&quot;https://github.com/JifuZhao/DS-Take-Home&quot;&gt;Github repo&lt;/a&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Brush up on libraries and tools that may help with your work. For example SpeedML or Tableau for rapid data visualization.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;em&gt;Tips:&lt;/em&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Some companies deliberately provide a take-home that requires you to email them to get additional information, so don’t be afraid to get in touch!&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;A good take home can often offset any poor performance at an onsite. The rationale being that despite not knowing how to solve a particular interview problem you’ve demonstrated competency in solving problems that they may encounter on a daily basis. So if given the choice between doing more Leetcode problems or polishing your onsite presentation, it’s worthwhile to focus on the latter.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Make sure to save every onsite challenge you do. You never know when you may need to reuse a component in future challenges.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;It’s okay to make assumptions as long as you state them. Information asymmetry is a given in these situations and it’s better to make an assumption than to continuously bombard your recruiter with questions.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;the-onsite&quot;&gt;&lt;strong&gt;The Onsite&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;An onsite will consist of a series of interviews throughout the day, including a lunch interview which is typically evaluating your ‘culture fit’.&lt;/p&gt;
-
-&lt;p&gt;It’s important to remember that any company that has gotten you to this stage wants to see you succeed. They’ve already spent a significant amount of money and time interviewing candidates to narrow it down to the onsite candidates, so have some confidence in your abilities!&lt;/p&gt;
-
-&lt;p&gt;Make sure to ask your recruiter for a list of people who will be interviewing you so that you have a chance to do some research beforehand. If you’re interviewing with a director, you should focus on preparing for higher level questions such as company strategy and culture. On the other hand, if you’re interviewing with a software engineer it’s likely that they’ll ask you to whiteboard a programming question. As mentioned before, the person’s background will influence the type of questions they’ll ask.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Preparation:&lt;/em&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Read as much as you can about the company. The company website, &lt;a href=&quot;https://www.crunchbase.com/&quot;&gt;CrunchBase&lt;/a&gt;, Wikipedia, recent news articles, &lt;a href=&quot;https://www.teamblind.com/articles/Topics&quot;&gt;Blind&lt;/a&gt;, &lt;a href=&quot;https://www.glassdoor.com/&quot;&gt;Glassdoor&lt;/a&gt;, all serve as great resources for information gathering.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Do some mock interviews with a friend who can give you feedback on any verbal tics you may exhibit or holes in your answers. This is especially helpful if you have a take-home presentation that you’ll be giving at the on-site.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Have stories prepared to common behavioural interview questions such as, ‘Tell me about yourself”, ‘Why this company?’, ‘Tell me about a time you had to deal with a difficult colleague”.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;If you have any software engineers on your onsite day, there’s a good chance you’ll need to brush up on your data structures and algorithms.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;em&gt;Tips:&lt;/em&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Don’t be too serious. Most of these interviewers would rather be back at their desk working on their assigned projects. So try your best to make it a pleasant experience for your interviewer.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Make sure to dress the part. If you’re interviewing at an east coast fortune 500, it’s likely you’ll need to dress much more conservatively than if you were interviewing with a startup on the west coast.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Take advantage of bathroom and water breaks to recompose yourself.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Ask questions you’re actually interested in. You’re interviewing the company just as much as they are interviewing you.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Send a short thank you note to your recruiter and hiring manager after the onsite.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;the-offer-and-negotiation&quot;&gt;&lt;strong&gt;The Offer and Negotiation&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;Negotiating for many people may seem uncomfortable, especially for those without previous industry experience. However, the reality is that negotiating has almost no downside (as long as you’re polite about it) and lots of upside.&lt;/p&gt;
-
-&lt;p&gt;Typically companies will inform you that they’re planning on giving you an offer over the phone. At this point, it may be tempting to commit and accept the offer on the spot. Instead, you should convey your excitement about the offer, and ask that they give you some time to discuss it with your significant other or friend. You can also be up front and tell them you’re still in the interview loop with a couple of other companies and that you’ll get back to them shortly. Sometimes these offers come with deadlines, however, these are often quite arbitrary and can be pushed by a simple request on your part.&lt;/p&gt;
-
-&lt;p&gt;Your ability to negotiate ultimately rests on a variety of factors, but the biggest one is optionality. If you have two great offers in hand, it’s much easier to negotiate because you have the optionality to walk away.&lt;/p&gt;
-
-&lt;p&gt;When you’re negotiating, there are various levers you can pull. The three main ones are your base salary, stock options, and signing/relocation bonus. Every company has a different policy, which means some levers may be easier to pull than others. Generally speaking, signing/relocation is the easiest to negotiate, followed by stock options and then base salary. So if you’re in a weaker position, ask for a higher signing/relocation bonus. However, if you’re in a strong position it may be in your best interest to increase your base salary. The reason being that not only will it act as a higher multiplier when you get raises, but it will also have an effect on company benefits such as 401k matching, and employee stock purchase plans. That said each situation is different so make sure to reprioritize what you negotiate as necessary.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Preparation:&lt;/em&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;One of the best resources on negotiation is an &lt;a href=&quot;https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/&quot;&gt;article written by Haseeb Qureshi &lt;/a&gt;that details how he went from boot camp grad to receiving offers from Google, Airbnb and many others.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;em&gt;Tips:&lt;/em&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;If you aren’t good at speaking on the fly, it may be advantageous to let calls from recruiters go to voicemail so you can compose yourself before you call them back. It’s highly unlikely that you’ll be getting a rejection call since those are typically done over email. This means that when you do call them back, you should mentally rehearse what you’ll say when they inform you that they want to give you an offer.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Show genuine excitement for the company. Recruiters can sense when a candidate is only in it for the money, and they may be less likely to help you out in the negotiating process.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Always leave things off on a good note! Even if you don’t accept an offer from a company, it’s important to be polite and candid with your recruiters. The tech industry can be a surprisingly small place and your reputation matters.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Don’t reject other companies or stop interviewing until you have an actual offer in hand. Verbal offers have a history of being retracted so don’t celebrate until you have something in writing.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Remember, interviewing is a skill that can be learned, just like anything else. Hopefully, this article has given you some insight on what to expect in a data science interview loop.&lt;/p&gt;
-
-&lt;p&gt;The process also isn’t perfect and there will be times that you fail to impress an interviewer because you don’t possess some obscure piece of knowledge. However, with repeated persistence and adequate preparation, you’ll be able to land a data science job in no time!&lt;/p&gt;
-</description>
-        <pubDate>Tue, 22 Jan 2019 00:00:00 -0800</pubDate>
-        <link>http://localhost:4040/2019/Mastering-the-Data-Science-Interview-Loop/</link>
-        <guid isPermaLink="true">http://localhost:4040/2019/Mastering-the-Data-Science-Interview-Loop/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Optimizing Your Workspace</title>
-        <description>&lt;p&gt;The main purpose of a workspace is to enable you to do your best work. Even the greatest artist would not be able to reach the heights of their creative potential without the proper tools.&lt;/p&gt;
-
-&lt;p&gt;With that in mind, it’s important to note that everyone’s tools or workspaces will look different. Different modes of work, demand different workspaces. The one described in this article is best suited for knowledge workers who use computers extensively.&lt;/p&gt;
-
-&lt;p&gt;Over the years of tweaking and experimenting, I’ve settled on a workspace that has proven to be effective at enabling flow states whenever I’m writing or programming. Hopefully, you’ll find an item or two that will help improve your own workspace and empower you to do your best work.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2880/0*cQZ_hj1IhhFqw38f&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;**Dual Monitor and Laptop Stand
-**By far the best way to upgrade your workspace is with the addition of a second monitor. &lt;a href=&quot;https://www.maketecheasier.com/do-dual-monitors-improve-productivity/&quot;&gt;Multiple studies&lt;/a&gt; have shown that the addition of another monitor leads to faster task completion and overall increased ease of use. While adding a laptop stand is not necessary, it does help with screen alignment, making it easier to switch between monitors.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;**Ergonomic Keyboard 
-**If you spend a significant amount of time typing on a keyboard, you owe it to yourself to invest in an ergonomic keyboard. The one pictured is the &lt;a href=&quot;https://www.amazon.com/Kinesis-Advantage2-Ergonomic-Keyboard-KB600/dp/B01KR1C5PY&quot;&gt;Kinesis Advantage 2&lt;/a&gt;, although there are plenty others out there. After getting used to the keyboard, you’ll immediately feel the difference and your hands will thank you for it.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;**Magic Trackpad
-**After using one of the &lt;a href=&quot;https://www.apple.com/ca/shop/product/MJ2R2LL/A/magic-trackpad-2-silver&quot;&gt;Magic Trackpads sold by Apple&lt;/a&gt;, it’s very difficult to go back to a regular mouse. There are several intuitive swipe features that make this easy to use and an essential part of any workflow.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;**Audio Technica Headphones
-**Lauded as one of the &lt;a href=&quot;https://www.lifewire.com/best-audio-technica-headphones-4157704&quot;&gt;best headphones on the market&lt;/a&gt;, Audio Technica’s offer a great audio experience. They also contribute to perceived busyness that will deter even the most determined person from interrupting you while you’re in the zone. For additional comfort, I suggest getting the &lt;a href=&quot;http://www.zmfheadphones.com/pads-and-cables/zmf-oval-earpads&quot;&gt;ZMF oval earpads &lt;/a&gt;(Cowhide).&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;**Flic button 
-&lt;a href=&quot;https://flic.io&quot;&gt;**Flic&lt;/a&gt; is a home automation button that allows you to map a sequence of actions to three distinct tactile gestures (single, double, and long press). In my case, I map a single press to changing my hue lights to an ‘energetic’ color and automatically opening up Toggl and Spotify. Double press changes the lights to a more soothing color and puts my computer to sleep. Long press switches Spotify songs.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;**Hue light 
-**These &lt;a href=&quot;https://www.amazon.com/slp/hue-lights/jupbu3rx5nqmtqh&quot;&gt;Internet-of-Thing lights&lt;/a&gt; are what I use to prime myself to get into either productive or relaxing states. Pairing them with the previously mentioned Flic button allows me to anchor states to lights with the push of a button.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;**Water 
-**Certain studies have shown that upwards of &lt;a href=&quot;https://www.medicaldaily.com/75-americans-may-suffer-chronic-dehydration-according-doctors-247393&quot;&gt;75% of Americans suffer from chronic dehydration&lt;/a&gt;. The general advice is to drink &lt;a href=&quot;https://www.healthline.com/nutrition/8-glasses-of-water-per-day&quot;&gt;8 glasses of 8 ounces of water &lt;/a&gt;a day. So by having a &lt;a href=&quot;https://www.amazon.com/d/Sports-Water-Bottles/Nalgene-Mouth-BPA-Free-Water-Bottle/B071GL7NNN&quot;&gt;48 oz water bottle&lt;/a&gt; by my desk, I can easily keep track of my daily goal of drinking a bottle and a half a day.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;**Essential Oil Diffuser
-**Our sense of smell is quite powerful, as anyone could tell you after encountering a sentimental smell from their childhood. By anchoring specific smells with specific states you want to cultivate (i.e. flow or relaxation), you can better access those states. There are a number of &lt;a href=&quot;https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&amp;amp;field-keywords=aromatherapy+diffuser&quot;&gt;diffusers&lt;/a&gt; you can find on Amazon.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;**Bullet Journal 
-**The &lt;a href=&quot;https://bulletjournal.com/&quot;&gt;Bullet Journal&lt;/a&gt; is a productivity tool and technique that helps you get things done. The system is quite&lt;a href=&quot;https://bulletjournal.com/pages/learn&quot;&gt; simple and intuitive&lt;/a&gt;, although you’re always welcome to improvise and suit it to your needs. I fill mine out every Sunday, and every evening before I go to bed I specify the three things I want to accomplish the next day.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;**Gum
-&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4449949/&quot;&gt;**Chewing gum has been associated&lt;/a&gt; with enhanced productivity and reduced cognitive errors at work. It also gives you something to do if you’re stuck on a particular problem! I recommend getting the s&lt;a href=&quot;https://www.amazon.com/Eclipse-Sugarfree-Gum-Bottle-Bottles/dp/B001D3K2AG?ref_=Oct_TopRatedC_16322471_1&amp;amp;pf_rd_p=801c4a43-8eef-5fa0-8c89-bfee1e13b0af&amp;amp;pf_rd_s=merchandised-search-6&amp;amp;pf_rd_t=101&amp;amp;pf_rd_i=16322471&amp;amp;pf_rd_m=ATVPDKIKX0DER&amp;amp;pf_rd_r=7G5H3SRFKJEFYFW2V7HZ&amp;amp;pf_rd_r=7G5H3SRFKJEFYFW2V7HZ&amp;amp;pf_rd_p=801c4a43-8eef-5fa0-8c89-bfee1e13b0af&quot;&gt;ugar-free gum that comes in packs of 60.&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;**Fidget cube
-**If you happen to have a lot of kinetic energy, &lt;a href=&quot;https://www.amazon.com/Helect-Fidget-Relieves-Stress-Anxiety/dp/B075K6V37H/ref=sr_1_3?ie=UTF8&amp;amp;qid=1547217350&amp;amp;sr=8-3&amp;amp;keywords=fidget+cube&quot;&gt;the fidget cube&lt;/a&gt; is the perfect place to channel it. Whenever you encounter a problem that requires additional thought, playing with your fidget cube can be a surefire way of breaking through the problem.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Remember, while a brilliant artist is better enabled by superior tools, these tools in the hands of a mediocre artist will not make a significant difference. So don’t be fooled into thinking that by improving your workspace everything will change. In the end, talent and a strong work ethic trump all. However, an optimized workspace may give you the extra edge you need to do your best work.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 17 Jan 2019 00:00:00 -0800</pubDate>
-        <link>http://localhost:4040/2019/optimizing-your-workspace/</link>
-        <guid isPermaLink="true">http://localhost:4040/2019/optimizing-your-workspace/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Learning How To Learn</title>
-        <description>&lt;p&gt;There is no skill that will earn greater dividends in your life than that of learning effectively.&lt;/p&gt;
-
-&lt;p&gt;The twin forces of Globalization and Technological Progress ensures that the days of a single career at one company are long past. The average person can be expected to &lt;a href=&quot;https://www.thebalancecareers.com/how-often-do-people-change-jobs-2060467&quot;&gt;change jobs 10 to 15 times&lt;/a&gt;, and planning for&lt;a href=&quot;https://www.ft.com/content/0151d2fe-868a-11e7-8bb1-5ba57d47eff7&quot;&gt; multiple careers in a lifetime&lt;/a&gt; is becoming a necessity.&lt;/p&gt;
-
-&lt;p&gt;Beyond career benefits, there’s also the personal ones. Have you ever tried to learn an instrument, before leaving it to gather dust in the attic? How about learning a language on Duolingo, only to never reopen the course after the first week? If you’re like me, there’s likely a graveyard of dead hobbies and interests that started initially with great gusto but quickly petered out.&lt;/p&gt;
-
-&lt;p&gt;In the face of all this, you have a choice. Will you choose stagnation or growth? This article is for those who choose the latter. It contains a synthesis of all the books and articles I’ve read on learning, with the hope that you’ll be able to apply it in both your personal and professional life. It’s broken down into three main sections: upgrading your learning toolbox, common learning traps and steps for effective learning.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Upgrading Your Learning Toolbox&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Below are a handful of strategies that when applied, can have a great impact on your ability to learn and retain information. They’re best used in conjunction with one another.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Recall&lt;/em&gt;: This strategy consists of quizzing yourself on topics you’ve been learning, with the most common way of doing this being flashcards. One &lt;a href=&quot;http://learninglab.psych.purdue.edu/downloads/2008_Karpicke_Roediger_Science.pdf&quot;&gt;study&lt;/a&gt; showed a retention difference of 46% between students who used active recall as a learning strategy and the control group which used a passive reading technique. As you practice recall, it’s important to employ spaced repetition. The recommended spaced repetition is 1 day, 3 days, 7 days, and 21 days to &lt;a href=&quot;https://qz.com/1213768/the-forgetting-curve-explains-why-humans-struggle-to-memorize/&quot;&gt;offset the forgetting curve&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Chunking&lt;/em&gt;: This strategy refers to tying individual pieces of information, into larger units. For example, you can remember the Buddhist Precepts for lay people by tying them into the acronym KILSS (No Killing, No Intoxication, No Lying, No Stealing, No Sexual Misconduct). You can also chunk information into images. For example, computer memory hierarchy consists of five levels, which can be visualized as a five next to a pyramid.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Interleaving&lt;/em&gt;: To interleave is to mix your learning with other subjects and approaches. One &lt;a href=&quot;https://link.springer.com/article/10.3758/s13421-012-0272-7&quot;&gt;study&lt;/a&gt; showed that blocked practice on one problem type led to students not being able to tell the difference between problems later on and showed that interleaving led to better results. In my case, whenever I have a subject I’d like to learn more about, I collect a diverse source of resources. When I wanted to learn about Machine Learning, I combined the technical learning through textbooks and online courses, with science fiction, tv shows, podcasts, and movies. This strategy can also be used for fields that have some relation to one another. For example, Chemistry and Biology where you’ll be able to note both similarities and differences.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Deliberate Practice:&lt;/em&gt; This type of practice refers to focused concentration with the goal of furthering one’s abilities. Keeping in mind that some subjects are easier to do deliberate practice than others, generally, the gold standard of deliberate practice consists of the following:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;A feedback loop in the form of a competition or a test&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;A teacher that can guide you&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Uniquely tailored practice regiment&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Outside of your comfort zone&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Has a concrete goal or performance&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;When practicing, you need to concentrate fully&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Builds or modifies skills&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Has a known training method or mental model from experts in the field that you can aspire towards&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;*Your Ideal Teacher: *An experienced teacher can mean the difference between breaking through or breaking down. As such, it’s important to consider the following when looking for a teacher:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;They are someone who can keep you up to date on specific progress&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Provides practice exercises&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Directs attention to what aspects of learning you should be paying attention to&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Helps develop correct mental representations&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Provides feedback on what errors you’re making&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Gives you an aspirational model for what good performance looks like.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;em&gt;Dynamic Testing:&lt;/em&gt; As you learn it’s important to have some sort of feedback loop to see how much you’re actually learning and where your holes are. The easiest way to do this is with flashcards, but other ways could include writing a blog post or explaining a concept to a friend who can point out inconsistencies. In doing so, you’ll quickly notice the gaps in your knowledge and the concepts you need to revisit in your future learning sessions.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Pomodoro technique:&lt;/em&gt; This is a technique I’ve been using consistently for the past few years and I’ve been very happy with it so far. The concept is pretty simple, you start a timer for either 25 or 50 minutes, after which you focus on one single thing. Once the timer is up, you have a 5 or 10-minute break before starting again.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Common Learning Traps&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Authority trap:&lt;/em&gt; The authority trap refers to the tendency to believe someone is correct simply because of their status or prestige. As an effective learner, it’s important to keep an open mind and be able to entertain multiple contradicting ideas. This is especially the case as you start getting deeper into a field of study, where certain issues are still being debated. Keeping an open mind and referencing multiple resources is key in forming the right mental models.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Confirmation bias:&lt;/em&gt; Only seeking out knowledge that confirms existing beliefs and disregarding counter evidence. If you find yourself agreeing with everything you’re learning, find something that you disagree with to mix things up.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Dunning Kruger effect:&lt;/em&gt; Not realizing you’re incompetent. To combat this, find ways to test your abilities through dynamic testing or in public forums.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Einstellung:&lt;/em&gt; Our mindset prevents us from seeing new solutions or grasping new knowledge. To counteract this, learn to step back from the problem and take a break. Sometimes all it takes is a relaxing hot shower or a long walk to be able to break through a tough conceptual learning challenge.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Fluency illusion:&lt;/em&gt; Learning something complex and thinking you understand it. For example, you may read about computing integrals thinking you understand them, then when tested you fail to get any of the answers correct. Thus having some sort of feedback loop to check your understanding is the quickest way to defuse this. Another way would be to explain what you learned to someone smarter than you&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Multitasking:&lt;/em&gt; Switching constantly between tasks and thinking modes. When you’re learning, it’s important to focus completely on the learning material at hand. By letting your attention be hijacked by notifications or other less important tasks, you miss out on the ability to get into a &lt;a href=&quot;https://en.wikipedia.org/wiki/Flow_(psychology)&quot;&gt;flow state&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Steps For Learning&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Before iterating through these steps, it’s important to compile a set of tasks and resources that you’ll be referencing during your time spent learning. You don’t want to waste time filtering through content, so make sure you have your learning material ready.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;First, check your mood. Are you sleepy/agitated/upset? If so, change your mood before starting to learn. This could be as simple as taking a walk, drinking a cup of water, or taking a nap.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Before engaging with the material, try your best to forget what you know about the subject, opening yourself to new experiences and interpretations.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;While learning, maintain an active mode of thinking and avoid lapsing into passive learning. This consists of questioning, prodding, and trying to connect the material back to previous experiences.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Once you’ve covered a certain threshold of material, you can then employ dynamic testing with the new concepts using flashcards with spaced repetition to convert the learning into long-term memory.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Once you’ve got a good grasp of the material, proceed to teach the concepts to someone else. This could be a friend or even a stranger on the internet&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;To really nail down what you learned, reproduce or incorporate the learning somehow into your life. This could entail writing, turning your learning into a mindmap or integrating it with other projects you’re working on.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;strong&gt;Your Learning Journey&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;I challenge you to revisit an old hobby or learning project and employ some of the techniques outlined in this article. Realize that there may be some stumbling along the way, and a reversion to old habits (e.g. Highlighting and re-reading text), but keep trying and you’ll soon see how effective the new tools in your learning toolbox are!&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Additional Resources&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.forbes.com/sites/stevenkotler/2013/06/02/learning-to-learn-faster-the-one-superpower-everyone-needs/#4b13ea642dd7&quot;&gt;&lt;strong&gt;Learning To Learn Faster: The One Superpower Everyone Needs&lt;/strong&gt;
-&lt;em&gt;The Superpower I have a new book coming out early next year, The Rise of Superman: Decoding the Science of Ultimate…&lt;/em&gt;www.forbes.com&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://static.coggle.it/diagram/WMbg3JvOtwABM9gV/t/learning-how-to-learn&quot;&gt;&lt;strong&gt;Learning How To Learn (Learning Hacks (Chunking. Chunks are pieces of…&lt;/strong&gt;
-&lt;em&gt;Learning How To Learn (Learning Hacks (Chunking. Chunks are pieces of…: Learning How To Learn&lt;/em&gt;static.coggle.it&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.coursera.org/learn/learning-how-to-learn&quot;&gt;&lt;strong&gt;Learning How to Learn: Powerful mental tools to help you master tough subjects | Coursera&lt;/strong&gt;
-&lt;em&gt;This course gives you easy access to the invaluable learning techniques used by experts in art, music, literature…&lt;/em&gt;www.coursera.org&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sun, 23 Dec 2018 00:00:00 -0800</pubDate>
-        <link>http://localhost:4040/2018/learning-how-to-learn/</link>
-        <guid isPermaLink="true">http://localhost:4040/2018/learning-how-to-learn/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>One Simple Tactic from the Stoics For Setting Better Goals</title>
-        <description>&lt;p&gt;How do you set your goals? If you’re anything like the average goal-oriented person you likely have goals related to career, money, lifestyle or health. Goals such as earning a six figure salary, getting a promotion, moving to a nicer neighbourhood, or getting a washboard abs are all far too common amongst well intentioned goal-oriented people.&lt;/p&gt;
-
-&lt;p&gt;But is that the best way to go about setting your goals? To approach this question, I decided to turn to the ancient philosophers for advice. Specifically, the Stoics and their ideas surrounding the trichotomy of control. To give you some quick background, &lt;a href=&quot;https://en.wikipedia.org/wiki/Stoicism&quot;&gt;Stoicism is an ancient philosophy&lt;/a&gt; that gained prominence during the reign of the Romans and the Greeks. It’s a philosophy which offers practical advice on daily living, with a specific focus on living a virtuous life that leads to less suffering. It’s recently seen a resurgence in modern day culture — specifically places like Silicon Valley, thanks to people like &lt;a href=&quot;https://tim.blog/2009/04/13/stoicism-101-a-practical-guide-for-entrepreneurs/&quot;&gt;Tim Ferriss&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://ryanholiday.net/stoicism-a-practical-philosophy-you-can-actually-use/&quot;&gt;Ryan Holiday&lt;/a&gt; promoting the ideals and tenets of Stoicism.&lt;/p&gt;
-
-&lt;p&gt;One of the central ideas within Stoicism is the trichotomy of control. It’s a pretty simple idea, yet when implemented correctly can be incredibly powerful. As the name hints, the Stoics believed that control in our lives could be broken down into three buckets: things we have complete control over, things we have partial control over, and things which we have no control over. Within the context of setting goals, we’ll focus specifically on the bucket of things we have partial control over.&lt;/p&gt;
-
-&lt;p&gt;While some people would try to argue that you can accomplish all your personal goals through sheer force of will, the reality is that it can often be subject to the whims of external factors. Whether that be internal company politics, external forces within the market or even events in your personal life, all these have a strong influence on the outcome of achieving your goals.&lt;/p&gt;
-
-&lt;p&gt;So bearing that in mind, how did the Stoics recommend we deal with things we had partial control over? Their recommendation was that instead of setting external goals, we should strive towards setting internal goals — goals which we have a greater degree of control over accomplishing.&lt;/p&gt;
-
-&lt;p&gt;To give you some examples, imagine you’re an entrepreneur who is looking to raise some money. You could either set an external goal of “&lt;em&gt;I want to raise $2M by the end of this quarter,&lt;/em&gt;” or you could focus on setting an internal goal such as “&lt;em&gt;I’d like to meet with five new investors a week&lt;/em&gt;” or “&lt;em&gt;I’d like to spend three hours a day on improving my pitch deck&lt;/em&gt;.” Another example could be someone wanting to get their PhD. Instead of focusing on the external goal of receiving a PhD diploma (Which has shown a &lt;a href=&quot;https://finishyourthesis.com/drop-out/&quot;&gt;50% attrition rate&lt;/a&gt;), the person could set the goal of 4–5 hours of &lt;a href=&quot;https://blog.evernote.com/blog/2017/02/23/deep-work-matters-distracted-world/&quot;&gt;deep work&lt;/a&gt; a day, and other health related internal goals to prevent burnout.&lt;/p&gt;
-
-&lt;p&gt;The best internal goals are ones which you have a higher degree control over. In the entrepreneur example, meeting with five new investors a week is not fully within your control, in contrast, spending your time working on your deck would be.&lt;/p&gt;
-
-&lt;p&gt;When I first encountered the idea of trichotomy of control, it deeply resonated with me. For the majority of my life, I had set external goals which I would occasionally achieve, but more often than not, I either missed the mark or changed my mind on the goal, leading to inevitable frustration. I’m now more cognizant of setting internal goals and in fact, built out a tool specifically to address this issue.&lt;/p&gt;
-
-&lt;p&gt;The tool is a real-time &lt;a href=&quot;http://snip.ly/f69dk#https://qself-dashboard.herokuapp.com/&quot;&gt;personal dashboard&lt;/a&gt; for my life that aggregates and visualizes my personal data. The top view consists of three internal goals (my steps, focus time and unproductivity) along with a calendar showing me which days I hit or missed my internal goals. The rest of the page consists of a variety of pie, line and bar graphs which give me feedback on how I’m spending my time. To keep my internal goals top of mind, I have a raspberry pi hooked up to a TV monitor that displays these metrics, and throughout the day I’m able to glance to see how I’m doing.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2868/0*TfP1HHmne3TxBe9H.&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;[&lt;em&gt;Quantified Self Dashboard](http://snip.ly/f69dk)&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Transitioning to this style of goal setting and implementing a feedback loop for these goals has led to a much happier and more productive life. Instead of stressing over whether I’m on track to meet some arbitrary external goal that I have partial control over, I can feel satisfied knowing I’ve spent another day where I completed the internal goals I set for myself.&lt;/p&gt;
-
-&lt;p&gt;While it’s tempting to set big hairy audacious external goals which can signal how ambitious you are, the more practical approach is to focus on setting internal goals. If in the process of achieving your internal goals you hit your external goals — fantastic! If not, it’s not an issue because you were able to achieve your own internal goals.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Let me know what you think in the comments below, how do you think about goal setting? Do you see the value of setting goals internally as opposed to externally?&lt;/strong&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 16 Nov 2017 00:00:00 -0800</pubDate>
-        <link>http://localhost:4040/2017/one-simple-tactic-from-the-stoics-for-setting-better-goals/</link>
-        <guid isPermaLink="true">http://localhost:4040/2017/one-simple-tactic-from-the-stoics-for-setting-better-goals/</guid>
         
         
       </item>
