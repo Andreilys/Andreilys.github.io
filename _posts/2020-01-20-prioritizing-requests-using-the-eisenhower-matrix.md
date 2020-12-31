@@ -55,6 +55,6 @@ You can also try to delay the delivery of the work, communicating your current l
 Long-term these kinds of asks may surface the need to create self-service options. A good rule of thumb is that anytime you get asked three different times to either update analysis, or pull data to answer a similar question, you should explore a dashboarding or automated solution.
 
 ![*The Original Eisenhower Matrix*](https://cdn-images-1.medium.com/max/2210/1*mCIwWYHuIzt455Qy7HTmoA.png)
-<div align="center">**The Original Eisenhower Matrix**</div>
+<div align="center">*The Original Eisenhower Matrix*</div>
 
 So next time you have a request sitting in your email, consider which of the four quadrants it would fall under. After doing so, you can then take the corresponding measures. You’ll inevitably make some mistakes, but the alternative of trying to keep all your stakeholders happy by simply being an order taker will diminish the impact that you can have as a data scientist.
