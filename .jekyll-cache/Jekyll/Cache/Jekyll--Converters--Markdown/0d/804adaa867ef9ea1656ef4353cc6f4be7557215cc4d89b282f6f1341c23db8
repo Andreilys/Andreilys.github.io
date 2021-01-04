@@ -1,10 +1,10 @@
-I"Ò(<p><img src="assets/images/bed.jpeg" alt="bed" />
+I"³(<p><img src="/assets/images/bed.jpeg" alt="bed" />
 <em>Reference Ashley Byrd from <a href="https://unsplash.com/photos/2152I5g-KEE">Unsplash</a></em></p>
 
 <p>One of the most alarming statistics is that <a href="https://www.sleephealth.org/sleep-health/the-state-of-sleephealth-in-america/">70% of Americans</a> report insufficient sleep at least one night a month. These sleep deprived individuals then become hazards for others on the road. In a 2010 report, <a href="http://www.aaafoundation.org/pdf/2010DrowsyDrivingReport.pdf">American Automobile Association</a> estimates that one out of every six (16.5%) deadly traffic accidents, and one out of eight (12.5%) crashes requiring hospitalization of car drivers or passengers is due to drowsy driving.</p>
 
 <p>The effects of sleep deprivation are also well known and include:
-<img src="assets/images/sleep_deprivation.png" alt="sleep_deprivation_affects" /></p>
+<img src="/assets/images/sleep_deprivation.png" alt="sleep_deprivation_affects" /></p>
 
 <p>While there have been studies showing that sleep depreviation can help alleviate depressive moods, for example acute sleep deprivation for one night improved mood in about <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3181780/">60% of depressed patients the day after</a>, chronic sleep deprivation (or insomnia) tends to be a strong risk factor for subsequent depression.</p>
 
@@ -26,7 +26,7 @@
 
 <p>With their API, I can also look at this data programmatically and weave it into my template for journalling allowing me to quickly review the previous nights sleep.</p>
 
-<p><img src="https://cdn-images-1.medium.com/max/2624/1*I6PKAnzVrdFrPO3r5r7gJA.png" alt="evening_journal_screenshot" /></p>
+<p><img src="/assets/images/sleep_deprivation.png" alt="evening_journal_screenshot" /></p>
 
 <p>Once youâ€™ve set up a system for tracking, whether with a hardware device like the Withings sleep mat, or simply a smart phone app, you can begin testing out various interventions to see if you can improve your sleep. Below Iâ€™ve highlighted seven of the most influential changes that have helped facilitate a consistently high sleep score.</p>
 

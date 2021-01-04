@@ -6,14 +6,13 @@ comments: true
 keywords: "quantified-self, sleep"
 ---
 
-![bed](assets/images/bed.jpeg)
+![bed](/assets/images/bed.jpeg)
 *Reference Ashley Byrd from [Unsplash](https://unsplash.com/photos/2152I5g-KEE)*
 
 One of the most alarming statistics is that [70% of Americans](https://www.sleephealth.org/sleep-health/the-state-of-sleephealth-in-america/) report insufficient sleep at least one night a month. These sleep deprived individuals then become hazards for others on the road. In a 2010 report, [American Automobile Association](http://www.aaafoundation.org/pdf/2010DrowsyDrivingReport.pdf) estimates that one out of every six (16.5%) deadly traffic accidents, and one out of eight (12.5%) crashes requiring hospitalization of car drivers or passengers is due to drowsy driving.  
 
 The effects of sleep deprivation are also well known and include:
-![sleep_deprivation_affects](assets/images/sleep_deprivation.png)
-
+![sleep_deprivation_affects](/assets/images/sleep_deprivation.png)
 
 While there have been studies showing that sleep depreviation can help alleviate depressive moods, for example acute sleep deprivation for one night improved mood in about [60% of depressed patients the day after](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3181780/), chronic sleep deprivation (or insomnia) tends to be a strong risk factor for subsequent depression.  
 
@@ -33,7 +32,7 @@ The metric that I look at most frequently is their sleep score, which is a compo
 
 With their API, I can also look at this data programmatically and weave it into my template for journalling allowing me to quickly review the previous nights sleep.
 
-![evening_journal_screenshot](https://cdn-images-1.medium.com/max/2624/1*I6PKAnzVrdFrPO3r5r7gJA.png)
+![evening_journal_screenshot](/assets/images/daily_journal.png)
 
 Once you've set up a system for tracking, whether with a hardware device like the Withings sleep mat, or simply a smart phone app, you can begin testing out various interventions to see if you can improve your sleep. Below I've highlighted seven of the most influential changes that have helped facilitate a consistently high sleep score.
 
