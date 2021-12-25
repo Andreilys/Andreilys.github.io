@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Three Benefits You Can Get From Technology Fasts"
+title: "How Building Side Projects Made Me A Better Data Scientist"
 description: ""
 comments: true
 keywords: "data-science"

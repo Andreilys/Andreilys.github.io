@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hacking Smells to Influence Your Internal State"
+title: "Hacking Smells to Influence Emotional States"
 description: ""
 comments: true
 keywords: "biohacking"
