@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Three Lessons For Presenting Data Insights I Learned at Apple"
+title: "How to Spot a Crypto Exit Scam"
 description: ""
 comments: true
 keywords: "crypto"

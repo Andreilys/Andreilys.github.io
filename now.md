@@ -4,6 +4,11 @@ title: What I'm Doing Now
 permalink: /now/
 ---
 
+Updated December 29, 2021, from Los Angeles, California
+<hr>
+
+A few months ago I made the jump into Crypto by joining Coinbase as a data scientist in the Save & Spend function. It's been an interesting few months, /
+
 These days most of my time is spent working as a product data scientist at Apple, focusing on App Store personalization. This is a role I transitioned to in August, proving itself to be a great opportunity to improve my engineering chops, and pickup Scala as my main programming language.
 
 Coinciding with transitioning into my new role at Apple, I moved south from Cupertino to San Diego. I can see why people who live in San Diego are so hesitant to leave, as it's quickly become one of my favorite places to live. It's not uncommon for me to go on 2 hour walks along the coastline, listening to the waves, audiobooks and podcasts. 
@@ -24,7 +29,5 @@ Books I'm currently reading include:
 
 Checkout my [personal dashboard](https://qself-dashboard.herokuapp.com/) to see what I've been up to more recently.
 
-<hr>
-Updated December 31, 2020, from San Diego, California
 
 *This page is inspired by Derek Sivers and the [Now](https://sivers.org/now) movement*

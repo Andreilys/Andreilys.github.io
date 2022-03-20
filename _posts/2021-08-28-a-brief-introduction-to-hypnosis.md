@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Three Lessons For Presenting Data Insights I Learned at Apple"
+title: "A Brief Introduction to Hypnosis"
 description: ""
 comments: true
 keywords: "biohacking"

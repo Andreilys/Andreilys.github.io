@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Three Lessons For Presenting Data Insights I Learned at Apple "
+title: "Three Lessons For Presenting Data Insights I Learned at Apple"
 description: ""
 comments: true
 keywords: "data-science"
