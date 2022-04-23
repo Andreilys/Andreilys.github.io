@@ -11,7 +11,7 @@ keywords: "Philosophy, Movies"
 
 *“Everything, Everywhere, All At Once”* is one of the best movies I’ve watched in recent memory. It’s an intense emotional roller coaster that has the perfect amount of brain and heart stimulation.
 
-The difficulty in describing the movie is that on the surface it seems like any other sci-fi action-comedy exploring the idea of multiverses. Multiverese are one of those concepts that's been explored ad-nauseum in books, shows, and movies. Yet the multiverse in this movie is simply the sandbox which allows the directors to play and explore wider themes that get at the root of universal truths of human existence.
+The difficulty in describing the movie is that on the surface it seems like any other sci-fi action-comedy exploring the idea of multiverses. Multiverses are one of those concepts that's been explored ad-nauseum in books, shows, and movies. Yet the multiverse in this movie is simply the sandbox which allows the directors to play and explore wider themes that get at the root of universal truths of human existence.
 
 Without getting into too much detail, the movie centers on Evelyn, a Chinese immigrant laundromat owner who is in the midst of a personal and professional crisis. She learns about the existence of multiverses and “verse jumping” technology that allows her to inhabit the lives of parallel universe counterparts. It’s these verse jumping abilities that allows her to confront Jobu Tupaki, the main antagonist of the movie who is threatening to destroy all the multiverses.
 
