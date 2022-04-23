@@ -6,7 +6,8 @@ comments: true
 keywords: "Philosophy, Movies"
 ---
 
-<img src="assets/images/everything_everywhere_all_at_once/media/image3.png" style="width:6.5in;height:9.44444in" />
+<!-- <img src="/assets/images/everything_everywhere_all_at_once/media/image3.png" style="width:6.5in;height:9.44444in" /> -->
+![movie](/assets/images/everything_everywhere_all_at_once/media/image3.png)
 
 *“Everything, Everywhere, All At Once”* is one of the best movies I’ve watched in recent memory. It’s an intense emotional roller coaster that has the perfect amount of brain and heart stimulation.
 
@@ -18,7 +19,7 @@ In this piece, I wanted to explore three specific key themes that resonated with
 
 ### Expectations Unfulfilled and a Life of Regret
 
-<img src="assets/images/everything_everywhere_all_at_once/media/image4.png" style="width:4.69964in;height:3.14063in" />
+<img src="/assets/images/everything_everywhere_all_at_once/media/image4.png" style="width:4.69964in;height:3.14063in" />
 
 In the first few minutes of the movie, the audience learns that Evelyn’s life is one that is hopelessly unfulfilled. Her life has not panned out the way she wanted. Her laundromat business is in danger of shutting down due to an IRS audit, she’s on the brink of divorce, her relationship with her daughter is strained, mirroring the one she has with her father.
 
@@ -30,7 +31,7 @@ It’s here that I reflect on Nietzsche’s thought exercise of a demon visiting
 
 ### Life Affirmation
 
-<img src="assets/images/everything_everywhere_all_at_once/media/image2.jpg" style="width:4.67805in;height:4.54521in" />
+<img src="/assets/images/everything_everywhere_all_at_once/media/image2.jpg" style="width:4.67805in;height:4.54521in" />
 
 One of the main plot points in the movie is the existence of the “everything bagel”. This bagel is the culmination of everything in all the multiverses, and to enter the bagel is to bring about nonexistence. Jobu, who is actually Evelyn’s daughter Joy, created it because after experiencing all the multiverses all at once, she realized nothing truly matters. It’s this realization that allows her to bend the fabric of space and time, while living out an amoral existence. Because if nothing matters, then you can justify anything, both pain and destruction
 
@@ -40,7 +41,7 @@ Looking into the void you can’t help but feel despair. The only counter to the
 
 ### Generational Trauma
 
-<img src="assets/images/everything_everywhere_all_at_once/media/image1.png" style="width:4.91874in;height:3.80729in" />
+<img src="/assets/images/everything_everywhere_all_at_once/media/image1.png" style="width:4.91874in;height:3.80729in" />
 
 The third theme that is the main plot of the movie is that of generational trauma. Specifically it’s the propensity to replay the same scripts that we picked up during our childhood.
 
