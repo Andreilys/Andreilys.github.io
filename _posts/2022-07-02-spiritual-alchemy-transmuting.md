@@ -7,9 +7,10 @@ keywords: "Philosophy, Spirituality, Buddhism"
 ---
 For those on the spiritual path, the experience of transcendental states of oneness and loving consciousness can be so overwhelmingly beautiful, that in comparison the states of mundane living can be an agonizing pain to return to. It’s as if you’ve experienced a beautiful tender moment in the garden of Eden, only to be cast out into a harsh scorching desert with no water.
 
-guy
+xie
 
 <p align="center">
+
 <img src="/assets/images/spiritual_alchemy_transmuting/media/image2.png" style="width:3.60938in;height:3.60938in" />
 
 [*<u>Source</u>*](https://labs.openai.com)
@@ -19,7 +20,11 @@ At times it’s much simpler to do an hour of meditation than to do an hour of t
 
 An enlightenment experience is not an automatic solution to life’s problems. You still have to contend with relationships, emotional pain, career, finances, illness, loss and death. It may make it easier to apply acceptance, compassion and kindness to those parts of our lives, yet we still have to go through them.
 
+<div style="text-align: center">
+
 **Avoiding The Pedestal**
+
+</div>
 
 Commonly those with spiritual experiences can find themselves pedestalizing these states, while trivializing the mundane. A great example of this is the use of [*<u>default world</u>*](https://burningman.org/about/about-us/glossary/) slang in Burning Man culture. Used to describe the outside world that we default to rather than the magical opt-in world of Burning Man. In this way, it glorifies the peak states and experiences that one has on the playa. The trick however is to be able to bring that same energy into the *default world,* rather than leaving it in the Black Rock desert.
 
@@ -43,9 +48,8 @@ Yet it’s the mundane which comprises the majority of our lives. Assuming the a
 
 <img src="/assets/images/spiritual_alchemy_transmuting/media/image3.png" style="width:4.97003in;height:4.78091in" />
 
-<div style="text-align: center">
 [*<u>Source</u>*](https://www.huffpost.com/entry/weve-broken-down-your-entire-life-into-years-spent-doing-tasks_n_61087617e4b0999d2084fec5)
-</div>
+
 Rather than trying to chase after impermenant transcendent states we should learn to love the mundane. Learning to infuse ecstasy into our mundane activities is the highest form of spiritual practice. Lovingly washing the dishes, or devotely taking out the trash. Treating every action as an act of devotion, of service to some higher being is one of the ways we can transform the mundane into the sacred, or at the very least enhance our experience in a way that makes us love it.
 
 For transmuting the mundane lead into sacred gold, is the highest form of spiritual alchemy. Akin to turning water into wine.
