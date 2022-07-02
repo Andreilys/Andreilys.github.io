@@ -9,13 +9,11 @@ For those on the spiritual path, the experience of transcendental states of onen
 
 guy
 
-{:refdef: style="text-align: center;"}
-
+<p align="center">
 <img src="/assets/images/spiritual_alchemy_transmuting/media/image2.png" style="width:3.60938in;height:3.60938in" />
 
 [*<u>Source</u>*](https://labs.openai.com)
-{: refdef}
-
+</p>
 
 At times it’s much simpler to do an hour of meditation than to do an hour of taxes. The resistance we feel to the mundane can be linked to the comparing mind we have with these sacred states. How do you go about running errands when you can be tasting the divine in this very moment?
 
