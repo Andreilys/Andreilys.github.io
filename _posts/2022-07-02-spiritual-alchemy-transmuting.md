@@ -6,8 +6,11 @@ comments: true
 keywords: "Philosophy, Spirituality, Buddhism"
 ---
 For those on the spiritual path, the experience of transcendental states of oneness and loving consciousness can be so overwhelmingly beautiful, that in comparison the states of mundane living can be an agonizing pain to return to. It’s as if you’ve experienced a beautiful tender moment in the garden of Eden, only to be cast out into a harsh scorching desert with no water.
-bye
+
+guy
+
 {:refdef: style="text-align: center;"}
+
 <img src="/assets/images/spiritual_alchemy_transmuting/media/image2.png" style="width:3.60938in;height:3.60938in" />
 
 [*<u>Source</u>*](https://labs.openai.com)
@@ -40,9 +43,9 @@ Yet it’s the mundane which comprises the majority of our lives. Assuming the a
 
 -   37,992 hours exercising
 
-<div style="text-align: center">
 <img src="/assets/images/spiritual_alchemy_transmuting/media/image3.png" style="width:4.97003in;height:4.78091in" />
 
+<div style="text-align: center">
 [*<u>Source</u>*](https://www.huffpost.com/entry/weve-broken-down-your-entire-life-into-years-spent-doing-tasks_n_61087617e4b0999d2084fec5)
 </div>
 Rather than trying to chase after impermenant transcendent states we should learn to love the mundane. Learning to infuse ecstasy into our mundane activities is the highest form of spiritual practice. Lovingly washing the dishes, or devotely taking out the trash. Treating every action as an act of devotion, of service to some higher being is one of the ways we can transform the mundane into the sacred, or at the very least enhance our experience in a way that makes us love it.
