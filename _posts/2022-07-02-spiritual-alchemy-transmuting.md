@@ -7,12 +7,7 @@ keywords: "Philosophy, Spirituality, Buddhism"
 ---
 For those on the spiritual path, the experience of transcendental states of oneness and loving consciousness can be so overwhelmingly beautiful, that in comparison the states of mundane living can be an agonizing pain to return to. It’s as if you’ve experienced a beautiful tender moment in the garden of Eden, only to be cast out into a harsh scorching desert with no water.
 
-xie
-
 <img src="/assets/images/spiritual_alchemy_transmuting/media/image2.png" style="width:3.60938in;height:3.60938in" />
-
-<div style="text-align: left"><img src="/assets/images/spiritual_alchemy_transmuting/media/image1.png" width="500" /></div>
-
 
 At times it’s much simpler to do an hour of meditation than to do an hour of taxes. The resistance we feel to the mundane can be linked to the comparing mind we have with these sacred states. How do you go about running errands when you can be tasting the divine in this very moment?
 
@@ -20,8 +15,6 @@ An enlightenment experience is not an automatic solution to life’s problems. Y
 
 
 ### Avoiding The Pedestal
-
-</div>
 
 Commonly those with spiritual experiences can find themselves pedestalizing these states, while trivializing the mundane. A great example of this is the use of [*<u>default world</u>*](https://burningman.org/about/about-us/glossary/) slang in Burning Man culture. Used to describe the outside world that we default to rather than the magical opt-in world of Burning Man. In this way, it glorifies the peak states and experiences that one has on the playa. The trick however is to be able to bring that same energy into the *default world,* rather than leaving it in the Black Rock desert.
 
