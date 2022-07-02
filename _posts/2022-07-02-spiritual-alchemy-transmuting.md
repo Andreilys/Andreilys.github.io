@@ -40,10 +40,11 @@ Yet it’s the mundane which comprises the majority of our lives. Assuming the a
 
 -   37,992 hours exercising
 
+<div style="text-align: center">
 <img src="/assets/images/spiritual_alchemy_transmuting/media/image3.png" style="width:4.97003in;height:4.78091in" />
 
 [*<u>Source</u>*](https://www.huffpost.com/entry/weve-broken-down-your-entire-life-into-years-spent-doing-tasks_n_61087617e4b0999d2084fec5)
-
+</div>
 Rather than trying to chase after impermenant transcendent states we should learn to love the mundane. Learning to infuse ecstasy into our mundane activities is the highest form of spiritual practice. Lovingly washing the dishes, or devotely taking out the trash. Treating every action as an act of devotion, of service to some higher being is one of the ways we can transform the mundane into the sacred, or at the very least enhance our experience in a way that makes us love it.
 
 For transmuting the mundane lead into sacred gold, is the highest form of spiritual alchemy. Akin to turning water into wine.
