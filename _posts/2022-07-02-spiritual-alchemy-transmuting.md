@@ -5,11 +5,14 @@ description: "How to turn the mundane into the sacred"
 comments: true
 keywords: "Philosophy, Spirituality, Buddhism"
 ---
-<center>For those on the spiritual path, the experience of transcendental states of oneness and loving consciousness can be so overwhelmingly beautiful, that in comparison the states of mundane living can be an agonizing pain to return to. It’s as if you’ve experienced a beautiful tender moment in the garden of Eden, only to be cast out into a harsh scorching desert with no water.</center>
-hello
-<center><img src="/assets/images/spiritual_alchemy_transmuting/media/image2.png" style="width:3.60938in;height:3.60938in" />
+For those on the spiritual path, the experience of transcendental states of oneness and loving consciousness can be so overwhelmingly beautiful, that in comparison the states of mundane living can be an agonizing pain to return to. It’s as if you’ve experienced a beautiful tender moment in the garden of Eden, only to be cast out into a harsh scorching desert with no water.
+bye
+{:refdef: style="text-align: center;"}
+<img src="/assets/images/spiritual_alchemy_transmuting/media/image2.png" style="width:3.60938in;height:3.60938in" />
 
-[*<u>Source</u>*](https://labs.openai.com) </center>
+[*<u>Source</u>*](https://labs.openai.com)
+{: refdef}
+
 
 At times it’s much simpler to do an hour of meditation than to do an hour of taxes. The resistance we feel to the mundane can be linked to the comparing mind we have with these sacred states. How do you go about running errands when you can be tasting the divine in this very moment?
 
