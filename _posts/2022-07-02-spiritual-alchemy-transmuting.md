@@ -9,20 +9,17 @@ For those on the spiritual path, the experience of transcendental states of onen
 
 xie
 
-<p align="center">
-
 <img src="/assets/images/spiritual_alchemy_transmuting/media/image2.png" style="width:3.60938in;height:3.60938in" />
 
 [*<u>Source</u>*](https://labs.openai.com)
-</p>
+
 
 At times it’s much simpler to do an hour of meditation than to do an hour of taxes. The resistance we feel to the mundane can be linked to the comparing mind we have with these sacred states. How do you go about running errands when you can be tasting the divine in this very moment?
 
 An enlightenment experience is not an automatic solution to life’s problems. You still have to contend with relationships, emotional pain, career, finances, illness, loss and death. It may make it easier to apply acceptance, compassion and kindness to those parts of our lives, yet we still have to go through them.
 
-<div style="text-align: center">
 
-**Avoiding The Pedestal**
+### Avoiding The Pedestal
 
 </div>
 
@@ -30,9 +27,9 @@ Commonly those with spiritual experiences can find themselves pedestalizing thes
 
 There is in fact great danger in striving after these states, because it’ll put you at odds with reality when you aren’t experiencing them. Steven Kotler, an author on Flow, discusses the dark side of flow states and the existence of bliss junkies in his book [<u>Stealing Fire</u>](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjUmpCn79r4AhUMI0QIHWTQBpwQFnoECAgQAQ&url=https%3A%2F%2Fwww.amazon.com%2FStealing-Fire-Maverick-Scientists-Revolutionizing%2Fdp%2F0062429655&usg=AOvVaw1MnPvmBku6JeYkRmQBZRJ3). Once someone experiences a peak flow state whether through surfing or meditation, they end up chasing after that same high with substances as a way to cope with periods of time when they’re stuck in the ordinary. Bliss junkies are those who have tasted the sweet nectar, and try to get another taste no matter the cost to themselves. It’s no surprise that so many celebrities and musicians experience addiction. Once you’ve experienced a stadium of fans cheering you on, every other experience else feels inadequate in comparison.
 
-**Living with the Mundane**
+### Living with the Mundane
 
-Yet it’s the mundane which comprises the majority of our lives. Assuming the average human spends around 80 years on earth, you can expect to spend:
+Yet it’s the mundane which comprises the majority of our lives. Assuming the average human spends around 80 years on earth, you can expect to [spend](https://www.huffpost.com/entry/weve-broken-down-your-entire-life-into-years-spent-doing-tasks_n_61087617e4b0999d2084fec5):
 
 -   289,080 hours sleeping
 
@@ -48,13 +45,11 @@ Yet it’s the mundane which comprises the majority of our lives. Assuming the a
 
 <img src="/assets/images/spiritual_alchemy_transmuting/media/image3.png" style="width:4.97003in;height:4.78091in" />
 
-[*<u>Source</u>*](https://www.huffpost.com/entry/weve-broken-down-your-entire-life-into-years-spent-doing-tasks_n_61087617e4b0999d2084fec5)
-
 Rather than trying to chase after impermenant transcendent states we should learn to love the mundane. Learning to infuse ecstasy into our mundane activities is the highest form of spiritual practice. Lovingly washing the dishes, or devotely taking out the trash. Treating every action as an act of devotion, of service to some higher being is one of the ways we can transform the mundane into the sacred, or at the very least enhance our experience in a way that makes us love it.
 
 For transmuting the mundane lead into sacred gold, is the highest form of spiritual alchemy. Akin to turning water into wine.
 
-**The Ten Bulls**
+### The Ten Bulls
 
 This is the same message conveyed in the [<u>Ten Bulls</u>](https://en.wikipedia.org/wiki/Ten_Bulls). A series of short poems and drawings used in the Zen tradition to describe the stages of enlightenment, and the eventual return and integration into society.  
   
@@ -63,8 +58,6 @@ It’s not enough that we catch and tame the bull. We must learn to transcend th
 <img src="/assets/images/spiritual_alchemy_transmuting/media/image1.png" style="width:7.32755in;height:5.09053in" />
 
 ***“Be fully aware of what you’re doing, and work becomes the yoga of work, play becomes the yoga of play, everyday living becomes the yoga of everyday living.”***
-
-[*<u>Source</u>*](https://sites.google.com/site/meditationkingstonuponthames/ten-bulls)
 
 As you experience these transcendent states in your journey, remember that they’re simply transitory experiences that act as a waypoint along the path. Getting enamored and chasing after them, will simply lead to your own destruction. Addiction rears its head anytime we feel a lack of connection, and after experiencing a connection with the divine, how can anything else even come close?
 
