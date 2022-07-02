@@ -11,7 +11,7 @@ xie
 
 <img src="/assets/images/spiritual_alchemy_transmuting/media/image2.png" style="width:3.60938in;height:3.60938in" />
 
-<div style="text-align: center"><img src="/assets/images/spiritual_alchemy_transmuting/media/image1.png" width="500" /></div>
+<div style="text-align: left"><img src="/assets/images/spiritual_alchemy_transmuting/media/image1.png" width="500" /></div>
 
 
 At times it’s much simpler to do an hour of meditation than to do an hour of taxes. The resistance we feel to the mundane can be linked to the comparing mind we have with these sacred states. How do you go about running errands when you can be tasting the divine in this very moment?
