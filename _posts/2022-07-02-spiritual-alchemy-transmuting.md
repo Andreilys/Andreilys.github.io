@@ -7,9 +7,9 @@ keywords: "Philosophy, Spirituality, Buddhism"
 ---
 For those on the spiritual path, the experience of transcendental states of oneness and loving consciousness can be so overwhelmingly beautiful, that in comparison the states of mundane living can be an agonizing pain to return to. It’s as if you’ve experienced a beautiful tender moment in the garden of Eden, only to be cast out into a harsh scorching desert with no water.
 
-<img src="/assets/images/spiritual_alchemy_transmuting/media/image2.png" style="width:3.60938in;height:3.60938in" />
+<center><img src="/assets/images/spiritual_alchemy_transmuting/media/image2.png" style="width:3.60938in;height:3.60938in" />
 
-[*<u>Source</u>*](https://labs.openai.com)
+[*<u>Source</u>*](https://labs.openai.com) </center>
 
 At times it’s much simpler to do an hour of meditation than to do an hour of taxes. The resistance we feel to the mundane can be linked to the comparing mind we have with these sacred states. How do you go about running errands when you can be tasting the divine in this very moment?
 
