@@ -11,6 +11,9 @@ xie
 
 <img src="/assets/images/spiritual_alchemy_transmuting/media/image2.png" style="width:3.60938in;height:3.60938in" />
 
+![placeholder](/assets/images/spiritual_alchemy_transmuting/media/image2.png){:style="display:block; margin-left:auto; margin-right:auto"}
+
+
 [*<u>Source</u>*](https://labs.openai.com)
 
 
