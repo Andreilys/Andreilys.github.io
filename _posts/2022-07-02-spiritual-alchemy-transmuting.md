@@ -5,7 +5,7 @@ description: "How to turn the mundane into the sacred"
 comments: true
 keywords: "Philosophy, Spirituality, Buddhism"
 ---
-For those on the spiritual path, the experience of transcendental states of oneness and loving consciousness can be so overwhelmingly beautiful, that in comparison the states of mundane living can be an agonizing pain to return to. It’s as if you’ve experienced a beautiful tender moment in the garden of Eden, only to be cast out into a harsh scorching desert with no water.
+For those on the spiritual path, the experience of transcendental states of oneness and loving consciousness can be so overwhelmingly beautiful, that in comparison the states of mundane living can be an agonizing pain to return to. It’s like you’ve experienced a beautiful tender moment in the garden of Eden, only to be cast out into a harsh scorching desert with no water.
 
 <img src="/assets/images/spiritual_alchemy_transmuting/media/image2.png" style="width:3.60938in;height:3.60938in" />
 
