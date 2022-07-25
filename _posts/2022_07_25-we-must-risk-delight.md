@@ -7,7 +7,7 @@ keywords: "Philosophy"
 ---
 <img src="/assets/images/we_must_risk_delight/media/image1.png" style="width:3.8125in;height:5.21875in" />
 
-One of the more impactful poems I’ve come across recently is *A Brief For The Defenc*e by Jack Gilbert. It perfectly encapsulates the human experience, one that acknowledges human suffering, while giving a life-affirming yes despite everything.
+One of the more impactful poems I’ve come across is *A Brief For The Defenc*e by Jack Gilbert. It perfectly encapsulates the human experience, one that acknowledges human suffering, while giving a life-affirming yes despite everything.
 
 I often reflect on this in my own life, whenever I’m in the midst of some hardship. Whether it’s loss, grief or heartbreak. Moments like these can make it easy to turn cynical and shut yourself off from the beauty in the world. **I believe it’s at these moments when your heart is most vulnerable that you have to lean into the spikes. To do anything else would risk having your heart turn to stone**. It’s possible that even in moments of sadness that one finds little islands of light and laughter. We shouldn’t feel guilty to find joy in the world despite the countless injustices that we ourselves and collective humanity experience. In my own life, I’ve had days where I’ve felt incredible heaviness that seems to suffocate and doesn’t have an end in sight. Yet even on those difficult days I’ve observed moments of beauty, whether it’s smelling the fragrance of a blooming flower, experiencing a moment of tranquility watching the ocean waves, or laughter over a silly joke.
 
