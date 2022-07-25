@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "We Must Risk Delight"
-description: "Risking delight in the face of sorrow"
+description: "Risking delight despite life's suffering"
 comments: true
 keywords: "Philosophy"
 ---
