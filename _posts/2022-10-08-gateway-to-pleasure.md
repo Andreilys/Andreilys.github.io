@@ -15,7 +15,7 @@ I move through life with leisure,
 
 Measure your life through the hedonic,
 
-- 
+\- 
 
 Just don’t smoke too much of that chronic,
 
@@ -25,7 +25,7 @@ Speed running through this life,
 
 I’m tryin to slow down and be free of strife,
 
-- 
+\- 
 
 Rife with mental suffering,
 
@@ -35,7 +35,7 @@ Loading yet another thought,
 
 Peace is only brought,
 
-- 
+\- 
 
 When you step into presence,
 
@@ -45,7 +45,7 @@ All around me the lights glow with luminescence,
 
 We must grow beyond adolescence,
 
-- 
+\- 
 
 Shed our old identity,
 
@@ -55,7 +55,7 @@ I can’t help but experience serenity,
 
 Density of my pain body has dropped,
 
-- 
+\- 
 
 Popped into another dimension,
 
@@ -65,7 +65,7 @@ Ascension to a higher plane,
 
 I don’t mind the rain,
 
-- 
+\- 
 
 It’s easy to transmute the pain,
 
@@ -75,7 +75,7 @@ A beautiful state of being,
 
 And honestly it’s so freeing,
 
-- 
+\- 
 
 Like taking off a tight shoe,
 
