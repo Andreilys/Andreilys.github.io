@@ -7,11 +7,6 @@ keywords: "Poetry"
 ---
 <img src="/assets/images/gateway_to_pleasure.png" style="width:3.8125in;height:5.21875in" />
 
-<audio controls="controls">
-  <source type="audio/mp3" src="/assets/audio/gateway_to_pleasure.mp3"></source>
-  <p>Your browser does not support the audio element.</p>
-</audio>
-
 Breath the gateway to pleasure,
 Inside you is the treasure,
 I move through life with leisure,
