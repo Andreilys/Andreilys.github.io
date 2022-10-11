@@ -7,81 +7,81 @@ keywords: "Poetry"
 ---
 <img src="/assets/images/gateway_to_pleasure.png" style="width:3.8125in;height:5.21875in" />
 
-Breath the gateway to pleasure,
+Breath the gateway to pleasure
 
-Inside you is the treasure,
+Inside you is the treasure
 
-I move through life with leisure,
+I move through life with leisure
 
-Measure your life through the hedonic,
-
-\- 
-
-Just don’t smoke too much of that chronic,
-
-Sometimes I’m like sonic,
-
-Speed running through this life,
-
-I’m tryin to slow down and be free of strife,
+Measure your life through the hedonic
 
 \- 
 
-Rife with mental suffering,
+Just don’t smoke too much of that chronic
 
-My mind is constantly buffering,
+Sometimes I’m like sonic
 
-Loading yet another thought,
+Speed running through this life
 
-Peace is only brought,
-
-\- 
-
-When you step into presence,
-
-It’s our true essence,
-
-All around me the lights glow with luminescence,
-
-We must grow beyond adolescence,
+I’m tryin to slow down and be free of strife
 
 \- 
 
-Shed our old identity,
+Rife with mental suffering
 
-Becoming an embodied entity,
+My mind is constantly buffering
 
-I can’t help but experience serenity,
+Loading yet another thought
 
-Density of my pain body has dropped,
-
-\- 
-
-Popped into another dimension,
-
-Where there’s no more tension,
-
-Ascension to a higher plane,
-
-I don’t mind the rain,
+Peace is only brought
 
 \- 
 
-It’s easy to transmute the pain,
+When you step into presence
 
-With the help of tantra you can attain,
+It’s our true essence
 
-A beautiful state of being,
+All around me the lights glow with luminescence
 
-And honestly it’s so freeing,
+We must grow beyond adolescence
 
 \- 
 
-Like taking off a tight shoe,
+Shed our old identity
 
-I only spew,
+Becoming an embodied entity
 
-that which feels true,
+I can’t help but experience serenity
+
+Density of my pain body has dropped
+
+\- 
+
+Popped into another dimension
+
+Where there’s no more tension
+
+Ascension to a higher plane
+
+I don’t mind the rain
+
+\- 
+
+It’s easy to transmute the pain
+
+With the help of tantra you can attain
+
+A beautiful state of being
+
+And honestly it’s so freeing
+
+\- 
+
+Like taking off a tight shoe
+
+I only spew
+
+that which feels true
 
 This you already knew.
 
