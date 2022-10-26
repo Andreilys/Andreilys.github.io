@@ -7,9 +7,9 @@ keywords: "Poetry"
 ---
 <img src="/assets/images/dragons_breath.png" style="width:3.8125in;height:5.21875in" />
 
-I feel the dragons breath 
+i feel the dragons breath 
 
-as I experience ego death 
+as i experience ego death 
 
 breadth of each stroke is bliss 
 
@@ -19,7 +19,7 @@ hiss in my mind stopped
 
 dropped into my core 
 
-I’m hungry for more 
+i’m hungry for more 
 
 door to my unconscious is open 
 
@@ -31,7 +31,7 @@ burned logs in the fire
 
 as my thoughts turned higher 
 
-I’ve reached the summit peak  
+i’ve reached the summit peak  
 
 now all that’s left is the plummet 
 
@@ -42,13 +42,13 @@ won it
 
 what did I win?
 
-i still feel like I’m full of sin 
+i still feel like i’m full of sin 
 
 pin down my arm 
 
 \- 
 
-I no longer feel harm 
+i no longer feel harm 
 
 alarm in my head is silent 
 
@@ -58,13 +58,13 @@ giant waves washing over my body
 
 \- 
 
-as I begin to embody 
+as i begin to embody 
 
 and enter samadhi 
 
 i experience a paradigm shift 
 
-as I receive this beautiful gift 
+as i receive this beautiful gift 
 
 \- 
 
@@ -84,7 +84,7 @@ banality of existence melts away
 
 as we reach the astral plane to play 
 
-pray that I leave the past behind 
+pray that i leave the past behind 
 
 \- 
 
