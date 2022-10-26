@@ -5,7 +5,7 @@ description: "Thinking Mind"
 comments: true
 keywords: "Poetry"
 ---
-<img src="/assets/images/thinking_mind.png" style="width:3.8125in;height:5.21875in" />
+<img src="/assets/images/thinking_mind.png" style="width:5.21875in;height:5.21875in" />
 
 I got this thinking mind
 

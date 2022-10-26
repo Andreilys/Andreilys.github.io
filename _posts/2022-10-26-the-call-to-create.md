@@ -5,7 +5,7 @@ description: "Call To Create"
 comments: true
 keywords: "Poetry"
 ---
-<img src="/assets/images/call_to_create.png" style="width:3.8125in;height:5.21875in" />
+<img src="/assets/images/call_to_create.png" style="width:5.21875in;height:5.21875in" />
 
 I feel the urge to make 
 
