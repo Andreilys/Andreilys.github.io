@@ -9,7 +9,7 @@ keywords: "Poetry"
 
 I feel the urge to make 
 
-Even if its a cake that I bake 
+Life is a cake that we bake
 
 Take this urge to create 
 
