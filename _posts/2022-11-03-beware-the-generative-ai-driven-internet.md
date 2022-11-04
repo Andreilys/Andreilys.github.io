@@ -119,7 +119,7 @@ However not taking any action against the bot problem, will also have serious im
 
 <img src="/assets/images/beware/media/image2.png" style="width:6.64162in;height:3.73591in" />
 
-*WorldCoin Orb*
+<div align="center">*WorldCoin Orb*</div>
 
 It seems like only a matter of time before we see the rise of Simulated Internets - online spaces that are created and managed by AI, with the express purpose of manipulating human behavior. We've already seen hints of this with social media bots, but those are just the beginning. Imagine a world where entire websites, apps, and even virtual worlds are designed to influence your emotions, thoughts, and actions.
 
