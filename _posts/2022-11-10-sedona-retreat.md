@@ -5,7 +5,7 @@ description: "Sedona Retreat"
 comments: true
 keywords: "Poetry"
 ---
-<img src="/assets/images/sedona_retreat.jpeg" style="width:5.21875in;height:5.21875in" />
+<img src="/assets/images/sedona_retreat.jpg" style="width:5.21875in;height:5.21875in" />
 
 came to this retreat 
 
