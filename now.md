@@ -7,7 +7,7 @@ permalink: /now/
 Updated December 29, 2021, from Los Angeles, California
 <hr>
 
-A few months ago I made the jump into Crypto by joining Coinbase as a data scientist in the Save & Spend function. It's been an interesting few months, /
+Few months ago I made the jump into Crypto by joining Coinbase as a data scientist in the Save & Spend function. It's been an interesting few months, /
 
 These days most of my time is spent working as a product data scientist at Apple, focusing on App Store personalization. This is a role I transitioned to in August, proving itself to be a great opportunity to improve my engineering chops, and pickup Scala as my main programming language.
 
