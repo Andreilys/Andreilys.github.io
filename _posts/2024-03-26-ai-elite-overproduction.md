@@ -7,6 +7,7 @@ keywords: "AI"
 ---
 
 **Introduction**
+
 The phenomenon of elite overproduction, as conceptualized by Peter Turchin, is a crucial factor in understanding the social tensions and rise of counter-elite movements challenging the established order. Turchin's work highlights how an imbalance between the number of individuals vying for positions of power and the available opportunities can lead to societal instability. Combined with general public miseraiton, and you have a recipe for revolution.
 
 
