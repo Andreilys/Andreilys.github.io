@@ -33,8 +33,6 @@ Part 1: The Fundamentals — Key Metrics for Subscription Success
 
 > What gets measured gets managed — Peter Drucker
 
-[img](https://www.investopedia.com/terms/m/metrics.asp)
-
 To navigate this dynamic landscape, data scientists need a deep understanding of the core metrics that define subscription businesses, these include:
 
 **1\. Customer Lifetime Value (CLTV):** CLTV estimates the total revenue a customer generates throughout their entire relationship with your company. The simplest way to calculate this is by multiplying the average revenue per user (ARPU) by the average customer lifespan. Boosting CLTV through personalized offers, relevant upsells, and exceptional customer experiences is the key to long-term profitability.
@@ -69,8 +67,6 @@ NRR = (Starting MRR + Expansion MRR — Churned MRR) / Starting MRR
 NRR is a growth multiplier because it reveals your ability to not only retain customers but also expand their value. An NRR of 100% means you’re retaining all of your existing revenue. Anything above 100% indicates that you’re growing revenue from your current customer base, even after accounting for churn.
 
 **6\. Subscribers:** Understanding the dynamics of your subscriber base is crucial for sustainable growth. By breaking down subscriber counts into distinct categories, we can gain valuable insights through a growth accounting framework:
-
-[img](https://medium.com/swlh/diligence-at-social-capital-part-1-accounting-for-user-growth-4a8a449fddfc)
 
 *   **New Subscribers:** This represents the influx of new customers, the lifeblood of expansion. Tracking new subscribers over time reveals the effectiveness of your acquisition efforts, whether it’s through marketing campaigns, referral programs, or organic discovery. A steady increase in new subscribers is a positive sign of growing market penetration and brand awareness.
 *   **Retained Subscribers:** These are the loyal customers who continue to renew their subscriptions period after period. Retaining subscribers is often more cost-effective than acquiring new ones, so monitoring this metric is crucial for long-term profitability. A high retention rate signifies a product or service that delivers consistent value and fosters customer loyalty.
@@ -109,8 +105,6 @@ Data scientists embark on a journey of discovery, diving deep into customer data
 
 *   **Cohort Analysis:** Group customers based on when they subscribed and track their behavior over time. This reveals how different cohorts evolve, pinpointing key engagement milestones, retention curves and drop-off points.
 *   **Funnel Analysis:** Visualize the customer journey through various stages (e.g., sign-up, activation, first purchase). Identify bottlenecks where customers churn and optimize those touch points.
-
-[img](https://help.chartmogul.com/hc/en-us/articles/203359401-Cohort-Customer-Retention)
 
 These insights inform critical decisions across the business:
 
@@ -167,8 +161,6 @@ Data scientists employ a wide array of tools and technologies to unlock the full
 **Programming Languages:**
 --------------------------
 
-[img](https://medium.com/the-data-science-pharmacist/your-path-into-health-data-science-001-programming-languages-a29fd25b92d0)
-
 *   **Python:** Renowned for its readability and versatility, Python is a go-to language for data science. Its extensive libraries like pandas (for data manipulation), NumPy (for numerical operations), and scikit-learn (for machine learning) simplify complex tasks and streamline workflows.
 *   **R:** Designed specifically for statistical analysis and data visualization, R offers a rich collection of packages tailored for data exploration, modeling, and reporting. Popular libraries include ggplot2 (for elegant visualizations), dplyr (for data wrangling), and caret (for machine learning).
 *   **SQL (Structured Query Language):** While not a general-purpose programming language, SQL is indispensable for data scientists working with subscription businesses. It allows for efficient interaction with relational databases, where customer data, transaction records, and other critical information are often stored. SQL enables data scientists to extract, filter, aggregate, and join data from various tables, providing the foundation for analysis and modeling.
@@ -201,8 +193,6 @@ Part 4: Experimentation: The Engine of Innovation
 =================================================
 
 > The most successful subscription businesses are those that never stop learning and adapting. Data science provides the compass for this journey of continuous improvement.
-
-[img](https://www.optimizely.com/optimization-glossary/ab-testing/)
 
 In the fast-paced world of subscriptions, experimentation is a fundamental approach that fuels innovation and optimization across the entire customer journey. Data scientists are the architects of these experiments, applying rigorous A/B testing methodologies to validate hypotheses, challenge assumptions, and uncover hidden opportunities for growth.
 
@@ -251,8 +241,6 @@ By embracing experimentation as a core part of their toolkit, data scientists em
 
 **Part 5: Building a Data-Driven Organization: The Foundation of Subscription Success**
 =======================================================================================
-
-[img](https://newmetrics.net/insights/how-data-driven-organizations-drive-success/)
 
 Data science isn’t confined to a single team; it’s a philosophy that should permeate every corner of your subscription business. To truly thrive in the subscription economy, it’s essential to foster a data-driven culture where insights drive decisions at all levels. Here’s how to create a data-fueled powerhouse:
 
