@@ -7,7 +7,7 @@ keywords: "Love"
 ---
 
 # <img src="/assets/images/cycle-of-love/media/header.jpg" style="width:8.3704in;height:5.33056in" />
-**Table of contents**
+**Table of contents:**
 1. Psychology of Love
 2. Biology of Attraction and Love
 3. Spiritual Dimension of Love: A Path to Higher Consciousness
