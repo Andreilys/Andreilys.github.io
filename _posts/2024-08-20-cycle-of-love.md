@@ -6,7 +6,7 @@ comments: true
 keywords: "Love"
 ---
 
-# <img src="/assets/images/cycle-of-love/media/header.jpg" style="width:6.3704in;height:5.33056in" />
+# <img src="/assets/images/cycle-of-love/media/header.jpg"/>
 **Table of contents:**
 1. Psychology of Love
 2. Biology of Attraction and Love
@@ -39,11 +39,11 @@ The psychology of love is a complex and multifaceted field, encompassing various
 
 Attachment theory, originally developed by John Bowlby and Mary Ainsworth, plays a crucial role in our understanding of love and relationships. This theory posits that the bonds we form with our primary caregivers in infancy and childhood create internal working models that influence our relationships throughout life. The four main attachment styles - secure, anxious-preoccupied, dismissive-avoidant, and fearful-avoidant - each manifest differently in adult romantic relationships. For instance, individuals with a secure attachment style tend to form stable, trusting relationships, while those with an anxious attachment may struggle with fears of abandonment and seek constant reassurance.
 
-# <img src="/assets/images/cycle-of-love/media/attachment_styles.jpg" style="width:5.3704in;height:5.33056in" />
+# <img src="/assets/images/cycle-of-love/media/attachment_styles.jpg"  />
 
 The concept of love languages, popularized by Gary Chapman, suggests that individuals express and receive love in different ways. The five love languages - words of affirmation, acts of service, receiving gifts, quality time, and physical touch - provide a framework for understanding how partners may differ in their expressions of affection and what they need to feel loved. If you’re interested to find out your dominant love language, you can take this quiz [here](https://5lovelanguages.com/quizzes).
 
-# <img src="/assets/images/cycle-of-love/media/love_languages.jpg" style="width:5.3704in;height:5.33056in" />
+# <img src="/assets/images/cycle-of-love/media/love_languages.jpg"  />
 
 Evolutionary psychology offers another perspective on love and pair bonding. This approach suggests that many of our romantic behaviors and preferences have evolved to solve adaptive problems our ancestors faced, such as ensuring the survival of offspring. For example, the tendency for men to be attracted to signs of fertility in women, or for women to be attracted to men who display signs of resource acquisition, can be seen as evolutionarily advantageous traits.
 
@@ -55,7 +55,7 @@ Understanding these psychological aspects of love can help individuals navigate 
 
 ## 2\. Biology of Attraction and Love
 
-# <img src="/assets/images/cycle-of-love/media/rick.jpg" style="width:8.3704in;height:5.33056in" />
+# <img src="/assets/images/cycle-of-love/media/rick.jpg" />
 
 While Rick's cynical view in "Rick and Morty" reduces love to a mere biological imperative, the reality is far more complex. Love indeed involves a cascade of neurochemicals, but these biological processes create experiences that are profoundly meaningful to us as conscious beings.
 
@@ -76,7 +76,7 @@ Even if love begins with a "chemical reaction", it evolves into something far mo
 
 ## 3\. Spiritual Dimension of Love: A Path to Higher Consciousness
 
-# <img src="/assets/images/cycle-of-love/media/spiritual_love.jpg" style="width:8.3704in;height:5.33056in" />
+# <img src="/assets/images/cycle-of-love/media/spiritual_love.jpg" />
 
 Love, in its purest form, transcends the psychological and biological realms, touching upon the very essence of our spiritual nature. Many spiritual traditions across the world recognize love as a powerful force for personal growth, enlightenment, and connection to the divine. This spiritual component of love can serve as a catalyst for profound transformation and spiritual progression.
 
@@ -213,7 +213,7 @@ The end of a romantic relationship can be a profoundly painful experience, often
 
 **Stages of Grief in Relationship Dissolution**
 
-# <img src="/assets/images/cycle-of-love/media/grief.jpg" style="width:8.3704in;height:5.33056in" />
+# <img src="/assets/images/cycle-of-love/media/grief.jpg" />
 
 Elizabeth Kübler-Ross’s five stages of grief—denial, anger, bargaining, depression, and acceptance—provide a framework for understanding the emotional turmoil experienced during a breakup. However, it’s essential to recognize that these stages are not linear; individuals may experience them in different orders, multiple times, or not at all. Moreover, the intensity of each stage varies from person to person.
 
@@ -265,4 +265,4 @@ In the words of the poet Rumi, _"Your task is not to seek for love, but merely t
 
 To close, one of my favorite poems on Love is by IN-Q called “_All your Light”_. This poem explores the complexities of romantic love, highlighting the importance of vulnerability and authenticity in building a lasting connection. He effectively highlights the pain of keeping his heart guarded and the fear of revealing his true self. Emphasizing the need for both partners to meet halfway, embracing both the light and dark sides of their personalities. Ultimately, the poem suggests that true love can only flourish when both individuals are willing to take risks and share their deepest selves. It offers a poignant and insightful reflection on the complexities of romantic love. It reminds us that true love requires both courage and vulnerability, and that the rewards of a genuine connection are worth the risks.
 
-# <img src="/assets/images/cycle-of-love/media/all_your_light.jpg" style="width:8.3704in;height:5.33056in" />
+# <img src="/assets/images/cycle-of-love/media/all_your_light.jpg" />
