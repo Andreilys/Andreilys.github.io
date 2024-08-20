@@ -1,11 +1,10 @@
 ---
 layout: post
-title: "Thriving in the Subscription Economy: A Data Scientist’s Playbook"
-description: "This guide unveils the dynamic subscription economy, highlighting the pivotal role of data scientists in driving growth, retention, and revenue through strategic analysis, experimentation, and a data-driven culture."
+title: "The Cycle of Love: Embracing Romance and Recovering from Heartbreak"
+description: "In this article we’ll explore various aspects of love, including its psychological underpinnings, biological basis, and spiritual dimensions. We’ll also cover the stages of romantic relationships, from initial attraction to long-term commitment, and address common challenges couples face. Additionally we’ll examine the process of breakups, discussing the emotional and physical impacts, as well as healthy coping strategies. Throughout the article we’ll be drawing on scientific research, psychological theories, and cultural perspectives to provide a thorough understanding of love in its many forms."
 comments: true
-keywords: "data science"
+keywords: "Love"
 ---
-**The Cycle of Love: Embracing Romance and Recovering from Heartbreak**
 
 # <img src="/assets/images/cycle-of-love/media/header.jpg" style="width:5.3704in;height:5.33056in" />
 **Table of contents**
@@ -56,7 +55,7 @@ Understanding these psychological aspects of love can help individuals navigate 
 
 ## 2\. Biology of Attraction and Love
 
-# <img src="/assets/images/cycle-of-love/media/rick.jpg" style="width:5.3704in;height:5.33056in" />
+# <img src="/assets/images/cycle-of-love/media/rick.jpg" style="width:8.3704in;height:5.33056in" />
 
 While Rick's cynical view in "Rick and Morty" reduces love to a mere biological imperative, the reality is far more complex. Love indeed involves a cascade of neurochemicals, but these biological processes create experiences that are profoundly meaningful to us as conscious beings.
 
@@ -77,7 +76,7 @@ Even if love begins with a "chemical reaction", it evolves into something far mo
 
 ## 3\. Spiritual Dimension of Love: A Path to Higher Consciousness
 
-# <img src="/assets/images/cycle-of-love/media/spiritual_love.jpg" style="width:5.3704in;height:5.33056in" />
+# <img src="/assets/images/cycle-of-love/media/spiritual_love.jpg" style="width:8.3704in;height:5.33056in" />
 
 Love, in its purest form, transcends the psychological and biological realms, touching upon the very essence of our spiritual nature. Many spiritual traditions across the world recognize love as a powerful force for personal growth, enlightenment, and connection to the divine. This spiritual component of love can serve as a catalyst for profound transformation and spiritual progression.
 
@@ -214,7 +213,7 @@ The end of a romantic relationship can be a profoundly painful experience, often
 
 **Stages of Grief in Relationship Dissolution**
 
-# <img src="/assets/images/cycle-of-love/media/grief.jpg" style="width:5.3704in;height:5.33056in" />
+# <img src="/assets/images/cycle-of-love/media/grief.jpg" style="width:8.3704in;height:5.33056in" />
 
 Elizabeth Kübler-Ross’s five stages of grief—denial, anger, bargaining, depression, and acceptance—provide a framework for understanding the emotional turmoil experienced during a breakup. However, it’s essential to recognize that these stages are not linear; individuals may experience them in different orders, multiple times, or not at all. Moreover, the intensity of each stage varies from person to person.
 
@@ -266,4 +265,4 @@ In the words of the poet Rumi, _"Your task is not to seek for love, but merely t
 
 To close, one of my favorite poems on Love is by IN-Q called “_All your Light”_. This poem explores the complexities of romantic love, highlighting the importance of vulnerability and authenticity in building a lasting connection. He effectively highlights the pain of keeping his heart guarded and the fear of revealing his true self. Emphasizing the need for both partners to meet halfway, embracing both the light and dark sides of their personalities. Ultimately, the poem suggests that true love can only flourish when both individuals are willing to take risks and share their deepest selves. It offers a poignant and insightful reflection on the complexities of romantic love. It reminds us that true love requires both courage and vulnerability, and that the rewards of a genuine connection are worth the risks.
 
-# <img src="/assets/images/cycle-of-love/media/all_your_light.jpg" style="width:5.3704in;height:5.33056in" />
+# <img src="/assets/images/cycle-of-love/media/all_your_light.jpg" style="width:8.3704in;height:5.33056in" />
