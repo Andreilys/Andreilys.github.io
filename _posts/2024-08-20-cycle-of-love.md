@@ -6,7 +6,7 @@ comments: true
 keywords: "Love"
 ---
 
-# <img src="/assets/images/cycle-of-love/media/header.jpg" style="width:5.3704in;height:5.33056in" />
+# <img src="/assets/images/cycle-of-love/media/header.jpg" style="width:8.3704in;height:5.33056in" />
 **Table of contents**
 1. Psychology of Love
 2. Biology of Attraction and Love
