@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Beyond Attachment: The Journey from Emotional to Spiritual Love"
-description: "In this article we’ll explore various aspects of love, including its psychological underpinnings, biological basis, and spiritual dimensions. We’ll also cover the stages of romantic relationships, from initial attraction to long-term commitment, and address common challenges couples face. Additionally we’ll examine the process of breakups, discussing the emotional and physical impacts, as well as healthy coping strategies. Throughout the article we’ll be drawing on scientific research, psychological theories, and cultural perspectives to provide a thorough understanding of love in its many forms."
+description: "The article explores the historical evolution of love, contrasting the conditional nature of emotional love with the unconditional and universal nature of spiritual love. It provides practical guidance on cultivating spiritual love through meditation and acts of kindness."
 comments: true
 keywords: "Love"
 ---
