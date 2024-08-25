@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Cycle of Love: Embracing Romance and Recovering from Heartbreak"
+title: "Beyond Attachment: The Journey from Emotional to Spiritual Love"
 description: "In this article we’ll explore various aspects of love, including its psychological underpinnings, biological basis, and spiritual dimensions. We’ll also cover the stages of romantic relationships, from initial attraction to long-term commitment, and address common challenges couples face. Additionally we’ll examine the process of breakups, discussing the emotional and physical impacts, as well as healthy coping strategies. Throughout the article we’ll be drawing on scientific research, psychological theories, and cultural perspectives to provide a thorough understanding of love in its many forms."
 comments: true
 keywords: "Love"
