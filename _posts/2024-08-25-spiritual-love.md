@@ -10,7 +10,7 @@ keywords: "Love"
 
 Love, a fundamental human experience, has undergone numerous cultural shifts throughout history. As we explored in our [previous article on the cycle of love](https://www.andreilyskov.com/2024/cycle-of-love/), the concept of romantic love as we know it today is relatively recent in human history. It wasn't until the 12th century that poet-musicians, known as troubadours, began singing about an idealized, romanticized love that closely resembles our modern conception.
 
-This cultural evolution has primarily focused on interpersonal relationships and interactions, with countless books, movies, and songs celebrating the pursuit and experience of emotional love. From Shakespeare's sonnets to modern pop ballads, our culture is saturated with representations of romantic love as the pinnacle of human experience. This perspective often implies that without receiving such love, we are somehow incomplete or deprived of a crucial life experience. The pain of losing such love, especially when it's been a central part of our lives, can be devastating.
+This cultural evolution has primarily focused on interpersonal relationships and interactions, with countless books, movies, and songs celebrating the pursuit and experience of emotional love. From Shakespeare's sonnets to modern pop ballads, our culture is saturated with representations of romantic love as the pinnacle of human experience. This perspective often implies that without receiving such love, we are somehow incomplete or deprived of a crucial life experience. The pain of losing this love, especially when it's been a central part of our lives, can be devastating.
 
 ### The Nature of Emotional Love
 
@@ -24,7 +24,7 @@ It's important to note that emotional and spiritual love are not mutually exclus
 
 ### Transcending Attachment: The Realm of Spiritual Love
 
-To move beyond the limitations of attachment and the need for external validation, we can explore a higher plane of spiritual love. Ram Dass, in his book *"Be Love Now,*" refers to this state as the "heart-mind." This concept represents a fundamental shift in how we perceive and experience love. The characteristics of spiritual love involve the following:
+To move beyond the limitations of attachment and the need for external validation, we can explore a higher plane of spiritual love. Ram Dass, in his book *"Be Love Now,*" refers to this state as the "heart-mind." This concept represents a fundamental shift in how we perceive and experience love. The characteristics of spiritual love involves the following:
 
 1.  **Unconditional Nature**: Unlike emotional love, spiritual love doesn't depend on external circumstances or reciprocation.
 
