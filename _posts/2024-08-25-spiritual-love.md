@@ -6,7 +6,7 @@ comments: true
 keywords: "Love"
 ---
 
-# <img src="/assets/images/spiritual/love_header.jpg"/>
+# <img src="/assets/images/spiritual_love/love_header.jpg"/>
 
 Love, a fundamental human experience, has undergone numerous cultural shifts throughout history. As we explored in our [[previous article on the cycle oflove]{.underline}](https://www.andreilyskov.com/2024/cycle-of-love/), the concept of romantic love as we know it today is relatively recent in human history. It wasn't until the 12th century that poet-musicians, known as troubadours, began singing about an idealized, romanticized love that closely resembles our modern conception.
 
@@ -60,4 +60,4 @@ By implementing these practices and cultivating the heart-mind, we can move towa
 
 As we continue to explore and inhabit this spiritual dimension of love, we may find that our capacity for connection, empathy, and understanding expands far beyond what we previously thought possible. In doing so, we not only transform our own lives but contribute to a more loving and compassionate world for all.
 
-# <img src="/assets/images/spiritual/love_never_ends.jpg"/>
+# <img src="/assets/images/spiritual_love/love_never_ends.jpg"/>
