@@ -8,7 +8,7 @@ keywords: "Love"
 
 # <img src="/assets/images/spiritual_love/love_header.jpg"/>
 
-Love, a fundamental human experience, has undergone numerous cultural shifts throughout history. As we explored in our [previous article on the cycle oflove](https://www.andreilyskov.com/2024/cycle-of-love/), the concept of romantic love as we know it today is relatively recent in human history. It wasn't until the 12th century that poet-musicians, known as troubadours, began singing about an idealized, romanticized love that closely resembles our modern conception.
+Love, a fundamental human experience, has undergone numerous cultural shifts throughout history. As we explored in our [previous article on the cycle of love](https://www.andreilyskov.com/2024/cycle-of-love/), the concept of romantic love as we know it today is relatively recent in human history. It wasn't until the 12th century that poet-musicians, known as troubadours, began singing about an idealized, romanticized love that closely resembles our modern conception.
 
 This cultural evolution has primarily focused on interpersonal relationships and interactions, with countless books, movies, and songs celebrating the pursuit and experience of emotional love. From Shakespeare's sonnets to modern pop ballads, our culture is saturated with representations of romantic love as the pinnacle of human experience. This perspective often implies that without receiving such love, we are somehow incomplete or deprived of a crucial life experience. The pain of losing such love, especially when it's been a central part of our lives, can be devastating.
 
