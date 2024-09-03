@@ -5,7 +5,6 @@ description: "Psycho-cognitive security is the practice of safeguarding one's mi
 comments: true
 keywords: "psychology"
 ---
-![][image1]
 # <img src="/assets/images/psycho-cog-security/psycho-cognitive-security.jpg"/>
 
 In the vast landscape of human knowledge, not all ideas are benign. Some concepts, once encountered, can leave a mark on our psyche, challenging our worldview or even causing psychological distress. This phenomenon, known as an information hazard, is best illustrated in 2010 when Eliezer Yudkowsky, a prominent figure in the rationalist community, took the extraordinary step of banning a post on the LessWrong forum. The post in question discussed a thought experiment known as [Roko’s basilisk](https://en.wikipedia.org/wiki/Roko%27s\_basilisk), which posits a future artificial superintelligence that might punish those who failed to aid its creation.
