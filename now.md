@@ -4,30 +4,20 @@ title: What I'm Doing Now
 permalink: /now/
 ---
 
-Updated December 29, 2021, from Los Angeles, California
+Updated October 26, 2025, From San Francisco, California
 <hr>
 
-A few months ago I made the jump into Crypto by joining Coinbase as a data scientist in the Save & Spend function. It's been an interesting few months, /
+I’m a Senior Data Scientist at Meta within the FinTech organization. Here I'm helping shape the future of subscriptions as a new revenue source for Meta, while building systems that empower creators, foster sustainable growth, and expand the way people exchange value across Meta’s ecosystem.
 
-These days most of my time is spent working as a product data scientist at Apple, focusing on App Store personalization. This is a role I transitioned to in August, proving itself to be a great opportunity to improve my engineering chops, and pickup Scala as my main programming language.
+I’m still obsessed with data-rich product design, especially how we can give builders better instrumentation for subscription health. That curiosity dovetails with exploring how AI-native tooling reshapes incentives inside large platforms and what responsible automation looks like when you’re shepherding people’s livelihoods.
 
-Coinciding with transitioning into my new role at Apple, I moved south from Cupertino to San Diego. I can see why people who live in San Diego are so hesitant to leave, as it's quickly become one of my favorite places to live. It's not uncommon for me to go on 2 hour walks along the coastline, listening to the waves, audiobooks and podcasts. 
+I’m keeping a steady practice of mapping the societal ripples of accelerating AI, from how new capabilities consolidate power to the political turbulence that follows, and I pair that with essays on practical systems thinking for operators.
 
-In my free time I've been continuing to write, learn piano, rediscover my love for chess, practice yoga and explore alternative methods of meditation. 
+On the inner work front I’m continuing to write about psychological resilience and spiritual practice. I’m cultivating pronoia, defending our minds from information hazards, and mapping the terrain of love from biological to mystical dimensions.
 
-Books I'm currently reading include:
-- Robin by Dave Itzkoff
-- The Body Keeps The Score by Bessel van der Kolk
-- Hyperion by Dan Simmons
-- In The Realm of Hungry Ghosts by Gabor Mate
-- Impro by Keith Johnstone
-- The Ethics of Ambiguity by Simone De Beauvoir
-- Fear & Trembling by Kierkeggard
-- Chimpanzee Politics by Frans de Waal
-- Madness and Civilization by Foucault
-- Simulacra and Simulation by Jean Baudrillard
+Goodreads highlights from this season:
 
-Checkout my [personal dashboard](https://qself-dashboard.herokuapp.com/) to see what I've been up to more recently.
-
+- Recently finished: *Building the Cathedral* by Sadie Alwyn Moon, *The Russo-Ukrainian War* by Serhii Plokhy, and *Light Bringer* by Pierce Brown.
+- Currently reading: *Being Ram Dass* by Ram Dass, *Awareness* by Anthony De Mello, and *The End of the World Is Just the Beginning* by Peter Zeihan.
 
 *This page is inspired by Derek Sivers and the [Now](https://sivers.org/now) movement*
