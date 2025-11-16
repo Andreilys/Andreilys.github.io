@@ -23,7 +23,7 @@ On paper my life looked great, I had worked at several large technology companie
 
 I knew deep down that I was practicing transcendence as a subtle form of escape. Dissociation from my body disguised as spirituality. I knew the concept of spiritual materialism intimately: the temptation to curate mystical milestones rather than actually change. Was I healing, or simply stockpiling experiences to fortify a spiritual identity?
 
-When I first read *The Body Keeps the Score*, the title alone hooked me and made me realize I was neglecting one of the most important parts of my life. My body had been keeping score since before I could speak. An immigrant son inheriting conflicts that my ancestors never metabolized. My bloodline carries Kyiv winters, the hard, stoicism of men shaped by trenches, famines, and Soviet totalitarianism. I come from people who survived conscription, occupation, and winters that taught the body to tighten before it could feel. Affection was rationed like sugar, softness was a liability. 
+When I first read *The Body Keeps the Score*, the title alone hooked me and made me realize I was neglecting one of the most important parts of my life. My body had been keeping score since before I could speak. An immigrant son inheriting conflicts that my ancestors never metabolized. I come from people who survived conscription, occupation, and winters that taught the body to tighten before it could feel. Affection was rationed like sugar, softness was a liability. 
 
 But survival is an instinctive tightening, not a life. My ancestors endured so I could do more than brace. I inherited their grit, but not their ceilings. Where they mastered endurance, I have the rare chance to learn aliveness and how to truly thrive.
 
