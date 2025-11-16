@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "The Body Speakse"
-description: "This article explores my experience with somatic bodywork."
+title: "The Body Speaks"
+description: "This post explores my experience with somatic bodywork."
 comments: true
 keywords: "wellness"
 ---
