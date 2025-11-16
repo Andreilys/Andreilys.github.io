@@ -5,8 +5,6 @@ description: "This post explores my experience with somatic bodywork."
 comments: true
 keywords: "wellness"
 ---
-# **The Body Speaks**
-
 I lived most of my life in my head, analytical and cerebral. I developed a love of books from a young age and when I was ten, I read *A* *New Earth* by Eckhart Tolle. This book cracked something open in me and set me on the spiritual path that I continue to follow today. 
 
 However in those early days, I believed liberation was found in my mind. My body became an inconvenience, an instrument to override. I pushed the idea to parody, with a job at Soylent, where I lived almost entirely on liquid nutrition, convinced that efficiency could replace embodiment and that the act of eating was a deficiency to overcome rather than sacred nourishment for my body. Aches from my body weren’t a message but an error signal to suppress. The mind ruled, everything else was subservient.
