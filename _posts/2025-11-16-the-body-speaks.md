@@ -11,7 +11,7 @@ However in those early days, I believed liberation was found in my mind. My body
 
 I was wrong. And my body knew it long before I did.
 
-By the time I found Fred Mitoeur, an internationally renowned bodyworker with over 50 years of practice, I had spent 15 years exploring various health and wellness practices, I had gone on several retreats, explored ancient esoteric lineages, gone deep into biohacking and had a number of profound spiritual experiences.
+By the time I found Fred Mitouer, an internationally renowned bodyworker with over 50 years of practice, I had spent 15 years exploring various health and wellness practices, I had gone on several retreats, explored ancient esoteric lineages, gone deep into biohacking and had a number of profound spiritual experiences.
 
 I did not arrive in somatic work in crisis. A friend spoke about his sessions with Fred with the kind of conviction you can’t fake, so I looked up [Somatic Agency](https://www.somaticagency.net/) and thought: why not? It felt like the next frontier, just another waypoint on a long map of inner expeditions I’d already been charting.
 
