@@ -95,7 +95,7 @@ The body was not an obstacle. It was the oracle I ignored. The creature is wiser
 
 I am thirty.  
 
-I’m not running on my old frantic over stimulated tempo anymore. I’ve built small rituals that let me actually check in with my body instead of overriding it. A quiet morning tea isn’t a productivity hack anymore, it’s a way to drop in. I sit, ask my body what it wants, and wait long enough to hear something real. Often it asks for pace, warmth, a slower inhale, the simple pleasure of a good meal or the scent of a flower I would’ve rushed past.
+No longer moving at that old, jittery, over-stimulated cadence. I’ve built small rituals that let me actually check in with my body instead of overriding it. A quiet morning tea isn’t a productivity hack anymore, it’s a way to drop in. I sit, ask my body what it wants, and wait long enough to hear something real. Often it asks for pace, warmth, a slower inhale, the simple pleasure of a good meal or the scent of a flower I would’ve rushed past.
 
 I’ve also begun tracking the subtler readings: how my stomach tightens around certain people, how my breath settles with others, the electricity in my body after a conversation that actually feeds me. These signals were always there, I was just too fast and in my head to register them. 
 
