@@ -292,3 +292,45 @@ hr {
     }
   }
 }
+
+.correlation-meta {
+  margin: $small-spacing 0;
+
+  p {
+    margin: 0 0 0.4em 0;
+  }
+}
+
+.correlation-note {
+  color: $medium-gray-color;
+  font-size: rem(14);
+}
+
+.correlation-empty {
+  color: $medium-gray-color;
+  font-style: italic;
+}
+
+.correlation-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.correlation-item {
+  padding: 1em 0;
+  border-bottom: 1px solid lighten($light-gray-color, 7%);
+
+  h3 {
+    margin: 0 0 0.4em 0;
+  }
+
+  p {
+    margin: 0 0 0.3em 0;
+  }
+}
+
+.correlation-stats {
+  color: $medium-gray-color;
+  font-size: rem(14);
+}
