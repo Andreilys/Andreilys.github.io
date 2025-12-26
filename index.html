@@ -7,6 +7,10 @@ title: Home
 
 <section class="post-list">
   <div class="container">
+    <div class="home-date-nav" data-home-date-nav>
+      <span class="home-date-label" data-home-date-label></span>
+      <span class="home-date-hint">Swipe left or right to move through history.</span>
+    </div>
     {% for post in site.posts %}
       {% unless post.next %}
         <h2 class="category-title">{{ post.date | date: '%Y' }}</h2>
@@ -17,7 +21,7 @@ title: Home
           <h2 class="category-title">{{ post.date | date: '%Y' }}</h2>
         {% endif %}
       {% endunless %}
-      <article class="post-item">
+      <article class="post-item" data-post-date="{{ post.date | date: '%B %-d, %Y' }}">
         <span class="post-meta date-label">{{ post.date | date: "%b %d" }}</span>
         <div class="article-title"><a class="post-link" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a></div>
       </article>

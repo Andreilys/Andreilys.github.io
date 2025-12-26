@@ -158,6 +158,38 @@ hr {
 
 }
 
+.home-date-nav {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25em;
+  padding: 0.75em 0;
+  margin-bottom: 1em;
+  border-bottom: 1px dashed lighten($light-gray-color, 10%);
+}
+
+.home-date-label {
+  font-size: rem(16);
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.home-date-hint {
+  font-size: rem(12);
+  color: $medium-gray-color;
+}
+
+.post-item.is-active {
+  .date-label {
+    color: $dark-gray-color;
+    font-weight: 600;
+  }
+
+  .article-title a {
+    color: darken($action-color, 6%);
+  }
+}
+
 .post-meta {
   color: $medium-gray-color;
   text-transform: uppercase;
