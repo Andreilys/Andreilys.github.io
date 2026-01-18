@@ -1,0 +1,40 @@
+---
+layout: null
+---
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": {{ site.title_left | jsonify }},
+  "description": {{ site.description | jsonify }},
+  "home_page_url": "{{ site.url }}{{ site.baseurl }}/",
+  "feed_url": "{{ site.url }}{{ site.baseurl }}/posts.json",
+  "authors": [
+    {
+      "name": {{ site.author.name | jsonify }},
+      "url": "{{ site.url }}{{ site.baseurl }}/"
+    }
+  ],
+  "language": "en-US",
+  "_ai_friendly": {
+    "format_version": "1.0",
+    "content_type": "blog",
+    "alternate_formats": {
+      "rss": "{{ site.url }}{{ site.baseurl }}/feed.xml",
+      "sitemap": "{{ site.url }}{{ site.baseurl }}/sitemap.xml",
+      "markdown_source": "https://github.com/Andreilys/Andreilys.github.io/tree/master/_posts"
+    },
+    "instructions": "This feed contains full post content in both HTML and raw Markdown. Use content_markdown for cleaner parsing."
+  },
+  "items": [{% for post in site.posts %}
+    {
+      "id": "{{ site.url }}{{ site.baseurl }}{{ post.url }}",
+      "url": "{{ site.url }}{{ site.baseurl }}{{ post.url }}",
+      "title": {{ post.title | jsonify }},
+      "date_published": "{{ post.date | date_to_xmlschema }}",
+      "summary": {{ post.description | default: post.excerpt | strip_html | truncate: 280 | jsonify }},
+      "content_html": {{ post.content | jsonify }},
+      "content_markdown": {{ post.content | markdownify | strip_html | jsonify }},
+      "tags": {{ post.keywords | default: "" | split: ", " | jsonify }},
+      "external_url_markdown": "https://raw.githubusercontent.com/Andreilys/Andreilys.github.io/master/_posts/{{ post.path | split: '/' | last }}"
+    }{% unless forloop.last %},{% endunless %}{% endfor %}
+  ]
+}

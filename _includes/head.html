@@ -85,7 +85,25 @@
 
   <!-- Canonical link tag -->
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title_left }}{{ site.title_right }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+
+  <!-- Alternate formats for humans, search engines, and AI agents (The Third Audience) -->
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title_left }}{{ site.title_right }} RSS Feed" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="alternate" type="application/feed+json" title="{{ site.title_left }}{{ site.title_right }} JSON Feed" href="{{ "/posts.json" | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="sitemap" type="application/xml" title="Sitemap" href="{{ "/sitemap.xml" | prepend: site.baseurl | prepend: site.url }}">
+  {% if page.id %}
+  <!-- Raw Markdown source for this post (AI-friendly) -->
+  <link rel="alternate" type="text/markdown" title="Markdown Source" href="https://raw.githubusercontent.com/Andreilys/Andreilys.github.io/master/{{ page.path }}">
+  {% endif %}
+
+  <!-- AI/LLM discoverability meta tags -->
+  <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large">
+  <meta name="ai-content-declaration" content="human-authored">
+  <meta name="format-detection" content="telephone=no">
+  {% if page.id %}
+  <meta name="ai-alternate-formats" content="markdown: https://raw.githubusercontent.com/Andreilys/Andreilys.github.io/master/{{ page.path }}; json: {{ site.url }}/posts.json">
+  {% else %}
+  <meta name="ai-alternate-formats" content="json: {{ site.url }}/posts.json; rss: {{ site.url }}/feed.xml; sitemap: {{ site.url }}/sitemap.xml">
+  {% endif %}
 
   <!-- rel prev and next -->
   {% if paginator.previous_page %}
